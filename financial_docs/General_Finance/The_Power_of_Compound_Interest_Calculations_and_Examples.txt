@@ -1,0 +1,204 @@
+Title: The Power of Compound Interest: Calculations and Examples
+Source: https://www.investopedia.com/terms/c/compoundinterest.asp
+Category: General_Finance
+--------------------
+Compound interest refers to earning interest on both a principle balance and any previously accumulated interest; you're earning interest on interest.
+
+Key Takeaways Compound interest means earning interest on both your original principal and accumulated interest over time, i.e., "interest on interest."
+
+Compounding interest multiplies your savings or debt at an accelerated rate.
+
+The Rule of 72 (or 72 ÷ interest rate) helps estimate how long it takes for money to double under compounding.
+
+
+
+Interest can be compounded on a variety of frequencies, such as daily, monthly, quarterly, or annually.
+
+The higher the number of compounding periods, the larger the effect of compounding.
+
+Many account types offer compound interest, including high-yield savings accounts and CDs.
+
+What Is Compound Interest?
+
+Compound interest is interest that is added to the initial principal of a deposit, investment, or loan, thereby increasing the balance and, in turn, increasing the amount of interest earned or paid in the next period.
+
+The power of compounding helps a sum of money grow faster than if just simple interest were calculated on the principal alone. The greater the number of compounding periods, the greater the compound interest growth will be. For savings and investments, compound interest is your friend, as it multiplies your money at an accelerated rate. But if you have debt, compounding interest can make it increasingly difficult to pay off.
+
+Time makes a big difference with compounding interest. Starting to save even a few years early can earn you more money in the long run. Investopedia / Julie Bang
+
+How Compound Interest Works
+
+Compound interest is calculated by multiplying the initial principal amount by one plus the annual interest rate raised to the number of compound periods minus one.
+
+The total initial principal or amount of the loan is then subtracted from the resulting value.
+
+Katie Kerpel {Copyright} Investopedia, 2019.
+
+The formulas for calculating compound interest are:
+
+= [P (1 + i)n] – P
+
+or
+
+= P [(1 + i)n – 1]
+
+Where:
+
+P = principal
+
+i = annual interest rate
+
+n = number of compounding periods
+
+For example, if you had a 3-year loan of $10,000 at an interest rate of 5%, compounding annually. What would be the amount of interest? In this case, using the latter formula, it would be:
+
+$10,000 [ ( 1 + 0.05 )3 – 1 ] = $10,000 [ 1.157625 – 1 ] = $1,576.25
+
+Tip The Rule of 72 is another way to estimate compound interest. If you divide 72 by your rate of return, you find out how long it will take for your money to double in value. For example, if you have $100 that was earning a 4% return, it would grow to $200 in 18 years (72 / 4 = 18).
+
+The Power of Compound Interest
+
+Because compound interest includes interest accumulated in previous periods, it grows at an ever-accelerating rate. In the example above, though the total interest payable over the loan's three years is $1,576.25, the interest amount is not the same as it would be with simple interest. The interest payable at the end of each year is shown in the table below.
+
+Compound interest can significantly boost investment returns over the long term. Over 10 years, a $100,000 deposit receiving 5% simple annual interest would earn $50,000 in total interest. But if the same deposit had a monthly compound interest rate of 5%, interest would add up to about $64,700. While compound interest is interest-on-interest, cumulative interest is the addition of all interest payments.
+
+Tip Order your copy of Investopedia's What To Do With $10,000 magazine for more wealth-building advice.
+
+Compounding Interest Periods
+
+Compounding periods are the intervals at which interest is added to the balance. Interest can be compounded annually, semi-annually, quarterly, monthly, daily, continuously, or on any other basis.
+
+Interest on an account may accrue daily, but is only credited monthly. Only when the interest is credited, or added to the existing balance does the interest begin to earn additional interest. Standard compounding frequency schedules are usually applied to financial instruments:
+
+Savings accounts and money market accounts : The commonly used compounding schedule for savings accounts at banks is daily.
+
+: The commonly used compounding schedule for savings accounts at banks is daily. Certificate of deposit (CD) : Typical CD compounding frequency schedules are daily or monthly.
+
+: Typical CD compounding frequency schedules are daily or monthly. Series I bonds : Interest is compounded semi-annually, or every six months.
+
+: Interest is compounded semi-annually, or every six months. Loans: For many loans, interest is often compounded monthly. But it may be referred to differently, such as "interest capitalization" for student loans.
+
+For many loans, interest is often compounded monthly. But it may be referred to differently, such as "interest capitalization" for student loans. Credit cards: Credit card interest is often compounded daily, which can quickly add up.
+
+
+
+Fast Fact Some banks also offer continuously compounding interest, which adds interest to the principal as regularly as possible. For practical purposes, it doesn’t accrue that much more than daily compounding interest unless you want to put money in and take it out on the same day.
+
+Compounding Period Frequency
+
+More frequent compounding of interest benefits the investor or creditor. The opposite is true for borrowers. The basic rule is that the higher the number of compounding periods, the greater the amount of compound interest.
+
+The more often interest compounds, investors or lenders earn more money. But it also means borrowers pay more. Put simply, more compounding periods create more interest.
+
+The following table demonstrates the difference that the number of compounding periods can make for a $10,000 loan with an annual 10% interest rate over 10 years.
+
+Example of Compound Interest
+
+Young people often neglect to save for retirement. They may have other expenses they feel are more urgent, as they have more time to save. Yet the earlier you start saving, the more compounding interest can work in your favor, even with relatively small amounts. Saving small amounts can pay off massively down the road, far more than saving higher amounts later in life. Here's one example of its effect. Let's say you start saving $100 a month at age 20. You earn an average annual interest rate of 4%, compounded monthly, over 40 years. You earn $151,550 by age 65. Your principal investment was $54,100.
+
+Your twin doesn't begin investing until age 50. They initially invest $5,000, then $500 monthly for 15 years, and they also average a monthly compounded 4% return. By age 65, your twin has only earned $132,147, with a principal investment of $95,000.
+
+When you hit your 45-year savings mark—and your twin would have saved for 15 years—your twin will have less, although they would have invested roughly twice your principal investment.
+
+The same logic applies to opening an individual retirement account (IRA) and taking advantage of an employer-sponsored retirement account, such as a 401(k) or 403(b) plan. Start early and be consistent with your payments to get the maximum power of compounding.
+
+
+
+Pros and Cons of Compound Interest
+
+Pros Can help build wealth long-term in savings and investments
+
+Mitigates wealth erosion risks
+
+Compounding can work for you when making loan repayments Cons Works against consumers making minimum payments on high-interest loans or credit card debts
+
+Returns are taxable
+
+Challenging to calculate
+
+Advantages Explained
+
+Can help build wealth long-term in savings and investments : Compounding works to your advantage when it comes to your investments and savings, as your returns earn returns.
+
+: Compounding works to your advantage when it comes to your investments and savings, as your returns earn returns. Mitigates wealth erosion risks : Compounding interest's exponential growth is also important in mitigating wealth-eroding factors, such as increases in the cost of living, or inflation that reduces purchasing power.
+
+: Compounding interest's exponential growth is also important in mitigating wealth-eroding factors, such as increases in the cost of living, or inflation that reduces purchasing power. Compounding can work for you when making loan repayments: When you make more than your minimum payment, you can leverage the power of compounding to save on total interest.
+
+Disadvantages Explained
+
+Works against consumers making minimum payments on high-interest loans or credit card debts : If you only pay the minimum, your balance could continue growing exponentially as a result of compounding interest. This is how people get trapped in a "debt cycle."
+
+: If you only pay the minimum, your balance could continue growing exponentially as a result of compounding interest. This is how people get trapped in a "debt cycle." Returns are taxable : Earnings from compound interest are taxable at your tax bracket unless the money is in a tax-sheltered account.
+
+: Earnings from compound interest are taxable at your tax bracket unless the money is in a tax-sheltered account. Challenging to calculate: Calculating simple interest is fairly easy, but calculating compounding interest requires more math. It may be easiest to use an online calculator.
+
+
+
+Compound Interest in Investing
+
+An investor opting for a brokerage account's dividend reinvestment plan (DRIP) is essentially using the power of compounding in their investments.
+
+Tip Assets that have dividends, like dividend stocks or mutual funds, offer a one-way for investors to take advantage of compound interest. Reinvested dividends are used to purchase more shares of the asset. Then, more interest can grow on a larger investment.
+
+Investors can also earn compounding interest by purchasing a zero-coupon bond. Traditional bond issues provide investors with periodic interest payments based on the original terms of the bond issue. Because these payments are made in check form, the interest does not compound.
+
+Zero-coupon bonds don't send interest checks to investors. Instead, investors buy it at a discount to its original value, and it grows over time. Issuers use compounding to increase the bond's value so it reaches its full price at maturity.
+
+
+
+Tools for Calculating Compound Interest
+
+You can use several tools to help you calculate compound interest, including Microsoft Excel, which you can use in three different ways:
+
+Approach One: Multiplication
+
+The first way to calculate compound interest is to multiply each year’s new balance by the interest rate.
+
+Suppose you deposit $1,000 into a savings account with a 5% interest rate that compounds annually, and you want to calculate the balance in five years.
+
+In Microsoft Excel, enter “Year” into cell A1 and “Balance” into cell B1. Enter years 0 to 5 into cells A2 through A7. The balance for year 0 is $1,000, so you would enter “1000” into cell B2. Next, enter “=B2*1.05” into cell B3. Then enter “=B3*1.05” into cell B4 and continue to do this until you get to cell B7. In cell B7, the calculation is “=B6*1.05”. Finally, the calculated value in cell B7—$1,276.28—is the balance in your savings account after five years. To find the compound interest value, subtract $1,000 from $1,276.28; this gives you a value of $276.28.
+
+Approach Two: Fixed Formula
+
+The second way to calculate compound interest is to use a fixed formula.
+
+The compound interest formula is [ ( P ( 1 + i )n ) - P ], where P is the principal, i is the annual interest rate, and n is the number of periods.
+
+Using the same financial information as in Approach One, enter “Principal value” into cell A1 and “1000” into cell B1. Next, enter “Interest rate” into cell A2 and “.05” into cell B2. Enter “Compound periods” into cell A3 and “5” into cell B3. Now you can calculate the compound interest in cell B4 by entering “=(B1*(1+B2)^B3)-B1”, which gives you $276.28.
+
+
+
+Approach Three: Macro Function
+
+A third way to calculate compound interest is to create a macro function.
+
+First, start the Visual Basic Editor, which is located in the Developer tab. Click the Insert menu, and click on “Module.” Then type “Function Compound_Interest (P As Double, I As Double, N As Double) As Double” in the first line. On the second line, hit the tab key and type in “Compound_Interest = (P*(1+i)^n) - P.” On the third line of the module, enter “End Function.” You have created a function macro to calculate the compound interest rate. Continuing from the same Excel worksheet above, enter “Compound interest” into cell A6 and enter “=Compound_Interest(B1, B2, B3).” This gives you a value of $276.28, which is consistent with the first two values.
+
+Online Calculators for Compound Interest
+
+You can also use several free compound interest calculators online.
+
+
+
+Investor.gov Compound Interest Calculator : The U.S. Securities and Exchange Commission (SEC) offers a free online compound interest calculator. It is fairly simple and lets you input additional monthly deposits to the principal, so you can calculate earnings when you deposit additional monthly savings.
+
+: The U.S. Securities and Exchange Commission (SEC) offers a free online compound interest calculator. It is fairly simple and lets you input additional monthly deposits to the principal, so you can calculate earnings when you deposit additional monthly savings. TheCalculatorSite.com Compound Interest Calculator : This calculator lets you calculate using five different currencies, factoring in monthly deposits or withdrawals, along with the automatic calculation of inflation-adjusted increase options for monthly deposits or withdrawals.
+
+: This calculator lets you calculate using five different currencies, factoring in monthly deposits or withdrawals, along with the automatic calculation of inflation-adjusted increase options for monthly deposits or withdrawals. Council for Economic Education Compound Interest Calculator: This calculator is geared toward students and demonstrates the long-term power of compounding. Enter your age, annual interest rate, initial investment, and monthly savings. The resulting graph shows your money growing over time and the difference between total earnings and principal.
+
+How Can I Tell if Interest Is Compounded? The Truth in Lending Act (TILA) requires that lenders disclose loan terms to potential borrowers, including the total dollar amount of interest to be repaid over the life of the loan and whether interest accrues simply or is compounded.
+
+
+
+What Is a Simple Definition of Compound Interest? Compound interest simply means you're earning interest on both your original saved money plus any interest you earn on that original amount. Although the term "compound interest" includes the word interest, the concept applies beyond interest-bearing bank accounts and loans, including investments such as mutual funds.
+
+
+
+Who Benefits From Compound Interest? Compound interest benefits investors across the spectrum. Banks benefit from compound interest by lending money and reinvesting the interest received into additional loans. Depositors benefit from compound interest as well, receiving interest on their bank accounts, bonds, or other investments.
+
+The Bottom Line
+
+The long-term effect of compound interest on savings and investments is indeed powerful. Because it grows your money much faster than simple interest, compound interest is a central factor in increasing wealth. It also mitigates the rising cost of living caused by inflation.
+
+For young people, compound interest offers a chance to take advantage of the time value of money. Remember that when choosing your investments, the number of compounding periods is just as important as the interest rate.
+

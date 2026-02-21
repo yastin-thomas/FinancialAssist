@@ -1,0 +1,40 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\yasti\projects\FinancialAssist
+plugins: anyio-4.12.1, langsmith-0.7.3, cov-7.0.0, mock-3.15.1
+collected 23 items
+
+tests\test_tools.py ...................                                  [ 82%]
+tests\test_embedding.py ....                                             [100%]
+
+============================== warnings summary ===============================
+myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25
+  C:\Users\yasti\projects\FinancialAssist\myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+    from pydantic.v1.fields import FieldInfo as FieldInfoV1
+
+<frozen importlib._bootstrap>:491
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+
+<frozen importlib._bootstrap>:491
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+
+<frozen importlib._bootstrap>:491
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.14.2-final-0 _______________
+
+Name                 Stmts   Miss  Cover   Missing
+--------------------------------------------------
+src\__init__.py          0      0   100%
+src\agents.py           25     25     0%   1-100
+src\embedding.py        40      1    98%   63
+src\main.py            179    179     0%   1-290
+src\scrape_data.py      48     48     0%   1-150
+src\tools.py           123      2    98%   20-21
+src\utils.py             0      0   100%
+src\workflow.py         62     62     0%   1-123
+--------------------------------------------------
+TOTAL                  477    317    34%
+======================= 23 passed, 4 warnings in 18.22s =======================

@@ -1,0 +1,143 @@
+Title: Roth IRA: What It Is and How to Open One
+Source: https://www.investopedia.com/terms/r/rothira.asp
+Category: Retirement
+--------------------
+Do You Qualify for a Roth IRA in 2025? Filing Status Income Range for 2025 Contribution Married and filing a joint tax return Full: Less than $236,000 Partial: From $236,000 to less than $246,000 Married, filing a separate tax return, lived with spouse at any time during the year Full: $0 Partial: Less than $10,000 Single, head of household, or married filing separately without living with spouse at any time during the year Full: Less than $150,000 Partial: From $146,000 to less than $165,000
+
+The Spousal Roth IRA
+
+One way that a couple can boost their contributions is with a spousal Roth IRA. An individual may fund a Roth IRA on behalf of their married partner, who earns little or no income. Spousal Roth IRA contributions are subject to the same rules and limits as regular Roth IRA contributions. The spousal Roth IRA is held separately from the Roth IRA of the individual making the contribution, as Roth IRAs cannot be joint accounts.
+
+For an individual to be eligible to make a spousal Roth IRA contribution, the following requirements must be met:
+
+The couple must be married and file a joint tax return.
+
+The individual making the spousal Roth IRA contribution must have eligible compensation.
+
+The total contribution for both spouses must not exceed the taxable compensation reported on their joint tax return.
+
+Contributions to one Roth IRA cannot exceed the contribution limits for one IRA (however, the two accounts allow the family to double their annual savings).
+
+Withdrawals: Qualified Distributions
+
+At any time during the tax year, you may withdraw contributions from your Roth IRA, both tax and penalty-free. If you take out only an amount equal to the sum that you’ve put in, then the distribution is not considered taxable income and is not subject to penalty, regardless of your age or how long it has been in the account.
+
+However, there’s a catch when it comes to withdrawing account earnings—any returns that the account has generated. For the distribution of account earnings to be considered a qualified distribution, it must occur at least five years after the Roth IRA owner established and funded their first Roth IRA, and the distribution must occur under at least one of the following conditions:
+
+The Roth IRA holder is at least age 59½ when the distribution occurs.
+
+The distributed assets are used toward purchasing—or building or rebuilding—a first home for the Roth IRA holder or a qualified family member (the IRA owner’s spouse, a child of the IRA owner or of the IRA owner’s spouse, a grandchild of the IRA owner and/or of their spouse, or a parent or other ancestor of the IRA owner or of their spouse). This is limited to $10,000 per lifetime.
+
+The distribution occurs after the Roth IRA holder becomes disabled.
+
+The assets are distributed to the beneficiary of the Roth IRA holder after the Roth IRA holder’s death.
+
+The Five-Year Rule
+
+Withdrawal of earnings may be subject to taxes and/or a 10% penalty, depending on your age and whether you’ve met the five-year rule. Here’s a quick rundown.
+
+If you meet the five-year rule:
+
+Under age 59½ : Earnings are subject to taxes and penalties. You may be able to avoid taxes and penalties if you use the money for a first-time home purchase (a $10,000 lifetime limit applies) or if you have a permanent disability. If you pass away and your beneficiary takes the distribution, taxes and penalties may also be avoided.
+
+: Earnings are subject to taxes and penalties. You may be able to avoid taxes and penalties if you use the money for a first-time home purchase (a $10,000 lifetime limit applies) or if you have a permanent disability. If you pass away and your beneficiary takes the distribution, taxes and penalties may also be avoided. Ages 59½ and older: There are no taxes or penalties.
+
+If you don’t meet the five-year rule:
+
+Under age 59½ : Earnings are subject to taxes and penalties. You may be able to avoid the penalty (but not the taxes) if you use the money for a first-time home purchase (a $10,000 lifetime limit applies), qualified education expenses, unreimbursed medical expenses, if you have a permanent disability, or if you pass away and your beneficiary takes the distribution.
+
+: Earnings are subject to taxes and penalties. You may be able to avoid the penalty (but not the taxes) if you use the money for a first-time home purchase (a $10,000 lifetime limit applies), qualified education expenses, unreimbursed medical expenses, if you have a permanent disability, or if you pass away and your beneficiary takes the distribution. Ages 59½ and older: Earnings are subject to taxes but not penalties.
+
+Important Roth IRA withdrawals are made on a first in, first out (FIFO) basis—so any withdrawals made come from contributions first. Therefore, no earnings are considered touched until all contributions have been taken out.
+
+Withdrawals: Non-Qualified Distributions
+
+If you withdraw earnings that don't meet the requirements above, it is considered a non-qualified distribution and may be taxed or incur a 10% early distribution penalty.
+
+There may be exceptions, however, if the funds are used:
+
+For unreimbursed medical expenses : If the distribution is used to pay unreimbursed medical expenses for amounts that exceed 7.5% of the individual’s adjusted gross income (AGI).
+
+: If the distribution is used to pay unreimbursed medical expenses for amounts that exceed 7.5% of the individual’s adjusted gross income (AGI). To pay medical insurance : If the individual has lost their job.
+
+: If the individual has lost their job. For qualified higher education expenses : If the distribution goes toward qualified higher education expenses of the Roth IRA owner and/or their dependents. These qualified expenses are tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a student at an eligible educational institution and must be used in the year of the withdrawal.
+
+: If the distribution goes toward qualified higher education expenses of the Roth IRA owner and/or their dependents. These qualified expenses are tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a student at an eligible educational institution and must be used in the year of the withdrawal. For childbirth or adoption expenses: If they're made within one year of the event and don't exceed $5,000.
+
+Note that if you withdraw only the amount of your contributions made within the current tax year—including any earnings on those contributions—then the contribution is reversed. For example, if you contribute $5,000 in the current year and those funds generate $500 in earnings, you can withdraw the $5,000 principal tax and penalty-free, and the $500 gain will be treated as taxable income.
+
+
+
+Roth IRA vs. Traditional IRA
+
+Whether a Roth IRA is more beneficial than a traditional IRA depends on the tax bracket of the filer, the expected tax rate at retirement, and personal preference.
+
+Individuals who expect to be in a higher tax bracket once they retire may find the Roth IRA more advantageous since the total tax avoided in retirement will be greater than the income tax paid in the present. Therefore, younger and lower-income workers may benefit the most from a Roth IRA.
+
+Indeed, by beginning to save with an IRA early in life, investors make the most of the snowballing effect of compound interest: Your investment and its earnings are reinvested and generate more earnings, which are reinvested, and so on.
+
+Of course, even if you expect to have a lower tax rate in retirement, you’ll still enjoy a tax-free income stream from your Roth IRA. That’s not the worst situation in the world.
+
+Those who don’t need their Roth IRA assets in retirement can leave the money to accrue indefinitely and pass the assets to heirs tax-free upon death. Even better, while the beneficiary must take distributions from an inherited IRA, they can stretch out tax deferral by taking distributions for a decade—and, in some specialized cases, for their lifetimes—if the Roth IRA’s original owner died in 2020 or later.
+
+Traditional IRA beneficiaries, on the other hand, do pay taxes on the distributions. Also, a spouse can roll over an inherited IRA into a new account and not have to begin taking distributions until age 73.
+
+Roth IRAs inherited before 2020 can still use what’s often called the stretch IRA strategy. That approach lets heirs “stretch” the inherited Roth IRA withdrawals over their lifetimes, allowing the IRA to continue building up earnings tax-free, potentially for decades. However, the SECURE Act eliminated the stretch option for most beneficiaries except spouses.
+
+Some people open or convert to Roth IRAs because they fear an increase in taxes in the future, and this type of IRA allows them to lock in the current tax rates on the balance of their conversions. Executives and other highly compensated employees who can contribute to a Roth retirement plan through their employers—for example, via a Roth 401(k)—can also roll these plans into Roth IRAs with no tax consequence and then escape having to take mandatory minimum distributions when they turn 73.
+
+What is a Roth IRA?
+
+Frequently Asked Questions (FAQs)
+
+Is It Better to Invest in a Roth IRA or a 401(k)? There are many variables to consider when choosing a Roth IRA or a 401(k) retirement account. Each type of account provides an opportunity for savings to grow tax-free. Roth IRAs do not provide tax advantages when you make a deposit, but you can withdraw tax-free during retirement. The same applies to Roth 401(k) accounts. The reverse is true for regular or traditional 401(k)s. These types of accounts involve contributing a portion of your paycheck to a 401(k) prior to income tax deductions. And in terms of annual contribution limits, Roth IRAs are typically much lower than 401(k)s. Additionally, 401(k)s allow employers to make matching contributions. On the flip side, 401(k)s often have higher fees, minimum distributions, and fewer investment options.
+
+How Much Can I Put in My Roth IRA Monthly? In 2025, the maximum annual contribution amount for a Roth IRA is $7,000, or $583.33 monthly for those under age 50. This amount increases to $8,000 annually, or roughly $666.67 monthly, for individuals age 50 or older. The only limit in any year is the annual one. We cite the monthly breakdown just to put the annual cap into a monthly perspective. In comparison, the 2025 contribution limit for a regular or a Roth 401(k) account is $23,500. If you are 50 or older, you can contribute an additional $7,500 as a catch-up contribution for 2025.
+
+What Are the Advantages of a Roth IRA? While Roth IRAs do not include an employer match, they allow for a greater diversity of investment options. For individuals who anticipate being in a higher tax bracket when they’re older, the tax-free withdrawals of Roth IRAs can be beneficial. Also, you can withdraw your Roth IRA contributions (but not earnings) at any time, tax and penalty-free. You can manage how your Roth IRA is invested by opening an account with a brokerage, bank, or qualified financial institution.
+
+What Are the Disadvantages of a Roth IRA? Among the disadvantages of Roth IRAs is the fact that, unlike 401(k)s, they do not include an upfront tax break. Secondly, annual contribution limits are about a third of 401(k)s, and for some high-income individuals, contributions are either reduced or not allowed.
+
+
+
+The Bottom Line
+
+A Roth IRA is an individual retirement account (IRA) that allows you to withdraw money (without paying a penalty) on a tax-free basis after age 59½ and after you have owned the account for its five-year holding period. If you buy a home, pay for college, or need your Roth funds for the birth or adoption of a child, you can also withdraw without paying a penalty.
+
+Roth accounts are funded with after-tax money, so while you don't get the upfront tax break of a traditional IRA, you can withdraw your contributions without paying federal or state income tax on the amount after meeting the criteria for withdrawals.
+
+For individuals who anticipate that they will be in a higher tax bracket when they are older or have retired, Roth IRAs can provide a beneficial option, as the money is not taxable if you’ve met the time requirements, unlike withdrawals from a traditional 401(k) or traditional IRA.
+
+Is a Roth IRA All You Need?
+
+Roth IRA benefits are powerful. You can take tax and penalty-free withdrawals once you are old enough and have owned the account long enough. You are also exempt from penalty on withdrawals if you qualify. And you are eligible if you take out no more than $10,000 to buy a first home, to name one legal loophole.
+
+Another Roth IRA perk is the ability to pay an income tax rate that may be lower now on the money that goes into a Roth IRA than on money you withdraw years from now in retirement. That benefit hinges on your expectation coming true–that you have a higher tax rate in retirement when you’ve amassed more wealth.
+
+All those points can be true, but that does not mean a Roth IRA is the only type of retirement savings account you should have.
+
+“Having different types of accounts is advantageous because it gives you tax liability diversification,” said Ed Slott, founder of IRAHelp.com.
+
+For one thing, that diversification prevents you from putting all of your future income into one tax basket. That’s even more valuable if a fickle Congress once again changes tax rules. After all, what if Congress kills or dilutes the tax-free pass that withdrawals from Roth IRAs enjoy for now?
+
+“What good is it to plan, sacrifice, and save if you don't know whether the government is going just to make unforeseeable changes and take money away from you?" Slott said.
+
+For another thing, what if your expectation of having a higher tax rate in retirement than you do now turns out wrong?
+
+Further, other retirement savings accounts have benefits that Roth IRAs do not offer. To cite one big one, 401(k) accounts almost always give you a company match.
+
+Retirement Security Rule: What It Is and What It Means for Investors
+
+The purpose of the Retirement Security Rule, also known as the fiduciary rule, is to protect investors from conflicts of interest when receiving investment advice that the investor uses for retirement savings.
+
+The rule was issued by the U.S. Department of Labor (DOL) on Apr. 23, 2024 and took effect on Sept. 23, 2024. However, a one-year transition period delayed the effective date of certain conditions to 2025.
+
+If an advisor acts as a fiduciary under the Employee Retirement Income Security Act (ERISA), they are subject to the higher standard—the fiduciary best-advice standard—rather than the lower, merely suitable advice standard. Their designation can limit the products and services they are allowed to sell to clients who are saving for retirement.
+
+How We Picked the Best Roth IRA Accounts
+
+Investopedia is dedicated to providing investors with unbiased, comprehensive reviews and ratings of online brokers and robo-advisors. Our review of the best Roth IRA accounts is the result of a thorough evaluation of 73 criteria that are critical to readers choosing the right Roth IRA. We used this data to develop comprehensive online broker and robo-advisor ranking methodologies for evaluating a total of 47 online brokerage and digital wealth management platforms based on their financial services, calculators and tools, and other features to provide unbiased, comprehensive reviews to ensure our readers make the right decision for their needs. Our last assessment for inclusion in this Best Roth IRA Accounts article was performed in April 2024.
+
+
+
+People Inc. receives cash compensation from Wealthfront Advisers LLC (“Wealthfront Advisers”) for each new client that applies for a Wealthfront Automated Investing Account through our links. This creates an incentive that results in a material conflict of interest. People Inc. is not a Wealthfront Advisers client, and this is a paid endorsement. More information is available via our links to Wealthfront Advisers.

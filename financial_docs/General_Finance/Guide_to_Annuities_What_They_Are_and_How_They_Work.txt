@@ -1,0 +1,181 @@
+Title: Guide to Annuities: What They Are and How They Work
+Source: https://www.investopedia.com/terms/a/annuity.asp
+Category: General_Finance
+--------------------
+An annuity is a contract that's issued and distributed by an insurance company, meant to provide a guaranteed income. The insurance company pays a fixed or variable amount to the purchaser.
+
+Key Takeaways Annuities are financial products that offer a guaranteed income stream and are usually bought by retirees.
+
+The accumulation phase is the first stage of an annuity, during which investors fund the product with a lump-sum payment or periodic payments.
+
+The annuitant begins receiving payments after the annuitization period for a fixed period or for the rest of their life.
+
+Annuities can be structured into various types of instruments, giving investors flexibility.
+
+An annuity can be categorized as immediate or deferred, and fixed, variable, or indexed. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+An annuity is a contract that's issued and distributed by an insurance company and bought by individuals. The insurance company pays out a fixed or variable income stream to the purchaser, beginning right away or at some time in the future, in exchange for premiums they've paid. It's not the same as a life insurance policy that only pays benefits when the insured dies.
+
+People invest in or purchase annuities by making monthly premium payments or lump-sum payments. The holding institution issues a stream of payments for a specified period of time or for the remainder of the annuitant's life.
+
+Annuities are used primarily for retirement income purposes. They can help individuals address the risk of outliving their savings.
+
+An annuity can be part of an estate, legacy, or retirement savings plan. Investopedia / Ryan Oakley
+
+How Annuities Work: Accumulation vs. Payout Phases
+
+Purpose
+
+Annuities are designed to provide a steady cash flow for people during their retirement years to alleviate the fear of outliving their assets. These assets may not be enough to sustain their standard of living, however, so some investors may turn to an insurance company or other financial institution to purchase an annuity contract.
+
+These financial products are appropriate for investors, known as annuitants, who want stable, guaranteed retirement income. Invested cash is illiquid and subject to withdrawal penalties, so it's usually not recommended for young people or anyone who needs quick access to their money.
+
+Phases
+
+An annuity has different phases:
+
+
+
+The accumulation phase or period, when an annuity is funded and before payouts begin, and the money invested grows on a tax-deferred basis
+
+The annuitization or payout phase, which kicks in after payments to the investor begin
+
+Immediate vs. Deferred Annuities: Choosing Your Timing
+
+Annuities can be immediate or deferred.
+
+Immediate annuities are bought with a lump-sum payment, and the annuitant receives distributions a year later. This is ideal for anyone with a large lump sum of money, such as a settlement or lottery win, and who prefers to exchange that money for cash flows into the future.
+
+Deferred annuities are structured to grow on a tax-deferred basis and provide annuitants with guaranteed income that begins on a date they specify.
+
+
+
+Regulation
+
+Variable annuities are regulated by the Securities and Exchange Commission (SEC) and state insurance commissioners. Fixed annuities aren't securities, so they're only regulated by state insurance commissioners. Indexed annuities are normally regulated by a state insurance commissioner. They're regulated by the SEC as well if they're registered as securities,
+
+The Financial Industry Regulatory Authority (FINRA) also regulates variable and registered indexed annuities.
+
+Agents or brokers selling annuities must hold a state-issued life insurance license as well as a securities license in the case of variable annuities. These agents or brokers typically earn a commission based on the notional value of the annuity contract.
+
+
+
+Important Annuities often come with complicated tax considerations, so it's important to understand how they work. Consult with a professional before you purchase an annuity contract.
+
+Other Considerations
+
+Surrender Period and Withdrawals
+
+Annuities usually have a surrender period, which may span several years. During this period, annuitants can't withdraw without paying a surrender charge or fee.
+
+Investors should consider their financial requirements during this time. If a major upcoming event, such as a wedding, will require significant amounts of cash, it might be a good idea to evaluate whether they can afford to make the requisite annuity payments.
+
+Many insurance companies let you withdraw up to 10% of your account value without a surrender fee. Still, you may pay a penalty if you withdraw more than that, even if the surrender period has already lapsed. Tax implications can also arise for withdrawals made before age 59½.
+
+Some hard-up annuitants may sell their annuity payments because of the potentially high cost of withdrawals. This is like borrowing against any other income stream. In exchange, the annuitant receives a lump sum and gives up their right to some or all of their future annuity payments.
+
+Income Riders
+
+Contracts also have income riders that ensure a fixed income after the annuity kicks in. Investors should ask two questions when they consider income riders.
+
+At what age do they need the income? The payment terms and interest rates may vary depending on the duration of the annuity.
+
+What are the fees associated with the income rider? Some organizations offer them free of charge, but most have fees associated with this service.
+
+Individuals who invest in annuities can't outlive their income stream, and this hedges longevity risk. The product is appropriate provided that the purchaser understands that they're trading a liquid lump sum for a guaranteed series of cash flows.
+
+Some purchasers hope to cash out an annuity in the future at a profit, but this isn't the intended use of the product.
+
+
+
+Fast Fact Defined benefit pensions and Social Security are two examples of lifetime guaranteed annuities that pay retirees a steady cash flow until they pass away.
+
+Annuities in Workplace Retirement Plans
+
+Annuities can be a beneficial part of a retirement plan, but they're complex financial vehicles. Many employers don't offer them as part of an employee's retirement portfolio because of this.
+
+The passage of the Setting Every Community Up for Retirement Enhancement (SECURE) Act, signed into law by President Donald Trump in 2019, loosened the rules. Employers have more flexibility with selecting annuity providers and can include annuity options in 401(k) or 403(b) plans. Easing these rules may result in more investments made by qualified employees in annuities.
+
+Types of Annuities: Fixed, Variable, Indexed, Immediate & Deferred
+
+Annuities can be structured according to an array of details and factors, such as the duration of time that payments from the annuity can be guaranteed to continue.
+
+Annuities can be created so that payments continue as long as the annuitant or their spouse is alive if a survivorship benefit is elected. Annuities can also pay out funds for a fixed period, such as 20 years, regardless of how long the annuitant lives.
+
+Immediate and Deferred Annuities
+
+Annuities can begin to pay out immediately upon deposit of a lump sum, or they can be structured for deferred benefits.
+
+The immediate payment annuity begins paying when the annuitant deposits a lump sum. In a deferred income annuity, the client specifies an age at which they would like to begin receiving payments from the insurance company.
+
+The annuity may or may not be able to recover some of the principal invested in the account, depending on the type of annuity you choose. There's no refund of the principal in the case of a straight, lifetime payout. Payments simply continue until the beneficiary dies.
+
+The recipient or their heirs may get a refund of any remaining principal if the annuity is set for a fixed period.
+
+Fixed vs. Variable vs. Indexed: Which Annuity Fits Your Goals?
+
+Annuities can be structured generally as fixed, variable, or indexed:
+
+Fixed annuities provide a guaranteed minimum interest rate and fixed periodic payments to the annuitant.
+
+Variable annuities let the owner receive larger future payments if investments held in the annuity fund do well or smaller payments if its investments do poorly. They provide less stable cash flow than a fixed annuity, but they allow the annuitant to reap the benefits of strong returns from their fund's investments.
+
+Indexed annuities are fixed and provide a return based on the performance of an equity index, such as the S&P 500.
+
+Variable annuities carry some market risk and the potential to lose principal, but riders and features can be added, usually at a cost. This allows them to function as hybrid fixed-variable annuities. Contract owners can benefit from upside portfolio potential while enjoying the protection of a guaranteed lifetime minimum withdrawal benefit if the portfolio drops in value.
+
+Other riders can be purchased to add a death benefit to the agreement or to accelerate payouts if the annuity holder is diagnosed with a terminal illness. A cost-of-living rider will adjust the annual base cash flows for inflation to correspond with changes in the consumer price index (CPI).
+
+
+
+Criticism of Annuities
+
+One criticism of annuities is that they're illiquid. Deposits are typically locked up for an extended period, which is known as the surrender period. The annuitant incurs a penalty if all or part of that money is withdrawn.
+
+These periods can last anywhere from two to more than 10 years, depending on the product. Surrender fees can begin at 10% or more. The penalty typically declines annually over the surrender period.
+
+Another criticism is that annuities are complex and costly. Individuals might buy an annuity without clearly understanding how they work or the costs involved. It's important to do your research to ensure that you understand all fees, charges, expenses, and potential penalties.
+
+Fast Fact The Retirement Security Rule issued by the U.S. Department of Labor in 2024 requires that investment professionals who advise people on their retirement accounts must act as fiduciaries and offer advice that's in the best interests of retirement investors. The rule was set to take effect in September 2024, but has been tied up in litigation as the insurance industry fights back against protections that are expected to significantly limit commissions on annuities.
+
+
+
+Annuities vs. Life Insurance
+
+Life Insurance
+
+Life insurance companies and investment companies are the two primary types of financial institutions that offer annuity products.
+
+Annuities are a natural hedge for their insurance products for life insurance companies. Life insurance is bought to deal with mortality risk or the risk of dying prematurely. Policyholders pay an annual premium to the insurance company that will pay out a lump sum upon their death.
+
+The insurer pays out the death benefit at a net loss to the company if the policyholder dies prematurely. Actuarial science and claims experience allow these insurance companies to price their policies so insurance purchasers will live long enough on average to allow the insurer to earn a profit.
+
+The cash value inside permanent life insurance policies can be exchanged for an annuity product via a 1035 exchange without any tax implications in many cases.
+
+Annuities
+
+Annuities deal with longevity risk, or the risk of outliving one's assets. The risk to the issuer of the annuity is that holders will survive to outlive their initial investment. Annuity issuers may hedge longevity risk by selling annuities to customers with a higher risk of premature death.
+
+Examples of an Annuity
+
+A life insurance policy is an example of a fixed annuity into which an individual pays a fixed amount each month for a predetermined period, typically 59½ years, and receives a fixed income stream during their retirement years.
+
+An individual makes a single premium payment to an insurance company into an immediate annuity, such as $200,000. They then immediately receive regular payments, such as $5,000 a month for a fixed time. The payout amount for immediate annuities depends on market conditions and interest rates.
+
+Frequently Asked Questions (FAQs)
+
+Who Buys Annuities? Annuities are appropriate financial products for individuals who seek stable, guaranteed retirement income. Money placed in an annuity is illiquid and subject to withdrawal penalties, so this option isn't recommended for younger individuals or those with liquidity needs. Annuity holders can't outlive their income stream, and this hedges longevity risk.
+
+What Is a Non-Qualified Annuity? Annuities can be purchased with either pre-tax or after-tax dollars. A non-qualified annuity is one that's purchased with after-tax dollars. A qualified annuity has been purchased with pre-tax dollars. Qualified plans include 401(k) plans and 403(b) plans. Only the earnings and not the contributions of a non-qualified annuity are taxed at the time of withdrawal because the contributions represent after-tax money.
+
+What Is an Annuity Fund? An annuity fund is an investment portfolio in which an annuity holder's payments are invested. It can contain stocks, bonds, and other securities. The annuity fund earns returns that correlate to the payout an annuity holder receives.
+
+What Is the Surrender Period? The surrender period is the time an investor must wait before they can withdraw funds from an annuity without facing a penalty. Withdrawals made before the end of the surrender period can result in a surrender charge that's essentially a deferred sales fee. This period generally spans several years.
+
+What are the main benefits and drawbacks of annuities? Benefits include guaranteed income and tax-deferred growth; drawbacks include high fees, limited liquidity, and potential inflation risk.
+
+The Bottom Line
+
+An annuity is a financial contract between an annuity purchaser and an insurance company. The purchaser pays either a lump sum or regular payments over a period of time. The insurance company makes regular payments to the annuity owner in return, either immediately or beginning at some point in the future.
+
+An annuity can be fixed, variable, or indexed to an equity index such as the S&P 500 index.

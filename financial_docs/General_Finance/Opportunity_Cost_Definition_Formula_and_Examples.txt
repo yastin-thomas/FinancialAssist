@@ -1,0 +1,131 @@
+Title: Opportunity Cost: Definition, Formula, and Examples
+Source: https://www.investopedia.com/terms/o/opportunitycost.asp
+Category: General_Finance
+--------------------
+Opportunity cost is any gain you pass up by deciding on one use of your resources over others.
+
+What Is Opportunity Cost?
+
+Opportunity cost represents the desirable benefits someone foregoes by choosing one alternative instead of another.
+
+While opportunity costs can't be predicted with total certainty, taking them into consideration can lead to better decision making.
+
+
+
+Key Takeaways Opportunity cost is the forgone benefit from an option that you failed to choose.
+
+To properly evaluate opportunity cost, the costs and benefits of every option available must be considered and weighed against the others.
+
+Considering potential opportunity costs can guide individuals and organizations to more profitable decision making.
+
+This cost of a lost benefit is a strictly internal measure used for strategic planning; it is not included in accounting profit or reflected in external financial reporting.
+
+Examples of opportunity cost considerations include investing in a new manufacturing plant in Los Angeles as opposed to Mexico City, deciding to upgrade company equipment rather than hire additional workers, or buying stock A and not stock B.
+
+Investopedia / Mira Norian
+
+Formula for Calculating Opportunity Cost
+
+We can express the opportunity cost related to investing by calculating the difference between the expected returns of two investment options.
+
+Opportunity Cost = RMPIC − RICP where: RMPIC = Return on most profitable investment choice RICP = Return on investment chosen to pursue \begin{aligned}&\text{Opportunity Cost} = \text{RMPIC}-\text{RICP}\\&\textbf{where:}\\&\text{RMPIC}=\text{Return on most profitable investment choice}\\&\text{RICP}=\text{Return on investment chosen to pursue}\end{aligned} ​Opportunity Cost=RMPIC−RICPwhere:RMPIC=Return on most profitable investment choiceRICP=Return on investment chosen to pursue​
+
+Consider a company that is faced with the following two mutually exclusive options:
+
+Option A: Invest excess capital in the stock market
+
+Option B: Invest excess capital back into the business for new equipment to increase production
+
+Assume the expected return on investment (ROI) in the stock market is 10% over the next year, while the company estimates that the equipment update would generate an 8% return over the same time period.
+
+The opportunity cost of choosing the equipment over the stock market is 2% (10% - 8%). In other words, by investing in the business, the company would forgo the opportunity to earn a higher return—at least for that first year.
+
+Important When considering two different securities, it is important to take risk into account. For example, comparing a Treasury bill to a highly volatile stock can be misleading, even if both have the same expected return (an opportunity cost of 0%). That's because the U.S. government backs the return on the T-bill, making it virtually risk-free, and there is no such guarantee in the stock market.
+
+Opportunity Cost and Capital Structure
+
+Opportunity cost analysis can play a crucial role in determining a company's capital structure.
+
+A business incurs an explicit cost in taking on debt or issuing equity because it must compensate its lenders or shareholders. And each option also carries an opportunity cost.
+
+Money that a company uses to make payments on its bonds or other debt, for example, cannot be invested for other purposes.
+
+So the company must decide if financing an expansion or other growth opportunity with debt would be better than financing it with equity.
+
+Companies try to weigh the costs and benefits of borrowing money vs. issuing stock, including both monetary and non-monetary considerations, to arrive at an optimal balance that minimizes opportunity costs.
+
+Because opportunity cost is a forward-looking consideration, the actual rate of return (RoR) for both options is unknown at that point, making this evaluation tricky in practice.
+
+Examples of Opportunity Costs
+
+For a Business
+
+Assume that a business has $20,000 in available funds and must choose between investing the money in securities, which it expects to return 10% a year, or using it to purchase new machinery.
+
+No matter which option the business chooses, the potential profit that it gives up by not investing in the other option is the opportunity cost.
+
+If the business decides to go with the securities option, its investment would theoretically gain $2,000 in the first year, $2,200 in the second, and $2,420 in the third.
+
+Alternatively, if the business purchases a new machine, it will be able to increase its production. But the machine setup and employee training will be intensive, and the new machine will not be up to maximum efficiency for the first couple of years.
+
+So the company estimates that it would net an additional $500 in profit in the first year, then $2,000 in year two, and $5,000 in all future years.
+
+By these calculations, choosing the securities makes sense in the first and second years. However, by the third year, an analysis of the opportunity cost indicates that the new machine is the better option ($500 + $2,000 + $5,000) - ($2,000 - $2,200 - $2,420) = $880.
+
+Most Expensive Pizza Ever? One of the most dramatic examples of opportunity cost is a 2010 exchange of 10,000 bitcoins for two large pizzas—at the time worth about $41. As of August 2024, those 10,000 bitcoins were worth over $690 million.
+
+For an Individual
+
+Individuals also face decisions involving such missed opportunities, even if the stakes are often smaller.
+
+Suppose, for example, that you've just received an unexpected $1,000 bonus at work. You could simply spend it now, such as on a spur-of-the-moment vacation. Or you could invest it for a future trip.
+
+For example, if you were to invest the entire amount in a safe, one-year certificate of deposit that paid 5%, you'd have $1,050 to play with next year at this time.
+
+You'd also face an opportunity cost with your vacation days at work. If you use some of them now with your spare $1,000 you won't have them next year (assuming your employer lets you roll them over from year to year).
+
+As with many similar decisions, there is no right or wrong answer here, but it can be helpful to think it through and decide what you want more.
+
+Explicit vs. Implicit Costs
+
+Company expenses are broadly divided into two categories—explicit costs and implicit costs. The former are expenses like rents, salaries, and other operating expenses that are paid with a company's tangible assets and recorded on a company' financial statements.
+
+By contrast, implicit costs are technically not incurred and cannot be measured accurately for accounting purposes. There are no cash exchanges in the realization of implicit costs.
+
+Instead, they are opportunity costs, making them synonymous with imputed costs, while explicit costs are considered out-of-pocket expenses.
+
+
+
+Opportunity Cost vs. Sunk Cost
+
+A sunk cost is money already spent at some point in the past, while opportunity cost is the potential return not earned in the future on an investment because the money was invested elsewhere. When considering the latter, any sunk costs previously incurred are typically ignored.
+
+Buying 1,000 shares of company A at $10 a share, for instance, represents a sunk cost of $10,000. This is the amount of money paid out to invest, and it can't be recouped without selling the stock (and you might not make the full $10,000 back).
+
+From an accounting perspective, a sunk cost also could refer to the initial outlay to purchase an expensive piece of heavy equipment, which might be amortized over time, but which is sunk in the sense that the company won't be getting the money back.
+
+Opportunity Cost vs. Risk
+
+In economics, risk describes the possibility that an investment's actual and projected returns will be different and that the investor may lose some or all of their capital.
+
+Opportunity cost reflects the possibility that the returns of a chosen investment will be lower than the returns of a forgone investment.
+
+The key difference is that risk compares the actual performance of an investment against the projected performance of the same investment, while opportunity cost compares the projected performance of an investment against the projected performance of another investment.
+
+Accounting Profit vs. Economic Profit
+
+Accounting profit is the net income calculation often stipulated by the generally accepted accounting principles (GAAP) used by most companies in the U.S. Under those rules, only explicit, real costs are subtracted from total revenue.
+
+Economic profit, however, includes opportunity cost as an expense. This theoretical calculation can be used to compare the actual profit of the company to what its profit might have been had it made different decisions.
+
+Economic profit (and any other calculation that considers opportunity cost) is strictly an internal value used for strategic decision making.
+
+What Is a Simple Definition of Opportunity Cost? It's the hidden cost associated with not taking an alternative course of action.
+
+What Is an Example of Opportunity Cost in Investing? Consider a young investor who decides to put $5,000 into bonds each year and dutifully does so for 50 years. Assuming an average annual return of 2.5%, their portfolio at the end of that time would be worth nearly $500,000. Although this result might seem impressive, it is less so when you consider the investor's opportunity cost. If, for example, they had instead invested half of their money in the stock market and received an average blended return of 5% a year, their portfolio would have been worth more than $1 million. Their opportunity cost in this case would be over $500,000.
+
+How Do You Predict Opportunity Cost? Any effort to make a prediction must rely heavily on estimates and assumptions. There's no way of knowing exactly how a different course of action would play out financially over time. Investors might use the historic returns on various types of investments in an attempt to forecast the likely returns of their investment decisions. However, as the famous disclaimer goes, "Past performance is no guarantee of future results."
+
+The Bottom Line
+
+While opportunity costs can't be predicted with absolute certainty, they provide a way for companies and individuals to think through their investment options and, ideally, arrive at better decisions.

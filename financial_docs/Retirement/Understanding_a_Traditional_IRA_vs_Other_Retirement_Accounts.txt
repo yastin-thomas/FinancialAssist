@@ -1,0 +1,101 @@
+Title: Understanding a Traditional IRA vs. Other Retirement Accounts
+Source: https://www.investopedia.com/terms/t/traditionalira.asp
+Category: Retirement
+--------------------
+A traditional IRA is a retirement account in which individuals deposit pre-tax contributions and grow the value of their investments tax-deferred until money is withdrawn in retirement.
+
+What Is a Traditional IRA?
+
+A traditional individual retirement account (IRA) allows individuals to deposit pre-tax income into investments that can grow tax-deferred. The IRS assesses no capital gains or dividend income taxes until the beneficiary makes a withdrawal. Individual taxpayers can contribute from qualified earned compensation.
+
+You can contribute to a traditional IRA no matter how high your income is. However, limitations on deductions may apply, depending on your income, tax-filing status, and other factors. Retirement savers may open a traditional IRA through their broker (including online brokers or robo-advisors) or financial advisor.
+
+Key Takeaways Traditional IRAs allow individuals to contribute pre-tax dollars to a retirement account where investments grow tax-deferred until withdrawal during retirement.
+
+Withdrawals are taxed at the IRA owner's income tax rate in the year of distribution.
+
+Account holders should adhere to annual contribution limits and be aware of the schedules for required minimum distributions.
+
+Nonqualified withdrawals from a traditional IRA before the age of 59½ are subject to income tax and a 10% penalty.
+
+Unlike Roth IRA contributions, traditional IRA contributions are deductible from your current taxable income. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+How Traditional IRAs Work
+
+Traditional IRAs let individuals contribute pre-tax dollars to a retirement investment account, which can grow tax-deferred until retirement withdrawals occur (at age 59½ or later) when they are taxable income. If you withdraw money before age 59½, it is also subject to a 10% early withdrawal penalty unless you qualify for an exemption. Custodians, including commercial banks and retail brokers, hold traditional IRAs and place the invested funds into different investments according to the account holder’s instruction and the offerings available.
+
+Contributions to traditional IRAs are tax-deductible in most cases. For instance, if someone contributes $7,000 to their IRA in a given year, they can claim that amount as a deduction on their income tax return, and the Internal Revenue Service (IRS) will not apply income tax to those earnings. However, when that individual withdraws money from the account—presumably during retirement—earnings are taxed at the account owner’s ordinary income tax rate for that year.
+
+The IRS restricts contributions to a traditional IRA each year, depending on the account holder's age. The contribution limit for the 2024 and 2025 tax years is $7,000 for savers under 50 years of age. People aged 50 or above are allowed to contribute up to an extra $1,000—known as a catch-up contribution—for a total maximum of $8,000.
+
+Under the SECURE Act of 2019, age restrictions on contributions to a traditional IRA were lifted. You do need allowable taxable earned income, such as wages, salaries, tips, and self-employment earnings. And you can contribute as much as your allowable taxable earned income, up to the overall annual contribution limit, which is $7,000 in 2024 and 2025, plus another $1,000 if you are aged 50 or older.
+
+Traditional IRAs and 401(k)s or Other Employer Plans
+
+When you have both a traditional IRA and an employer-sponsored retirement plan, the IRS may limit the amount of your traditional IRA contributions that you can deduct from your taxes.
+
+If a taxpayer participates in an employer-sponsored program such as a 401(k) or pension program and files as a single person, they would only be eligible to take the full deduction on a traditional IRA contribution if their modified adjusted gross income (MAGI) is $77,000 for 2024 ($79,000 for 2025). Married taxpayers filing a joint return can take the full deduction if their income is less than $123,000 for the 2024 tax year and less than $126,000 for 2025.
+
+For 2024, the IRS allows no deductions with MAGIs of $87,000 for singles ($89,000 for 2025) and $143,000 ($146,000 for 2025) for married couples. The deduction is gradually reduced—commonly referred to as being “phased out”—depending on where the filer's income falls between the bottom and top of the phase-out range.
+
+IRA contributions must also be made by the tax filing deadline. For most taxpayers, this is on or around April 15 of the year after the calendar year in which the filer earned the allowable taxable income that their contribution came from.
+
+Important Income tax is ultimately paid on IRA money at the time of withdrawal, subject to the account owner's tax bracket during retirement. Therefore, traditional IRAs are more often recommended for investors who expect to be in lower tax brackets at retirement than they were when they earned the income.
+
+Traditional IRA Distributions
+
+When you receive distributions from a traditional IRA, the IRS treats the money as ordinary income and subjects it to income tax. Account holders can take distributions as early as age 59½ without penalty.
+
+The age for required minimum distributions (RMDs) from traditional IRAs depends on which year you were born. With a traditional IRA, your RMDs must start at these ages:
+
+70½ if you were born before July 1, 1949
+
+72 if you were born between July 1, 1949, and December 31, 1950
+
+73 if you were born Jan. 1, 1951, through December 31, 1959
+
+75 if you were born in 1960 or later
+
+The deadline for taking your RMD is December 31 each year. The deadline for taking your first RMD is April 1 of the year after you turn 73. That’s the only RMD that you can delay in that way.
+
+Funds that are withdrawn before age 59½ incur a 10% penalty (of the amount withdrawn) and taxes at standard income tax rates. There are exceptions to these penalties for certain situations.
+
+These include the following:
+
+You plan to use the distribution towards the purchase or rebuilding of a first home for yourself or a qualified family member (limited to $10,000 per lifetime)
+
+You become disabled before the distribution occurs
+
+Your beneficiary receives the assets after your death
+
+You use the assets for unreimbursed medical expenses
+
+Your distribution is part of a substantially equal periodic payment (SEPP) program
+
+You use the assets for higher education expenses or expenses incurred for having or adopting a child
+
+You use the assets to pay for medical insurance after you lose your job
+
+The assets are distributed as a result of an IRS levy
+
+The amount distributed is a return of nondeductible contributions and attributable income
+
+You are a military reservist and are called to active duty for more than 179 days
+
+Check with a tax attorney or the IRS to be sure that the particulars of your situation qualify for a waiver of the 10% penalty.
+
+Traditional IRAs vs. Other IRA Types
+
+Other variations of the IRA include the Roth IRA, SIMPLE IRA, and SEP IRA. The latter two are offered by businesses—SIMPLE IRAs, in particular, are popular among small businesses—while individuals can set up a Roth IRA if they meet the income limitations. These individual accounts can be created through a broker. You can check out some of the best options with Investopedia's list of the best brokers for IRAs.
+
+Roth IRAs
+
+Unlike a traditional IRA, Roth IRA contributions are not tax-deductible, and qualified distributions are tax-free. This means you contribute to a Roth IRA using after-tax dollars—money left over after you’ve paid your income tax—but as the account grows, you do not face any taxes on investment gains. Because you paid taxes on your contributions, you can actually withdraw them, penalty-free at any time.
+
+You can also withdraw earnings once you reach age 59½ without being subject to tax or the 10% early withdrawal penalty if you’ve had the Roth IRA for at least five years. If you’re 59½ or older but you’ve had the Roth IRA for less than five years, withdrawn earnings will be subject to tax but not penalties.
+
+If you are under the age of 59½ and your Roth IRA is at least five years old, withdrawn earnings will not be hit by tax if you use the withdrawal (up to $10,000) to buy your first home. If you are under the age of 59½, withdrawals from a Roth IRA you’ve had less than five years are vulnerable to tax and penalty. Still, you may be able to legally dodge the penalty—but not the tax—if one or more exemptions allowed by the IRS apply. Those exemptions include using the withdrawal (up to $10,000) for a first home purchase, qualified education expenses, or certain unreimbursed medical expenses.
+
+Roth IRAs do not have RMDs. If you don't need the money, you don't have to take it out of your account and worry about penalties for failing to do so. You can also pass the money to your heirs if you don't end up needing to use it.
+
+Annual Roth IRA contribution limits are the same as those for traditional IRAs: $7,000 unless you are 50 or older and can qualify for the catch-up contribution, which raises the limit to $8,000 in 2024 and 2025. The catch is that not everyone qualifies to contribute to a Roth IRA. There are income limitations, with contributions gradually phased out as your MAGI increases.

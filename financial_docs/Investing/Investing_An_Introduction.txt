@@ -1,0 +1,139 @@
+Title: Investing: An Introduction
+Source: https://www.investopedia.com/articles/basics/11/3-s-simple-investing.asp
+Category: Investing
+--------------------
+Key Takeaways Every investment sits somewhere on the risk ladder, with cash being the safest but lowest-returning option and alternative investments typically being the riskiest but with the potential for the highest returns.
+
+Sticking with index funds or exchange-traded funds (ETFs) that mirror the market is often the best path for a newer investor.
+
+The stock market has historically delivered higher returns than bonds over long periods, but it has had greater short-term risks and far wider price swings.
+
+Investment experts recommend spreading money across different types of investments (diversification) rather than putting everything into one category. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+For many people, the world of investing is mysterious, with unfamiliar terms and concepts. The good news is that successful investing doesn't require advanced math skills or complex strategies. Instead, it starts with understanding the basic building blocks of investing—known as asset classes—and how they fit together. From the relative safety of a savings account to the growth potential of stocks, each type has different potential for risk and rewards.
+
+Understanding where these different assets stand on the investment risk ladder can give you a solid foundation for getting started in investing.
+
+Depending on the state of the economy, certain asset classes may perform better than others. Investopedia / Joules Garcia
+
+Understanding the Investment Risk Ladder
+
+Here are the major asset classes, in order of ascending risk, on the investment risk ladder:
+
+Cash
+
+A bank deposit is the safest and easiest investment asset to understand—it's also usually the first one we have. It not only gives investors a detailed account of the interest that they'll earn but also guarantees that they’ll get their capital back. On the downside, the interest earned from cash socked away in a savings account seldom beats inflation.
+
+Certificates of deposit (CDs) are less liquid, generally offering higher interest rates than savings accounts. Money is locked in a CD for months to years. You usually pay a penalty if you withdraw it earlier.
+
+Tip Financial advisors often start off with clients, suggesting they plan for the long haul. "For most people in most situations, a long-term, buy-and-hold, diversified, low-cost investment approach is likely more suitable than active trading," David Tenerelli, a certified financial planner and financial advisor with Values Added Financial, told Investopedia. "This is because it helps the investor ignore the 'noise' and instead focus on a disciplined approach."
+
+Bonds
+
+A bond is a loan made to the issuer by an investor. A typical bond involves a corporation or government, where the borrower will issue a fixed interest rate to the buyer of the bond in exchange for using their capital. U.S. Treasuries are the most popular bonds in the world.
+
+Bond rates are essentially determined by central bank interest rates. That's why they're heavily traded when the U.S. Federal Reserve—or other central banks—raise rates.
+
+Mutual Funds
+
+A mutual fund is a big investment pool where many people put their money together and hand it to a professional money manager who buys stocks, bonds, or other investments on their behalf. In return, you get shares proportional to how much you put in for the immense pool of assets.
+
+These funds take investors with as little as $500 to start, and many have no minimum. Even with a modest investment, you can own pieces of hundreds of different companies. For example, if you invest $1,000 in a mutual fund with 100 different stocks, it's like buying small slices of all those companies simultaneously.
+
+Some mutual funds mimic popular indexes like the S&P 500, which is what the first mutual funds in the 1970s did. These are called "passive" funds since the managers just want to match a specific index, which takes far less effort than trying to beat the market.
+
+Other mutual funds are actively managed, meaning investment professionals try to beat the market by constantly adjusting their investments (like a chef experimenting with ingredients). These funds typically charge higher fees, which can eat into your returns over time.
+
+Unlike stocks, which you can buy and sell throughout the day, mutual fund trades only happen once per day after the market closes. The price you pay or receive is based on something called the net asset value (NAV)—essentially the value of the entire investment pool—which is calculated at the end of each trading day.
+
+Tip The most difficult time for any investor is watching a market enter a period of turmoil. "I make a point to discuss past market experiences and potential market volatility," Alyson Basso, managing principal of Hayden Wealth Management in Middleton, Massachusetts, told Investopedia. That way, clients are mentally prepared. But investors can help themselves by preparing ahead. "I also remind them that diversified investing helps spread out risk, so they're not putting all their eggs in one basket."
+
+
+
+Exchange-Traded Funds (ETFs)
+
+Exchange-traded funds (ETFs) became highly popular since they were launched in the early 1990s. ETFs are like mutual funds but trade throughout the day on an exchange. So, you can trade them just like shares of Apple (AAPL) or another publicly traded company. Their value rises and falls as the trading day goes on.
+
+ETFs can mirror an underlying index, such as the Dow Jones Industrial Average (DJIA), or other baskets of stocks that an ETF manager chooses. The index might cover anything from emerging markets to commodities, business sectors like biotechnology or agriculture, and more, though the most popular, for large institutional investors and those putting a bit into a fund each paycheck, remains those that track indexes.
+
+Stocks
+
+When you buy a stock, you're buying a tiny piece of ownership in a company. If you own Apple stock, for example, you really are a part-owner of the company—even if it's just a modest amount.
+
+There are two main ways to make money from stocks:
+
+The share price goes up after you buy it : First, when other investors like what they see with the company and like the price offered to buy shares, they'll buy the stock. If enough people do this, the share price will go up. When it does, you can sell your shares—the amount above what you paid for them is called price appreciation—to net a capital gain.
+
+: First, when other investors like what they see with the company and like the price offered to buy shares, they'll buy the stock. If enough people do this, the share price will go up. When it does, you can sell your shares—the amount above what you paid for them is called price appreciation—to net a capital gain. Dividends: These are regular payments that represent profits shared by companies with their stockholders. Companies that have provided dividends for 25 straight years are known as dividend aristocrats.
+
+However, stocks come with real risks. Companies can lose money, stock prices can fall below what you paid, and in the worst case—if a company goes bankrupt—stockholders are last in line to get any money back. That's why financial advisors often suggest not investing money in stocks that you'll need within the next five years.
+
+But you can lower your risk by choosing certain types of stocks. Large, established companies like Coca-Cola (KO) or Johnson & Johnson (JNJ) typically offer more stable but slower growth. Midsized companies offer a middle ground, while small companies, called small-caps, can grow explosively but are also more likely to stumble.
+
+The riskiest stocks often come from young companies in emerging industries or those in financial trouble. Nicknamed "penny stocks," they trade for less than $5 per share.
+
+Fast Fact Some investments, such as hedge funds, are restricted to wealthy investors.
+
+Alternative Investments
+
+There is a vast universe of so-called alternative investments that aren't stocks, bonds, or funds that collect them:
+
+Real estate : You can invest in property in two ways. The direct approach involves buying buildings or land, which requires considerable effort and significant capital. But it's easier to buy real estate investment trust (REIT) shares. These are companies that own and manage properties. REITs trade like stocks but must pay out 90% of their profits each year to investors, resulting in higher dividends.
+
+: You can invest in property in two ways. The direct approach involves buying buildings or land, which requires considerable effort and significant capital. But it's easier to buy real estate investment trust (REIT) shares. These are companies that own and manage properties. REITs trade like stocks but must pay out 90% of their profits each year to investors, resulting in higher dividends. Hedge funds and private equity : Called accredited investors, these investment vehicles are like exclusive clubs, so they're only open to those who already have wealth. Hedge funds use complex strategies to try to make money whether markets go up or down. Private equity firms buy entire companies, change their structure, and sell them for a profit. Both usually require investors to lock up their money for years.
+
+: Called accredited investors, these investment vehicles are like exclusive clubs, so they're only open to those who already have wealth. Hedge funds use complex strategies to try to make money whether markets go up or down. Private equity firms buy entire companies, change their structure, and sell them for a profit. Both usually require investors to lock up their money for years. Commodities: These are physical goods like gold, crude oil, or agricultural products. You can invest in commodities through special funds that track their prices. Many investors use commodities to hedge against inflation since their prices often rise when the cost of living increases. Some specialized ETFs are also designed to focus on commodities.
+
+Tip Order your copy of Investopedia's What To Do With $10,000 magazine for more wealth-building advice.
+
+How To Invest Sensibly, Suitably, and Simply
+
+Starting your investment journey doesn't need to be complicated. Here's a straightforward approach:
+
+Begin with the basics: Start with mutual funds or ETFs that track broad market indexes. It's better when starting out to buy slices of the entire market rather than trying to pick individual winners. Keep costs low: Every dollar you pay in fees is a dollar that's not growing in your account. Index funds typically charge lower fees than actively managed investments. Diversify gradually: As you get more comfortable checking in on your portfolio, you'll start off getting a bit anxious over each tick downward, but that feeling will eventually pass (mostly)—you might add different types of investments. But don't feel pressured to own everything. Many successful investors stick with a simple mix of stock and bond index funds their entire lives.
+
+Remember Warren Buffett's advice: The world's most famous investor suggests that most people would do to invest in an index fund tracking the S&P 500.
+
+Tip For most people, the best portfolio isn't the most complex one, but the one they'll stick with through market ups and downs.
+
+Setting Realistic Expectations for Assets in Any Economy
+
+Just as different types of weather call for different clothes, various economic conditions tend to favor different investments.
+
+Here's how it generally works:
+
+When the Economy Is Strong
+
+Stocks usually do well during economic booms. It's clear why: When people have jobs and money to spend, companies make more profit, which often leads to higher stock prices.
+
+Bonds tend to struggle during these periods because rising interest rates (which often come with strong growth) make existing bonds worth less.
+
+Real estate often does well when the economy is also humming, and people have good jobs. However, if interest rates rise too much, higher mortgage costs will cool the housing market.
+
+When the Economy Is Slowing Down
+
+Stocks often take a hit as company profits fall and investors get nervous.
+
+However, bonds typically do better because interest rates typically drop during tough times, making existing bonds more valuable.
+
+Special Situations
+
+Gold often acts like a financial fallout shelter. When investors get anxious—whether from economic troubles, political uncertainty, or fears of inflation—many rush to gold as a safe haven.
+
+Commodities like oil and metals tend to do well when inflation rises since their prices often increase along with everything else.
+
+Cash and cash-like investments, such as money market funds, attract investors looking to protect their money during uncertain times. While these won't generate big returns, they offer stability when other investments get choppy.
+
+Tip Keep in mind: While these patterns tend to hold true over time, there are no guarantees they'll do so each time. That's why diversification—spreading your money across different types of investments—is crucial no matter the economic conditions.
+
+What Are the Different Asset Classes? Historically, the three main asset classes were equities (stocks), debt (bonds), and money market instruments. Today, you'd add real estate, commodities, futures, options, and even cryptocurrencies as separate asset classes.
+
+Which Asset Classes Are the Hardest to Trade? Generally, land and real estate are considered among the least liquid assets since buying or selling a property at market price often takes a long time. Conversely, money market instruments are the most liquid because they can easily be sold for their full value.
+
+What Asset Classes Are Best When Inflation Is High? Real estate and commodities are considered good inflation hedges because their value tends to rise as prices increase. Additionally, some government bonds adjust automatically for inflation, making them an attractive way to store excess cash.
+
+The Bottom Line
+
+Understanding the investment risk ladder, which moves from safe cash holdings at the bottom to volatile alternative investments at the top, gives you a good way to think about building your portfolio. You can start with simple, widely used investments like index funds that track the broad market. As your knowledge grows, you can explore other rungs that match your goals and risk tolerance.
+
+Remember three key principles: Never invest in something you don't understand, ignore "hot tips" from unreliable sources, and spread your money across different assets. And consider consulting with fee-only financial advisors . They get paid for their time rather than for selling specific products, so their advice is more likely to put your interests first.

@@ -1,0 +1,125 @@
+Title: Interest Rates: Types and What They Mean to Borrowers
+Source: https://www.investopedia.com/terms/i/interestrate.asp
+Category: General_Finance
+--------------------
+An interest rate is the price an entity pays for borrowing money or the fee they charge for lending it, expressed as a percentage.
+
+What Is an Interest Rate?
+
+In a loan, the interest rate is the percentage of interest relative to the principal. It is either what lenders charge borrowers or what is earned from deposit accounts.
+
+The interest rate on a loan is typically noted on an annual basis and is expressed as an annual percentage rate (APR).
+
+An interest rate can also apply to a savings account or a certificate of deposit (CD). In this case, a bank or credit union pays a percentage of the funds deposited to the account holder. Annual percentage yield (APY) refers to the interest earned on these deposit accounts.
+
+Key Takeaways An interest rate also applies to the amount earned at a bank or credit union from a deposit account.
+
+Most mortgages use simple interest. However, some loans use compound interest, which is applied to the principal but also to the accumulated interest of previous periods.
+
+A loan that is considered low-risk by the lender will have a lower interest rate. A loan that is considered high-risk will have a higher interest rate.
+
+The APY is the interest rate that is earned at a bank or credit union from a savings account or CD. Savings accounts and CDs use compound interest.
+
+The borrower's credit score, the loan type, and the overall economic conditions are factors that determine interest rates. Investopedia / Julie Bang
+
+Understanding Interest Rates
+
+In lending, interest is a charge to the borrower for the use of an asset. Assets borrowed can include cash, consumer goods, vehicles, and property. Because of this, an interest rate can be thought of as the "cost of money." Higher interest rates make borrowing the same amount of money more expensive.
+
+Interest rates apply to most lending or borrowing transactions. Individuals borrow money to purchase homes, fund projects, launch or fund businesses, or pay for college tuition. Businesses take out loans to fund capital projects and expand their operations by purchasing fixed and long-term assets such as land, buildings, and machinery. Borrowed money is repaid either in a lump sum by a pre-determined date or in periodic installments.
+
+For loans, the interest rate is applied to the principal, which is the amount of the loan. The interest rate is the cost of debt for the borrower and the rate of return for the lender. The money to be repaid is usually more than the borrowed amount since lenders require compensation for the loss of use of the money during the loan period. The lender could have invested the funds during that period instead of providing a loan, which would have generated income from the asset. The difference between the total repayment sum and the original loan is the interest charged.
+
+When the loan is considered to be low risk by the lender, the borrower will usually be charged a lower interest rate. If the loan is considered high risk, the interest rate that the borrower is charged will be higher.
+
+Important Risk is typically assessed when a lender looks at a potential borrower's credit score, which is why it's important to have an excellent one if you want to qualify for the best loans.
+
+Simple Interest Rate
+
+If you take out a $300,000 loan from the bank and the loan agreement stipulates that the interest rate on the loan is 4% simple interest, this means that you will have to pay the bank the original loan amount of $300,000 + (4% x $300,000) = $300,000 + $12,000 = $312,000.
+
+The example above was calculated based on the annual simple interest formula, which is:
+
+Simple interest = principal x interest rate x time
+
+The individual who took out the loan will have to pay $12,000 in interest at the end of the year, assuming it was only a one-year lending agreement. If the loan was a 30-year mortgage, the interest payment will be:
+
+Simple interest = $300,000 x 4% x 30 = $360,000
+
+A simple interest rate of 4% annually translates into an annual interest payment of $12,000. After 30 years, the borrower would have made $12,000 x 30 years = $360,000 in interest payments.
+
+Compound Interest Rate
+
+Some lenders prefer the compound interest method, which means that the borrower pays even more in interest. Compound interest, also called interest on interest, is applied both to the principal and also to the accumulated interest made during previous periods. The bank assumes that at the end of the first year the borrower owes the principal plus interest for that year. The bank also assumes that at the end of the second year, the borrower owes the principal plus the interest for the first year plus the interest on interest for the first year.
+
+The interest owed when compounding is higher than the interest owed using the simple interest method. The interest is charged monthly on the principal, including accrued interest from the previous months. For shorter time frames, the calculation of interest will be similar for both methods. As the lending time increases, however, the disparity between the two types of interest calculations grows.
+
+Using the example above, at the end of 30 years, the total owed in interest is almost $673,019 on a $300,000 loan with a 4% interest rate.
+
+The following formula can be used to calculate compound interest:
+
+Compound interest = p x [(1 + interest rate)n − 1]
+
+where:
+
+p = principal
+
+n = number of compounding periods​
+
+
+
+Let's look at another example. Jayati takes out a three-year loan of $10,000 at an interest rate of 5%, which compounds annually. In the end, as worked out in the calculation below, she pays $1,576.25 in interest on the loan:
+
+$10,000 [(1 + 0.05)3 – 1] = $10,000 [1.157625 – 1] = $1,576.25
+
+
+
+Compound Interest and Savings Accounts
+
+When you save money using a savings account, compound interest is favorable. The interest earned on these accounts is compounded and serves as compensation to the account holder for allowing the bank to use the deposited funds.
+
+If, for example, you deposit $500,000 into a high-yield savings account, the bank can take $300,000 of these funds to use as a mortgage loan. To compensate you, the bank pays 5% interest into the account annually. So, while the bank is taking 8% from the borrower, it is giving 5% to you, the account holder, netting it 3% in interest. In effect, savers lend the bank money which, in turn, provides funds to borrowers in return for interest.
+
+APR vs. APY
+
+Interest rates on consumer loans are typically quoted as the annual percentage rate (APR). This is the rate of return that lenders demand for the ability to borrow their money. For example, the interest rate on credit cards is quoted as an APR. In our example above, 4% is the APR for the mortgage. The APR does not consider compounded interest for the year.
+
+The annual percentage yield (APY) is the interest rate that is earned at a bank or credit union from a savings account or CD. This interest rate takes compounding into account.
+
+How Are Interest Rates Determined?
+
+The interest rate charged by banks is determined by a number of factors, including the state of the economy. A country's central bank (e.g., the Federal Reserve in the U.S.) sets the interest rate, which each bank uses to determine the APR range they offer. When the central bank sets interest rates at a high level, the cost of debt rises. When the cost of debt is high, it discourages people from borrowing and slows consumer demand. Interest rates tend to rise with inflation.
+
+In a high-interest-rate economy, businesses have limited access to capital funding through debt, which can lead to economic contraction.
+
+Economies are often stimulated during periods of low interest rates because borrowers have access to loans at inexpensive rates. Since interest rates on savings are low, businesses and individuals are more likely to spend and purchase riskier investment vehicles such as stocks. This spending fuels the economy and provides an injection to capital markets leading to economic expansion.
+
+While governments prefer lower interest rates, they eventually lead to market disequilibrium where demand exceeds supply, causing inflation. When inflation occurs, interest rates increase, which may relate to Walras' law.
+
+6.85% The average interest rate on a 30-year fixed-rate mortgage in February 2025. This was slightly down from 6.90% a year earlier.
+
+Interest Rates and Race
+
+There is evidence that suggests that white people get approved more often for mortgages. Data reported under the Home Mortgage Disclosure Act, the most comprehensive publicly-available information on mortgage market activity, showed that Black, Hispanic, and Asian applicants were denied conventional mortgage loans in 2023 17.1%, 12.1%, and 9.7% of the time, respectively. The denial rate for white applicants, on the other hand, was lower at 6.8%.
+
+
+
+Evidence of interest rate discrimination with mortgages has been confirmed by other sources, including Harvard University and the Urban Institute, which found in 2022 that the average Black homeowner gets charged an interest rate that is 33 basis points higher than the average white homeowner, and pays about $250 more per year in interest.
+
+Not everybody agrees with these findings. A study by economists at the Federal Reserve Board concluded that no racial group gets preferential treatment, leading its authors to speculate that reporting of disparities elsewhere may be due to many Black and Hispanic borrowers tending to choose slightly higher interest rates in return for lower up-front costs.
+
+The Federal Reserve Board believes discrimination is improving and credits this, in part, to a rise in automated underwriting and stricter enforcement of the Fair Housing Act and the Equal Credit Opportunity Act.
+
+
+
+Why Are Interest Rates on 30-year Loans Higher than on 15-year Loans? Interest rates are a function of the risk of default and the opportunity cost. Longer loans and debts are inherently more risky, as there is more time for the borrower to default. The same time, the opportunity cost is also larger over longer time periods, as the principal is tied up and cannot be used for any other purpose.
+
+How Does the Fed Use Interest Rates? The Federal Reserve, along with other central banks around the world, uses interest rates as a monetary policy tool. By increasing the cost of borrowing among commercial banks, the central bank can influence many other interest rates, such as those for personal loans, business loans, and mortgages. This makes borrowing more expensive in general, lowering the demand for money and cooling off a hot economy. Lowering interest rates, on the other hand, makes money easier to borrow, stimulating spending and investment.
+
+Why Do Bond Prices React Inversely to Interest Rate Changes? A bond is a debt instrument that typically pays a fixed rate of interest over its lifetime. Say that prevailing interest rates are 5%. If a bond is priced at par = $1,000 and has an interest rate (coupon) of 5%, it will pay bondholders $50 a year. If interest rates rise to 10%, new bonds issued will pay double—i.e., $100 per $1,000 in face value. An existing bond that only pays $50 will have to sell at a steep discount in order for somebody to want to buy it. Likewise, if interest rates drop to 1%, new bonds will only pay $10 per $1,000 in face value. Hence, a bond that pays $50 will be in high demand and its price will be bid up quite high.
+
+The Bottom Line
+
+An interest rate is the cost of debt for the borrower and the rate of return for the lender. When you take out a loan, you are expected to pay the entity lending you money something extra as compensation. Likewise, if you deposit money in a savings account, the financial institution may reward you because it can use part of this money to make more loans to its customers.
+
+These charges or payments are called interest and are applied at a specified rate.

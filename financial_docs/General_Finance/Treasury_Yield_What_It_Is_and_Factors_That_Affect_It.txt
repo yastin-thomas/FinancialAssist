@@ -1,0 +1,105 @@
+Title: Treasury Yield: What It Is and Factors That Affect It
+Source: https://www.investopedia.com/terms/t/treasury-yield.asp
+Category: General_Finance
+--------------------
+Treasury yield is the annual return, shown as a percentage, that the U.S. government offers to investors who hold its debt, such as bonds or bills.
+
+What Is the Treasury Yield?
+
+Treasury yield is the percentage return an investor earns each year by holding a U.S. government debt security, reflecting the interest paid by the government on that borrowing.
+
+Treasury yields don't just affect how much the government pays to borrow and how much investors earn by buying government bonds. They also influence the interest rates that consumers and businesses pay on loans to buy real estate, vehicles, and equipment.
+
+Treasury yields also show how investors assess the economy's prospects. The higher the yields on long-term U.S. Treasuries, the more confidence investors have in the economic outlook. But high long-term yields can also be a sign of rising inflation expectations.
+
+Key Takeaways Treasury yields are the interest rates that the U.S. government pays to borrow money for varying periods of time.
+
+Treasury yields are inversely related to Treasury prices, and yields are often used to price and trade fixed-income securities, including Treasuries.
+
+Treasury securities with different maturities have different yields; longer-term Treasury securities usually have higher yields than shorter-term ones.
+
+Treasury yields reflect investors' assessments of the economy's prospects; higher yields on long-term instruments indicate a more optimistic outlook and higher inflation expectations. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+Investopedia / Michela Buttignol
+
+Understanding the Treasury Yield
+
+When the U.S. government decides to borrow funds, it issues debt instruments through the U.S. Treasury.
+
+While bonds are a generic name for debt securities, Treasury bonds, or T-bonds, refer specifically to U.S. government bonds with maturities of 20 to 30 years. U.S. government obligations with maturities above a year and up to 10 years are known as Treasury notes. Treasury bills, or T-bills, are Treasury obligations maturing within a year.
+
+Treasury yields are inversely related to Treasury prices. Each Treasury debt maturity trades at its own yield, an expression of price. The U.S. Treasury publishes the yields of all Treasury maturities daily on its website.
+
+
+
+How Treasury Yields Are Determined
+
+Treasuries are viewed as the lowest-risk investments because they are backed by the full faith and credit of the U.S. government. Investors who purchase Treasuries are lending the government money. The government, in turn, pays interest to these bondholders. The interest payments, known as coupons, represent the cost of borrowing to the government. The rate of return, or yield, that investors receive in return for lending money to the government is determined by supply and demand.
+
+Treasury bonds and notes are issued at face value, the principal that the Treasury will repay on the maturity date, and auctioned off to primary dealers based on bids specifying a minimum yield. If the price paid for these securities rises in secondary trading, the yield falls accordingly, and conversely, if the price paid for a bond drops, the yield rises.
+
+For example, if a 10-year T-note with a face value of $1,000 is auctioned off at a yield of 3%, a subsequent drop in its market value to $974.80 will cause the yield to rise to 3.3%, since the Treasury will still be making the $30 ($1,000 x .03) annual coupon payments as well as the $1,000 principal repayment. Conversely, if the same T-note's market value were to rise to $1,026, the effective yield for a buyer at that price would have declined to 2.7%.
+
+Treasury Yield Curve and the Fed
+
+Treasury yields can go up, sending bond prices lower, if the Federal Reserve increases its target for the federal funds rate (in other words, if it tightens monetary policy), or even if investors merely come to expect the fed funds rate to go up.
+
+
+
+The yields on the different Treasury maturities don't all rise at the same pace in such instances. Because the fed funds rate represents the rate banks charge each other for overnight loans, it most directly affects the shortest-term Treasury maturities. The prices and yield of longer-term maturities will be more reflective of investors' longer-term expectations for economic performance. In past instances of Fed rate hikes, short-term yields have typically risen faster than longer-term ones as bonds priced in investor expectations of slowing economic growth in response to the Fed's policy.
+
+Normally, longer-term Treasury securities have higher yields than shorter-term ones. That's because the longer duration of those securities exposes them to more of a risk if interest rates rise over time. However, in advance of recessions, the rate structure of Treasury yields, often called the yield curve, can invert. That happens when the yields on longer-term Treasuries fall below those on short-term ones as they price in investor expectations of an economic slowdown.
+
+An inverted yield curve in which the yield on the 10-year Treasury note has declined below that on the two-year Treasury note (to cite just one popular benchmark) has usually preceded recessions, though it has also provided a few false alarms.
+
+Important When long-term Treasury yields are below short-term ones, the correlation is characterized as an inverted yield curve and is often seen as a precursor to an economic downturn.
+
+Yield on Treasury Bills
+
+While Treasury notes and bonds offer coupon payments to bondholders, the T-bill is similar to a zero-coupon bond that has no interest payments but is issued at a discount to par. An investor purchases the bill at a weekly auction below face value and redeems it at maturity at face value.
+
+The difference between the face value and purchase price amounts to interest earned, which can be used to calculate a Treasury bill's yield. The Treasury Department uses two methods to calculate the yield on T-bills: the discount method and the investment method.
+
+Under the discount yield method, the return as a percent of the face value, not the purchase value, is calculated. For example, an investor purchasing 90-day T-bills with a face value of $10,000 for $9,950 will have a yield of:
+
+Discount Yield = [(10,000 - 9,950) / 10,000] x (360/90) = 0.02, or 2%
+
+Under the investment yield method, the Treasury yield is calculated as a percent of the purchase price, not the face value. Following our example above, the yield under this method is:
+
+Investment Yield = [(10,000 - 9,950) / 9,950] x (365/90) = 0.0204 rounded, or 2.04%
+
+Note that the two methods use different numbers for days in a year. The discount method is based on 360 days, following the practice used by banks to determine short-term interest rates, and the discount yield, or rate, is how T-bills are quoted on the secondary market. The investment yield uses the number of days of a calendar year (usually 365 or 366), which more accurately represents returns to the buyer, but can be used to compare the yield on the T-bill with that of a coupon security maturing on the same date.
+
+Yield on Treasury Notes and Bonds
+
+The rate of return for investors holding Treasury notes and Treasury bonds considers the coupon payments they receive semi-annually and the face value of the bond repaid at maturity. T-notes and bonds can be purchased at par, at a discount, or at a premium, depending on where the yield is at purchase relative to the yield when issued. If a Treasury is purchased at par, then its yield equals its coupon rate, or the yield at issue. If a T-bond or Treasury note is purchased at a discount to face value, the yield will be higher than the coupon rate, while if it is purchased at a premium, the yield will be lower than the coupon rate.
+
+The formula for calculating the Treasury yield on notes and bonds held to maturity is:
+
+Treasury Yield = [C + ((FV - PP) / T)] ÷ [(FV + PP)/2]
+
+where C = coupon rate
+
+FV = face value
+
+PP = purchase price
+
+T = years to maturity
+
+The yield on a 10-year note with a 3% coupon purchased at a premium for $10,300 and held to maturity is:
+
+Treasury Yield = [300 + ((10,000 - 10,300) / 10)] ÷ [(10,000 + 10,300) / 2] = 270 / 10,150 = .0266 rounded, or 2.66%
+
+How Do Treasury Yields Pay? If you hold Treasuries, interest payments are made into your TreasuryDirect.gov account. If you do not have an account at TreasuryDirect.gov but instead hold bonds with a brokerage, payments will be made into your account there.
+
+Why Buy Treasuries? Though Treasuries have lower returns than some other securities, such as stocks, they are attractive to investors because they offer stability and liquidity. It is their low risk that makes them attractive, which is also the reason for their lower returns.
+
+Do You Pay Taxes on Treasury Yields? Yes, generally, you will pay federal taxes on the interest payments you receive on the Treasuries you hold. You will not pay state taxes. Muni bonds are exempt from federal taxes and, in some cases, state taxes.
+
+The Bottom Line
+
+The yield of a Treasury security is the inverse of its price, and Treasuries are priced, quoted, and traded using the yield to denote the price.
+
+Because of their relatively low risk when held to maturity, Treasuries offer a lower rate of return in comparison with most other investments. Rates on other fixed-income investments are sometimes quoted as spreads over the Treasury yield for the same maturity, with the spread compensating investors for the increased credit risk of lending to an entity other than the U.S. government.
+
+Longer-term Treasury securities normally have higher yields than short-term ones to compensate investors for the additional duration risk. Duration risk is the possibility that higher interest rates will lower the bond's market value. Short-term rates in excess of longer-term ones are a sign of an inverted yield curve and can signal an economic slowdown.

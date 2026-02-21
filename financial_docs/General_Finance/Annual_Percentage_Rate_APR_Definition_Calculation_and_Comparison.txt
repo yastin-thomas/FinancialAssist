@@ -1,0 +1,104 @@
+Title: Annual Percentage Rate (APR): Definition, Calculation, and Comparison
+Source: https://www.investopedia.com/terms/a/apr.asp
+Category: General_Finance
+--------------------
+Key Takeaways An annual percentage rate (APR) measures the yearly cost of borrowing or income from investing, including fees, without considering compounding interest.
+
+Financial institutions must disclose APR thanks to the Truth in Lending Act, so consumers can compare rates across financial products effectively.
+
+Although APR offers a snapshot of costs, it may understate actual expenditures due to its exclusion of compound interest and possibly unlisted fees.
+
+APR differs from annual percentage yield (APY), which accounts for compound interest, making it a more precise reflection of actual financial cost or gain.
+
+APRs can vary by credit type, with different rates for purchases, cash advances, and balance transfers, and are influenced by a borrower's credit profile.
+
+
+
+What Is Annual Percentage Rate (APR)?
+
+Annual percentage rate (APR) is a critical concept for anyone dealing with loans or investments, as it calculates the actual yearly cost of borrowing or earnings from an investment, presented as a percentage. Unlike other interest metrics, APR encompasses not only the nominal interest rate but also includes fees and additional costs.
+
+By providing consumers with a single figure, APR simplifies the comparison of different financial products, ensuring informed financial decisions. This article will guide you through understanding how APR works, its implications, and how to use it effectively for smarter financial choices.
+
+Annual percentage rate represents the true cost of borrowing, including the interest rate you play plus any additional fees. Investopedia / Lara Antal
+
+Understanding How Annual Percentage Rate (APR) Functions
+
+An annual percentage rate is expressed as an interest rate. It calculates what percentage of the principal you’ll pay each year when taking things such as monthly payments and fees into account. APR is also the annual rate of interest paid on investments without accounting for the compounding of interest within that year.
+
+According to the Truth in Lending Act (TILA) of 1968, lenders must disclose the APR they charge to borrowers. Credit card companies can advertise interest rates monthly, but they must report the APR to customers before agreements are signed.
+
+Important Credit card companies can increase your interest rate for new purchases, but not on existing balances, if they provide you with 45 days' notice first.
+
+Step-by-Step Guide to Calculating Annual Percentage Rate (APR)
+
+APR is calculated by multiplying the periodic interest rate by the number of periods in a year in which it was applied. It does not indicate how many times the rate is actually applied to the balance.
+
+APR = ( ( Fees + Interest Principal n ) × 365 ) × 100 where: Interest = Total interest paid over life of the loan Principal = Loan amount n = Number of days in loan term \begin{aligned} &\text{APR} = \left ( \left ( \frac{ \frac{ \text{Fees} + \text{Interest} }{ \text {Principal} } }{ n } \right ) \times 365 \right ) \times 100 \\ &\textbf{where:} \\ &\text{Interest} = \text{Total interest paid over life of the loan} \\ &\text{Principal} = \text{Loan amount} \\ &n = \text{Number of days in loan term} \\ \end{aligned} ​APR=((nPrincipalFees+Interest​​)×365)×100where:Interest=Total interest paid over life of the loanPrincipal=Loan amountn=Number of days in loan term​
+
+Exploring Different Types of Annual Percentage Rates (APRs)
+
+Credit card APRs vary based on the type of charge. The credit card issuer may charge one APR for purchases, another for cash advances, and yet another for balance transfers from another card. Issuers also charge high-rate penalty APRs to customers for late payments or violating other terms of the cardholder agreement. There’s also the introductory APR—a low or 0% rate—with which many credit card companies try to entice new customers to sign up for a card.
+
+Bank loans generally come with either fixed or variable APRs. A fixed APR loan has an interest rate that is guaranteed not to change during the life of the loan or credit facility. A variable APR loan has an interest rate that may change at any time.
+
+A borrower's credit score also influences APR. Rates offered to those with excellent credit are significantly lower than loans offered to those with bad credit.
+
+Warning APR does not take into account the compounding of interest within a specific year: It is based only on simple interest.
+
+Comparing Annual Percentage Rate (APR) and Annual Percentage Yield (APY)
+
+While APR accounts for simple interest, the annual percentage yield (APY) includes compound interest, making it higher. As a result, a loan’s APY is higher than its APR. A higher interest rate and shorter compounding periods increase the difference between APR and APY.
+
+Imagine that a loan’s APR is 12%, and the loan compounds once a month. If an individual borrows $10,000, their interest for one month is 1% of the balance, or $100. That effectively increases the balance to $10,100. The following month, 1% interest is assessed on this amount, and the interest payment is $101, slightly higher than it was the previous month. If you carry that balance for the year, your effective interest rate becomes 12.68%. APY includes these small shifts in interest expenses due to compounding, while APR does not.
+
+Here's another way to look at it. Say you compare an investment that pays 5% per year with one that pays 5% monthly. For the first month, the APY equals 5%, the same as the APR. But for the second month, the APY is 5.12%, reflecting the monthly compounding.
+
+Lenders often emphasize the more flattering number even though the APR and APY may appear to be the same interest rate, which is why the Truth in Savings Act of 1991 says that both should be disclosed in ads, contracts, and agreements. Banks typically display a savings account's APY in a large font because it appears larger than the APR. The opposite happens when the bank lends money and tries to convince its borrowers that it’s charging a low rate.
+
+APR vs. APY Example
+
+Let's say that XYZ Corp. offers a credit card that levies interest of 0.06273% daily. Multiply that by 365, and that’s 22.9% per year, which is the advertised APR. Now, if you were to charge a different $1,000 item to your card every day and waited until the day after the due date (when the issuer started levying interest) to start making payments, you’d owe $1,000.6273 for each thing you bought.
+
+To calculate the APY or effective annual interest rate—the more typical term for credit cards—add one (that represents the principal) and take that number to the power of the number of compounding periods in a year; subtract one from the result to get the percentage:
+
+APY = ( 1 + Periodic Rate ) n − 1 where: n = Number of compounding periods per year \begin{aligned} &\text{APY} = (1 + \text{Periodic Rate} ) ^ n - 1 \\ &\textbf{where:} \\ &n = \text{Number of compounding periods per year} \\ \end{aligned} ​APY=(1+Periodic Rate)n−1where:n=Number of compounding periods per year​
+
+In this case, your APY or EAR would be 25.7%:
+
+( ( 1 + . 0006273 ) 365 ) − 1 = . 257 \begin{aligned} &( ( 1 + .0006273 ) ^ {365} ) - 1 = .257 \\ \end{aligned} ​((1+.0006273)365)−1=.257​
+
+If you only carry a balance on your credit card for one month’s period, you will be charged the equivalent yearly rate of 22.9%. However, if you carry that balance for the year, your effective interest rate becomes 25.7% as a result of compounding each day.
+
+APR vs. Nominal Interest Rate vs. Daily Periodic Rate
+
+An APR tends to be higher than a loan’s nominal interest rate. That’s because the nominal rate doesn’t account for any other expenses accrued by the borrower. The nominal rate may be lower on your mortgage if you don’t account for closing costs, insurance, and origination fees. If you end up rolling these into your mortgage, your mortgage balance increases, as does your APR.
+
+The daily periodic rate, on the other hand, is the interest charged on a loan’s daily balance—the APR divided by 365. Lenders and credit card providers are allowed to represent APR each month, though, as long as the full 12-month APR is listed somewhere before the agreement is signed.
+
+Potential Drawbacks of Using Annual Percentage Rate (APR)
+
+The APR isn’t always an accurate reflection of the total cost of borrowing. In fact, it may understate the actual cost of a loan. That’s because the calculations assume long-term repayment schedules. The costs and fees are spread too thin with APR calculations for loans that are repaid faster or have shorter repayment periods. For instance, the average annual impact of mortgage closing costs is much smaller when those costs are assumed to have been spread over 30 years instead of seven to 10 years.
+
+Important Lenders have a fair amount of authority to determine how to calculate the APR, including or excluding different fees and charges.
+
+APR also runs into some trouble with adjustable-rate mortgages (ARMs). Estimates always assume a constant rate of interest, and even though APR takes rate caps into consideration, the final number is still based on fixed rates. Because the interest rate on an ARM will change when the fixed-rate period is over, APR estimates can severely understate the actual borrowing costs if mortgage rates rise in the future.
+
+Mortgage APRs may or may not include other charges, such as appraisals, titles, credit reports, applications, life insurance, attorneys and notaries, and document preparation. Other fees are deliberately excluded, including late fees and other one-time fees.
+
+All this may make it difficult to compare similar products because the fees included or excluded differ from institution to institution. To accurately compare multiple offers, a potential borrower must determine which of these fees are included and, to be thorough, calculate APR using the nominal interest rate and other cost information.
+
+Why Is the Annual Percentage Rate (APR) Disclosed? Consumer protection laws require companies to disclose the APRs associated with their product offerings to prevent them from misleading customers. For instance, if they were not required to disclose the APR, a company might advertise a low monthly interest rate while implying to customers that it was an annual rate. This could mislead a customer into comparing a seemingly low monthly rate against a seemingly high annual one. By requiring all companies to disclose their APRs, customers are presented with an “apples to apples” comparison.
+
+What Is a Good APR? What counts as a “good” APR will depend on factors such as the competing rates offered in the market, the prime interest rate set by the central bank, and the borrower’s own credit score. When prime rates are low, companies in competitive industries will sometimes offer very low APRs on their credit products, such as 0% on car loans or lease options. Although these low rates might seem attractive, customers should verify whether these rates last for the full length of the product’s term, or whether they are simply introductory rates that will revert to a higher APR after a certain period has passed. Moreover, low APRs may only be available to customers with especially high credit scores.
+
+How Do You Calculate APR? The formula for calculating APR is straightforward. It consists of multiplying the periodic interest rate by the number of periods in a year in which the rate is applied. The exact formula is as follows: APR = ( ( Fees + Interest Principal n ) × 365 ) × 100 where: Interest = Total interest paid over life of the loan Principal = Loan amount n = Number of days in loan term \begin{aligned} &\text{APR} = \left ( \left ( \frac{ \frac{ \text{Fees} + \text{Interest} }{ \text {Principal} } }{ n } \right ) \times 365 \right ) \times 100 \\ &\textbf{where:} \\ &\text{Interest} = \text{Total interest paid over life of the loan} \\ &\text{Principal} = \text{Loan amount} \\ &n = \text{Number of days in loan term} \\ \end{aligned} ​APR=((nPrincipalFees+Interest​​)×365)×100where:Interest=Total interest paid over life of the loanPrincipal=Loan amountn=Number of days in loan term​
+
+
+
+The Bottom Line
+
+The APR is the basic theoretical cost or benefit of money loaned or borrowed. By calculating only the simple interest without periodic compounding, the APR gives borrowers and lenders a snapshot of how much interest they are earning or paying within a certain period of time. If someone is borrowing money, such as by using a credit card or applying for a mortgage or loan, the APR can be misleading because it only presents the base rate of what they are paying without taking the time into account. Conversely, if someone is looking at the APR on a savings account, it doesn't illustrate the full impact of interest earned over time.
+
+APRs are often a selling point for different financial instruments, such as mortgages or credit cards. When choosing a tool with an APR, be careful to also take into account the APY because it will provide a more accurate number for what you will pay or earn over time. Though the formula for your APR may stay the same, different financial institutions may include different fees in the principal balance. Be aware of what is included in your APR when signing any agreement.
+

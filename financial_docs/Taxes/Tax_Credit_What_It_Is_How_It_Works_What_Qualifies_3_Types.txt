@@ -1,0 +1,161 @@
+Title: Tax Credit: What It Is, How It Works, What Qualifies, 3 Types
+Source: https://www.investopedia.com/terms/t/taxcredit.asp
+Category: Taxes
+--------------------
+What Is a Tax Credit?
+
+The term “tax credit” refers to an amount of money that taxpayers can subtract directly from the taxes they owe. This is different from tax deductions, which lower the amount of an individual’s taxable income.
+
+The value of a tax credit depends on the nature of the credit. Certain types of tax credits are granted to individuals or businesses in specific locations, classifications, or industries.
+
+Key Takeaways A tax credit is an amount of money that taxpayers can subtract, dollar for dollar, from the income taxes they owe.
+
+Tax credits are more favorable than tax deductions because they reduce the tax due, not just the amount of taxable income.
+
+There are three basic types of tax credits: nonrefundable, refundable, and partially refundable.
+
+Nonrefundable tax credits can reduce the tax you owe to zero, but they don’t provide refunds.
+
+Refundable credits are paid out in full, providing a refund for any remaining tax credit amount beyond zero tax due.
+
+Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+Investopedia / Jake Shi
+
+Understanding Tax Credits
+
+Federal and state governments may grant tax credits to promote specific behaviors that benefit the economy, the environment, or anything else that the government deems important.
+
+For example, a tax credit is available that rewards people for installing solar panels for home use. Other tax credits help offset the costs of child and dependent care, education, and adoption.
+
+Tax credits are more favorable than tax deductions because tax credits reduce tax liability dollar for dollar. While a deduction still reduces the final tax liability, it only does so within an individual’s marginal tax rate.
+
+An individual in a 22% tax bracket, for example, would save $0.22 for every marginal tax dollar deducted. However, a credit would reduce the tax liability by the full $1.
+
+Types of Tax Credits
+
+There are three categories of tax credits: nonrefundable, refundable, and partially refundable.
+
+Nonrefundable Tax Credits
+
+Nonrefundable tax credits are amounts directly deducted from an individual’s tax liability until the tax due equals $0. Any amount greater than the tax owed, which normally results in a refund for the taxpayer, is not paid out as a refund. Hence the term “nonrefundable.” In effect, the remaining part of a nonrefundable tax credit that can’t be utilized is lost.
+
+Nonrefundable tax credits are valid in the year of reporting only, expire after the return is filed, and may not be carried over to future years. Because of this, nonrefundable tax credits can negatively impact low-income taxpayers, as they are often unable to use the entire amount of the credit.
+
+Below are some examples of commonly-claimed tax credits:
+
+Adoption credit
+
+Lifetime Learning Credit
+
+Residential energy credit
+
+Work opportunity credit
+
+Child and Dependent Care Credit
+
+Other dependents credit
+
+Retirement Savings Contributions Credit
+
+Child Tax Credit (CTC)
+
+Mortgage interest credit (helps lower-income taxpayers afford a home)
+
+Refundable Tax Credits
+
+Refundable tax credits are the most beneficial credit because they’re paid out in full. This means that a taxpayer (regardless of their income or tax liability) is entitled to the entire amount of the credit, beyond a zero amount of tax due. So, for example, if the refundable tax credit reduces the tax liability to below $0, then the taxpayer is due a refund of that specific amount.
+
+One of the most popular refundable tax credits is probably the Earned Income Tax Credit (EITC). The EITC is for low- to moderate-income taxpayers who earn income through an employer or by working as a self-employed individual and meet certain criteria based on income and number of family members.
+
+The premium tax credit is also refundable. It helps individuals and families cover the cost of premiums for health insurance purchased through the health insurance marketplace.
+
+Partially Refundable Tax Credits
+
+Some tax credits are only partially refundable. One example is the American Opportunity Tax Credit (AOTC) for postsecondary education students.
+
+If a taxpayer reduces their tax liability to $0 before using the entire portion of the $2,500 tax deduction, the remainder may be taken as a refundable credit up to the lesser of 40% of the remaining credit or $1,000.
+
+The Child Tax Credit was originally nonrefundable but became partially refundable as a result of the Tax Cuts and Jobs Act (TCJA). The maximum amount of the tax credit changes each year according to inflation.
+
+This credit was temporarily increased and became fully refundable as part of the American Rescue Plan for tax years 2020 and 2021. It was further increased under the One Big Beautiful Bill Act of 2025.
+
+2021 American Rescue Plan Changes
+
+In March 2021, Congress passed the American Rescue Plan, which was signed into law by President Biden. Under the plan, eligible individuals received up to $1,400 in stimulus checks.
+
+In addition, certain temporary changes were made to the Child Tax Credit for married couples filing jointly with a modified adjusted gross income (MAGI) up to $150,000, heads of household with MAGI up to $112,500, or single filers with MAGI up to $75,000:
+
+Originally capped at $2,000 per eligible dependent child, the Child Tax Credit was increased to $3,000 for children ages 6 to 17 and $3,600 for children younger than 6.
+
+The credit became fully refundable (previously, only $1,400 was refundable).
+
+In some cases, the Internal Revenue Service (IRS) issued up to half of an eligible household’s credit as an advance disbursed between July and December 2021, using 2020 returns (or 2019 if 2020 was unavailable) to determine eligibility.
+
+The bill eliminated the minimum income requirement. Previously, families earning less than $2,500 a year were ineligible, and credits were calculated based on distance from that minimum at a rate of 15 cents per child for every dollar of income above $2,500.
+
+The act also expanded the Earned Income Tax Credit for childless households. Previously, people under the age of 25 and over the age of 65 could not claim the credit. The upper limit was eliminated, and the lower limit was reduced to 19 (i.e., anyone 19 or older without a child who meets income requirements can claim the EITC).
+
+Note a few exceptions: Students ages 19 to 24 with at least half a full-time course load are ineligible. Former foster children or youths experiencing homelessness can claim the credit as 18-year-olds.
+
+The two EITC changes below are permanent:
+
+People who otherwise would be eligible for the EITC but whose children do not have Social Security numbers will be permitted to claim the version of the credit meant for childless households. The investment income limit for 2021 was raised from $3,650 or less to $10,000 or less. This $10,000 figure will be pegged to inflation and adjusted accordingly every year going forward.
+
+Important Except where noted, the American Rescue Plan measures above (including Child and Child/Dependent Care credits) were temporary and applied only to 2021. They reverted to their previous forms for 2022 and beyond.
+
+Example of a Tax Credit
+
+Let’s say that you’ve done your calculations and find that you owe the government a $2,000 tax payment for the year. But your tax advisor calls with good news: You’re eligible for a $2,500 refundable tax credit. This means that not only will your tax liability be eliminated, but you’ll also receive a $500 refund.
+
+Should that tax credit have been nonrefundable, your financial benefit would have been limited to zero taxes owed. You wouldn’t receive a refund for the remaining $500 of tax credit.
+
+Common Tax Credits
+
+Here are some details about several of the common tax credits mentioned earlier.
+
+Child and Dependent Care Credit
+
+The Child and Dependent Care Credit for expenses is nonrefundable. This credit, which requires IRS Form 2441, helps individuals and couples reduce the costs of care for children younger than 13. It’s available to those who have to arrange for this care so that they can work or look for employment.
+
+You may also receive the credit if you care for a spouse or a dependent of any age who cannot care for themselves. To qualify for this tax credit, your filing status must be single, married filing jointly, head of household, or qualifying widow or widower with a qualifying child.
+
+Lifetime Learning Credit
+
+The Lifetime Learning Credit can help offset the costs of any years of postsecondary education and whether or not you’re earning a degree.
+
+The tax credit can be 20% of up to $10,000 in qualifying expenses related to education, or $2,000, for an eligible taxpayer, their spouse, or their dependent. The full credit is only available for taxpayers with income below a certain threshold, which changes every year.
+
+Retirement Savings Contributions Credit
+
+The Retirement Savings Contributions Credit was created to encourage low- and moderate-income taxpayers to save for retirement. It can offset part of the first $2,000 that workers contribute to individual retirement accounts (IRAs), 401(k) plans, and certain other workplace retirement programs.
+
+It applies to eligible contributions to retirement plans. You must be at least 18 years old and not a full-time student during the year. Also, you may not be claimed as a dependent on someone else’s tax return.
+
+
+
+Tax Credit vs. Tax Deduction
+
+Both tax credits and tax deductions are a welcome feature of tax time for any taxpayer. They both reduce money owed to the government in a given year. However, they differ in how they do so.
+
+Tax Credit
+
+A tax credit reduces the specific amount of the tax that an individual owes. For example, say that you have a $500 tax credit and a $3,500 tax bill. The tax credit would reduce your bill to $3,000.
+
+You won’t be able to make the most of nonrefundable tax credits that reduce the amount of taxes you owe to zero and still have dollars left over. That amount isn’t refundable.
+
+Refundable tax credits do provide you with a refund if they have money left over after reducing your tax bill to zero. As a result, they’re considered more valuable than nonrefundable tax credits.
+
+There are also certain tax credits that result in a refund even if you had no tax liability.
+
+You must meet certain criteria for tax credits, so be sure to check with a tax advisor or the information provided by the IRS.
+
+Tax Deduction
+
+A tax deduction reduces the amount of your income that is subject to taxation. For example, the contributions that you make to a 401(k) in a particular year reduce your taxable income by the total amount contributed.
+
+You can choose to take the standard deduction offered to every taxpayer, or you can itemize your deductions. It’s one or the other, so be sure to consider whether individual deductions could save you more than the standard deduction before preparing your taxes.
+
+Bear in mind that you’ll have to provide documentation for the deductions you itemize, whereas the standard deduction is automatic.
+
+Here’s a quick comparison of the financial benefit offered by a tax credit vs. a tax deduction:

@@ -1,0 +1,65 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\yasti\projects\FinancialAssist
+plugins: anyio-4.12.1, langsmith-0.7.3, cov-7.0.0, mock-3.15.1
+collected 30 items
+
+tests\test_agents.py .                                                   [  3%]
+tests\test_embedding.py ....                                             [ 16%]
+tests\test_scrape_data.py ..                                             [ 23%]
+tests\test_tools.py ...................                                  [ 86%]
+tests\test_workflow.py .                                                 [ 90%]
+tests\test_z_main.py ...                                                 [100%]
+
+============================== warnings summary ===============================
+myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25
+  C:\Users\yasti\projects\FinancialAssist\myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+    from pydantic.v1.fields import FieldInfo as FieldInfoV1
+
+tests/test_tools.py::test_fetch_market_data_success
+  C:\Users\yasti\AppData\Local\Python\pythoncore-3.14-64\Lib\unittest\mock.py:2252: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x0000021F79E9E6B0>
+    def __init__(self, name, parent):
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_tools.py::test_fetch_market_data_success
+  C:\Users\yasti\AppData\Local\Python\pythoncore-3.14-64\Lib\unittest\mock.py:2252: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x0000021F79E9E7A0>
+    def __init__(self, name, parent):
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_tools.py::test_fetch_market_data_success
+  C:\Users\yasti\AppData\Local\Python\pythoncore-3.14-64\Lib\unittest\mock.py:2252: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x0000021F79E9E890>
+    def __init__(self, name, parent):
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_tools.py::test_fetch_market_data_success
+  C:\Users\yasti\AppData\Local\Python\pythoncore-3.14-64\Lib\unittest\mock.py:2252: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x0000021F79E9EA70>
+    def __init__(self, name, parent):
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+tests/test_tools.py::test_fetch_market_data_success
+  C:\Users\yasti\AppData\Local\Python\pythoncore-3.14-64\Lib\unittest\mock.py:2252: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x0000021F79E9F4C0>
+    def __init__(self, name, parent):
+  Enable tracemalloc to get traceback where the object was allocated.
+  See https://docs.pytest.org/en/stable/how-to/capture-warnings.html#resource-warnings for more info.
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.14.2-final-0 _______________
+
+Name                 Stmts   Miss  Cover   Missing
+--------------------------------------------------
+src\__init__.py          0      0   100%
+src\agents.py           38      0   100%
+src\embedding.py        40      1    98%   63
+src\main.py            185     31    83%   14, 48-49, 64-66, 140-142, 159-160, 210-212, 238-247, 251, 284-294
+src\scrape_data.py      49      6    88%   102, 104, 112, 149-150, 153
+src\tools.py           139     16    88%   19-24, 134-136, 153-159
+src\utils.py             0      0   100%
+src\workflow.py         64      0   100%
+--------------------------------------------------
+TOTAL                  515     54    90%
+======================= 30 passed, 6 warnings in 15.78s =======================

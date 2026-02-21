@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langgraph
+streamlit
+yfinance
+python-dotenv
+pandas
+plotly
+duckduckgo-search
+newspaper3k
+lxml[html_clean]
+langchain-community
+faiss-cpu
+tabulate
+langchain-google-genai

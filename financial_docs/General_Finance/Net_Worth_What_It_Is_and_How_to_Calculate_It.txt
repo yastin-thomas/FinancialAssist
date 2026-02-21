@@ -1,0 +1,133 @@
+Title: Net Worth: What It Is and How to Calculate It
+Source: https://www.investopedia.com/terms/n/networth.asp
+Category: General_Finance
+--------------------
+Net worth is the monetary value of the assets owned by an individual or business entity after subtracting the total value of their liabilities.
+
+What Is Net Worth?
+
+Net worth is the difference between what a person or company owns and what they owe. It provides a snapshot of financial health and is often used to determine eligibility for specific investments or loans, such as hedge funds, structured products, or alternative investments. In popular culture, net worth is also used to rank the wealth of public figures and celebrities.
+
+Key Takeaways Net worth compares assets to liabilities.
+
+A positive net worth is healthy, a negative net worth is not (although it may be temporary).
+
+Individuals, corporations, sectors, and even countries can have a net worth.
+
+In business, net worth is commonly referred to as book value or shareholders’ equity.
+
+People with substantial net worth are called high-net-worth individuals (HNWI). Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+Knowing your net worth helps you understand your current financial situation and plan accordingly for the future. Joules Garcia / Investopedia
+
+How to Calculate Net Worth
+
+Net worth is calculated by subtracting all liabilities from all assets.
+
+Assets - Liabilities = Net Worth
+
+An asset is anything owned that has monetary value. Liabilities are obligations that deplete financial resources. They include loans, accounts payable (AP), and mortgages.
+
+Net worth can be described as either positive or negative:
+
+Positive net worth means that assets exceed liabilities.
+
+Negative net worth indicates that liabilities exceed assets.
+
+Positive and increasing net worth indicates good financial health. Decreasing net worth is cause for concern because it might signal a decrease in assets relative to liabilities.
+
+The best ways to improve net worth are to reduce liabilities while assets stay constant or rise in value, or increase assets while liabilities remain constant or decrease.
+
+Tip Keeping track of your net worth over time is a good way to keep the focus on your efforts to save and to control your spending. Knowing your net worth and which way it's moving gives you a perspective on changes you may need to make for your financial goals and security.
+
+Negative Net Worth
+
+A negative net worth results when the value of your debts exceeds the value of your assets.
+
+So, for example, your net worth will be negative if the sum of your credit card bills, utility bills, outstanding mortgage payments, auto loan bills, and student loans is greater than the sum of your cash, savings, investments, and other property.
+
+Negative net worth is a sign that an individual or family needs to focus its energy on debt reduction. A tough budget, the use of debt reduction strategies (like the debt snowball or debt avalanche), and perhaps debt negotiation can sometimes help people climb out of a negative net worth hole and start building up their financial resources.
+
+It's Not Uncommon
+
+A negative net worth isn’t uncommon early in life. Student loans mean that even those young people who are careful with their money can start out owing more than they own.
+
+Family responsibilities or an unexpected illness can also push people into the red.
+
+Filing for bankruptcy protection to eliminate some of the debt and prevent creditors from trying to collect on it might be the most appropriate solution when nothing else has worked.
+
+Some liabilities can’t be discharged, however. They include child support, alimony, taxes, and often student loans. And many types of bankruptcy will stay on an individual’s credit report for 10 years.
+
+Net Worth in Business
+
+Net worth is known as book value or shareholders’ equity in business. A company's balance sheet is also known as a net worth statement.
+
+The value of a company’s equity equals the difference between the value of total assets and total liabilities. The values on a company’s balance sheet highlight historical costs or book values rather than current market values.
+
+Lenders scrutinize a business’s net worth to determine whether it’s financially healthy. A creditor might not be too confident in a company’s ability to repay its loans if total liabilities exceed total assets.
+
+A consistently profitable company will register a rising net worth or book value provided that these earnings aren’t fully distributed to shareholders as dividends.
+
+A rising book value will often be accompanied by an increase in the value of a public company’s stock price.
+
+Fast Fact Net worth can apply to individuals, companies, sectors, and even countries, and is sometimes referred to as net wealth.
+
+Net Worth in Personal Finance
+
+An individual's net worth is the value that's left after subtracting liabilities from assets.
+
+Liabilities include debts such as mortgages, credit card balances, student loans, auto loans, and outstanding bills or taxes.
+
+Assets include checking and savings balances, retirement and taxable investment accounts, real estate, and the market value of automobiles.
+
+A person's net worth is the amount remaining after selling all assets and paying off personal liabilities. Usually, though, net worth is calculated by simply adding up the value of assets and then subtracting the amount of liabilities from that figure.
+
+People with substantial net worth are known as high-net-worth individuals (HNWIs). They are the target market for certain wealth managers and investment advisors.
+
+Investors with net worths of at least $1 million either alone or together with their spouse and excluding their primary residences are "accredited" investors in the eyes of the Securities and Exchange Commission (SEC). That means they’re permitted to invest in unregistered securities offerings.
+
+Example of Net Worth
+
+Consider a couple with the following assets:
+
+Primary residence valued at $250,000
+
+An investment portfolio with a market value of $100,000
+
+Automobiles and other assets valued at $25,000
+
+Liabilities are:
+
+An outstanding mortgage balance of $100,000
+
+A car loan of $10,000
+
+The couple’s net worth would therefore be calculated like this:
+
+($250,000 + $100,000 + $25,000) - ($100,000 + $10,000) = $265,000
+
+Assume that the couple's financial position changes five years later. Their residence's value is $225,000, their investment portfolio is $120,000, their savings total $20,000, and their automobile and other assets are valued at $15,000.
+
+Their mortgage loan balance is $80,000, and the car loan is $0 because it was paid off. Their net worth would be:
+
+($225,000 + $120,000 + $20,000 + $15,000) - $80,000 = $300,000
+
+The couple’s net worth has gone up by $35,000 despite the decrease in the value of their residence and car.
+
+These declines were more than offset by an increase in their investment portfolio's value and their savings plus the drop in liabilities.
+
+
+
+What Is a Good Net Worth? A good net worth varies for every individual according to their life circumstances, financial needs, and lifestyle. The latest data from the Federal Reserve puts median net worth of a family in the United States at $192,700 in 2022. However, that number is expected to change in late 2026, based on updated data from the most recent Federal Reserve survey results.
+
+How Do I Calculate My Net Worth? Simply subtract your total liabilities from your total assets. Your total assets include everything you own with a monetary value—your investments, savings, cash deposits, and any equity that you have in a home, car, or other similar assets. Total liabilities include any debt, such as student loans and credit card debt.
+
+How Much Should I Have Saved? What you should have saved depends on your age, your career, your lifestyle, and your life’s circumstances. Fidelity recommends having saved three times your annual salary across all of your retirement accounts by the time you’re 40.
+
+How Many People in America Are Considered High-Net-Worth? High-net-worth individuals have at minimum $1 million in liquid financial assets. The United States had 22.7 million HNWIs in 2025.
+
+The Bottom Line
+
+Net worth is a good way to assess the true wealth of an individual or business. Looking only at someone’s assets can be misleading because this total is often offset by some amount of debt and other liabilities.
+
+You can grow your net worth by increasing the value of your assets and reducing your liabilities.

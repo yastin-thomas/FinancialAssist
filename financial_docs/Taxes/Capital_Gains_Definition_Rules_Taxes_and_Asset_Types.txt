@@ -1,0 +1,71 @@
+Title: Capital Gains: Definition, Rules, Taxes, and Asset Types
+Source: https://www.investopedia.com/terms/c/capitalgain.asp
+Category: Taxes
+--------------------
+What Is a Capital Gain?
+
+A capital gain refers to the increase in the value of a capital asset that is realized when it's sold. A capital gain occurs when you sell an asset for more than what you paid to purchase it. The Internal Revenue Service (IRS) taxes individuals on capital gains under certain circumstances.
+
+Almost any type of asset you own is a capital asset. They can include investments such as stock, bonds, or real estate, and items purchased for personal use, such as furniture or a boat.
+
+Key Takeaways A capital gain is the increase in a capital asset's value that is realized when the asset is sold.
+
+Capital gains apply to any type of asset, including investments and items purchased for personal use.
+
+The gain may be short-term (one year or less) or long-term (more than one year) and must be reported on income tax returns.
+
+Unrealized gains and losses reflect an increase or decrease in an investment's value but are not considered taxable.
+
+A capital loss is incurred when a capital asset is sold for less than its purchase price. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+Investopedia / Mira Norian
+
+Understanding Capital Gains
+
+Capital gains represent the increase in the value of an asset. These gains are typically realized at the time the asset is sold, and they're often associated with investments, such as stocks and funds, due to their inherent price volatility.
+
+But they can also be realized on any security or possession that's sold for a price higher than the original purchase price, such as a home, furniture, or vehicle.
+
+Short- and Long-Term Capital Gains
+
+Capital gains fall into two categories:
+
+Short-term : Gains realized on assets that you've sold after holding them for one year or less
+
+: Gains realized on assets that you've sold after holding them for one year or less Long-term: Gains realized on assets that you've sold after holding them for more than one year
+
+Both short- and long-term gains must be reported on your annual tax return. Understanding the distinction between them and factoring it into an investment strategy is particularly important for day traders and others who trade securities online.
+
+Realized gains trigger a taxable event. Unrealized gains, sometimes referred to as paper gains, reflect an increase in the value of an investment that hasn't been sold. For example, if you own stock that goes up in price, but you haven't yet sold it, you have an unrealized gain. It's not a taxable event.
+
+
+
+Important A capital loss is the opposite of a capital gain. It is incurred when a capital asset is sold for less than its purchase price.
+
+Capital Gains Tax
+
+Short- and long-term capital gains are taxed differently. Tax-efficient investing can lessen the impact of these taxes.
+
+Short-term gains are taxed as ordinary income at a rate based on an individual's tax filing status and adjusted gross income (AGI).
+
+Long-Term Capital Gains Tax Rates: 0%, 15%, 20%
+
+Long-term capital gains are taxed at lower rates than ordinary income tax rates. These rates are 0%, 15%, and 20%, although some assets such as collectibles can be subject to a maximum rate of 28%.
+
+The exact rate that will be applied to your long-term capital gain depends on your taxable income and filing status. The 0% and 15% rates apply as long as income stays at or under a certain maximum amount that's adjusted annually to keep pace with inflation. If you have more income than the maximum amount allowed for the 0% rate, the gain is taxed at the 15% rate.
+
+If you have more income than the maximum amount allowed for the 15% rate, the gain is taxed at 20%.
+
+Special Capital Gains Tax Rules
+
+Note that there are some caveats. Certain types of stock or collectibles may be taxed at a higher 28% rate, and real estate gains can go as high as 25%.
+
+In addition, certain types of capital losses are not deductible. If you sell your house or car at a loss, you will be unable to treat it as a tax deduction. However, when you sell your primary home, the first $250,000 is exempt from the capital gains tax. That figure doubles to $500,000 for married couples.
+
+High-net-worth investors may have to pay an additional net investment income tax on top of the 20% they will most likely owe.
+
+
+
+Assets Eligible and Ineligible for Lower Tax Rates
+
+Not all investments are eligible for the lower long-term capital gains tax rates.

@@ -1,0 +1,107 @@
+Title: Understand U.S. Tax Brackets and Rates: 2026 Guide
+Source: https://www.investopedia.com/terms/t/taxbracket.asp
+Category: Taxes
+--------------------
+For tax year 2026, which applies to taxes filed in 2027, there are seven federal tax brackets with income tax rates of 10%, 12%, 22%, 24%, 32%, 35%, and 37%. These are the same tax brackets that applied for tax year 2025.
+
+Tax brackets are a key part of a progressive tax system. In this system, tax rates increase as income rises. Low incomes are taxed at lower rates, while higher incomes face higher rates.
+
+The Tax Cuts and Jobs Act of 2017 set the current tax brackets. However, income thresholds might change based on inflation. Refer to the IRS tax tables to find your specific tax bracket.
+
+Key Takeaways The U.S. federal tax system includes seven tax brackets with rates from 10% to 37%.
+
+Tax brackets are progressive, meaning higher income leads to higher tax rates.
+
+The Tax Cuts and Jobs Act of 2017 established the current tax brackets.
+
+Tax brackets are adjusted annually for inflation by the IRS.
+
+Understanding effective and marginal tax rates is key to calculating your tax responsibilities.
+
+Federal Income Tax Brackets and Tax Rates for 2026
+
+Source: Internal Revenue Service (IRS)
+
+Below are the 2025 federal income tax brackets and rates for comparison.
+
+Source: Internal Revenue Service (IRS)
+
+
+
+Understanding U.S. Federal Income Tax Brackets
+
+Most taxpayers, except those in the lowest bracket, have their income taxed progressively. This means that their income is subject to multiple rates beyond the nominal rate of their tax bracket. The dollar ranges in each bracket also vary according to filing status (single, married filing jointly and qualifying widow[er]s, married filing separately, and head of household).
+
+A $100,000 income falls into the 22% bracket for all filing statuses in 2026, but not all of it is taxed at 22%. It's taxed at different rates that are aligned with the various brackets of income that cover the segments of income up to $100,000. So, ultimately a taxpayer pays less than they would if their total income were taxed at 22%.
+
+It also means a tax bracket doesn't show the percentage of income taxed, known as the effective tax rate.
+
+There are numerous online sources to find your specific federal income tax bracket, including the IRS's annual tax tables, which provide highly detailed tax filing statuses in increments of $50 of taxable income up to $100,000.
+
+Other websites provide tax bracket calculators that do the math for you, as long as you know your filing status and taxable income. Your tax bracket can shift from year to year, depending on inflation adjustments and changes in your income and filing status, so it’s worth checking annually.
+
+
+
+Important Tax brackets adjust yearly for inflation, based on the Consumer Price Index (CPI).
+
+Exploring Marginal Tax Rates and Their Impact
+
+Thanks to its progressive tax system, the U.S. uses a marginal tax rate to determine taxes owed. A marginal tax rate determines the tax paid on an additional dollar of income that takes a taxpayer into a higher tax bracket.
+
+The marginal tax rate increases as a taxpayer’s income increases. There are different tax rates for various levels of income. In other words, taxpayers will pay the lowest tax rate on the first “bracket” or level of taxable income, a higher rate on the next level, and so on.
+
+When determining which tax bracket to use, you should first calculate your taxable income, including earned and investment income minus adjustments and deductions.
+
+Effective Tax Rates: What You Need to Know
+
+An effective tax rate is the percentage of tax owed on taxable income. The effective tax rate is lower than the marginal tax rate because the latter breaks down your income into different tiers. Income at the first tier is taxed at a low rate, and each tier above it is taxed at a progressively higher rate than the previous level.
+
+You can determine what your effective tax rate is by dividing your total tax by your taxable income on your federal tax return. On Form 1040, divide the figure on line 24 (your total tax) by the figure on line 15 (your taxable income), and then multiply that figure by 100.
+
+Practical Guide to Calculating Your Taxes
+
+Here's the tax responsibility and the effective tax rate for a single filer with a taxable income of $80,000 in 2026:
+
+To find the effective tax rate:
+
+
+
+Divide total taxes by annual earnings: $12,312.00 ÷ $80,000 = 0.1539
+
+Multiply 0.1539 by 100 to convert to a percentage, which is 15.4%.
+
+Fast Fact Taxes that you pay on 401(k) withdrawals are also based on tax brackets.
+
+How to Reduce Your Taxes
+
+Deductions
+
+Deductions decrease the amount of your income that is subject to taxes, so try to take as many as you can claim. For example, you can contribute the maximum to a retirement account at work, such as a 401(k), and/or contribute to a traditional individual retirement account (IRA). If you have the option of a high-deductible health insurance plan at work and you open a health savings account (HSA), HSA contributions made by payroll deduction are excluded from your taxable income. A flexible spending account (FSA) can also help to reduce your taxable income.
+
+Credits
+
+Be sure to take advantage of tax credits you are eligible for, too. Tax credits come directly off the amount you owe in taxes to the IRS—what's known as a dollar-for-dollar perk. Examples of tax credits include the Child Tax Credit, the Earned Income Tax Credit (EITC), the American Opportunity Tax Credit, the Lifetime Learning Credit (LLC), and the Saver's Credit.
+
+Navigating State Income Tax Brackets
+
+Some states have no income tax: Alaska, Florida, Nevada, New Hampshire, South Dakota, Tennessee, Texas, and Wyoming. Washington only taxes investment income and capital gains for certain high earners.
+
+In 2025, 14 states had a flat rate structure, with a single rate applying to a resident’s income: Arizona (2.5%), Colorado (4.40%), Georgia (5.39%), Idaho (5.695%), Illinois (4.95%), Indiana (3.00%), Iowa (3.8%), Kentucky (4.0%), Louisiana (3.0%), Michigan (4.25%), Mississippi (4.4%), North Carolina (4.25%), Pennsylvania (3.07%), and Utah (4.55%).
+
+In other states, the number of tax brackets varies from three to as many as nine (in New York) and even 12 (in Hawaii). The marginal tax rates in these brackets also vary considerably. California has the highest, maxing out at 13.3%.
+
+State income tax regulations may or may not mirror federal rules. Some states allow residents to use the federal personal exemption and standard deduction amounts for figuring state income tax, while others have their own exemption and standard deduction amounts.
+
+How Do I Know Which Tax Bracket I Am in? The simplest way to find out what tax bracket you are in is first, to know what your filing status is (for example, single or married filing jointly) and second, to look at the federal tax brackets issued by the Internal Revenue Service (IRS) and see which bracket your taxable income lands in. This is also known as your marginal tax rate. For example, if your filing status is married filing jointly and your taxable income is $115,000, your tax bracket is 22% in 2026.
+
+How Much Can I Earn Before I Pay 40% Tax? Currently, there is no 40% tax bracket. For 2026, the highest earners in the United States pay a top rate of 37% federal tax on all income made above $640,600 (single filers) and $768,700 (married couples filing jointly).
+
+How Do I Calculate My Tax Bracket? To estimate which tax brackets your earnings will fall under, you could do the math yourself by using the tables shown above or by visiting the Internal Revenue Service (IRS) website, which provides highly detailed tax filing statuses in increments of $50 of taxable income (over $3,000) and up to $100,000.
+
+The Bottom Line
+
+The federal tax system in the U.S. is progressive. Taxpayers who fall into lower brackets pay lower rates than taxpayers in higher brackets. In 2025 and 2026, there are seven federal tax brackets, with rates ranging from 10% to 37%.
+
+Unless your taxable income lands you in the lowest tax bracket, you are charged at multiple rates as your income rises. Your entire income is not subject to the rate of the bracket classified for your total income level. Your effective tax rate is the percentage of your income you actually pay once each tax bracket has been calculated.
+
+Taxable income can be reduced by utilizing deductions and tax credits, which can help taxpayers legally lower their tax burden.

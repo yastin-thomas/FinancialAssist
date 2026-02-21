@@ -1,0 +1,137 @@
+Title: Volatility: Meaning in Finance and How It Works With Stocks
+Source: https://www.investopedia.com/terms/v/volatility.asp
+Category: Markets
+--------------------
+Volatility is a statistical measurement of the degree of variability of the return of a security or market index.
+
+Key Takeaways Volatility represents how greatly a stock or other asset’s prices swing around the mean price.
+
+There are several ways to measure volatility, including beta coefficients, option pricing models, and the standard deviation of returns.
+
+Volatile assets are often considered riskier than less volatile assets because the price is expected to be less predictable.
+
+Implied volatility measures how volatile the market will be, while historical volatility measures price changes over past time periods.
+
+Volatility is an important variable in the calculation of options prices.
+
+What Is Volatility?
+
+Volatility shows how much a security or market index’s returns fluctuate over time, indicating how widely prices move around their average. It's often calculated from the standard deviation or the variance between those returns. In most cases, the higher the volatility, the riskier the security.
+
+In the securities markets, volatility is often associated with big price swings, either up or down. For example, when the stock market rises and falls more than 1% over a sustained period, it is called a volatile market. An asset’s volatility is a key factor when pricing options contracts.
+
+
+
+Understanding Volatility
+
+Volatility describes how much a security’s price moves. High volatility means prices can swing sharply in a short time, while low volatility means prices change more gradually and stay relatively steady.
+
+You can measure price variation by calculating an asset’s daily returns, which show its percentage change from one day to the next. Historical volatility is based on historical prices and represents the degree of variability in the returns of an asset. This number is expressed as a percentage.
+
+While variance captures the dispersion of returns around an asset's mean, volatility measures that variance over a specific time period, including daily, weekly, monthly, or annually. It helps to think of volatility as the annualized standard deviation of an asset’s returns.
+
+How to Calculate Volatility
+
+Volatility is often calculated using variance and standard deviation, which is the square root of the variance. Since volatility describes changes over a specific period, take the standard deviation and multiply that by the square root of the number of periods in question:
+
+Volatility = σ√T
+
+where:
+
+σ = standard deviation of returns
+
+T = number of periods in the time horizon
+
+Volatility and Stocks
+
+For simplicity, let’s assume we have monthly stock closing prices of $1 through $10. For example, month one is $1, month two is $2, and so on. To calculate variance, follow the five steps below.
+
+Find the mean of the data set. This means adding each value, then dividing it by the number of values. If we add $1, plus $2, plus $3, all the way up to $10, we get $55. This is divided by 10 because we have 10 numbers in our data set. This provides a mean, or average price, of $5.50. Calculate the difference between each data value and the mean. This is often called deviation. For example, we take $10 - $5.50 = $4.50, then $9 - $5.50 = $3.50. This continues down to the first value of $1. Negative numbers are allowed. Since we need each value, these calculations are frequently done in a spreadsheet. Square the deviations. This will eliminate negative values. Add the squared deviations together. In our example, this equals 82.5. Divide the sum of the squared deviations (82.5) by the number of data values. In this case, the resulting variance is $8.25.
+
+Next, take the square root of the variance to get the standard deviation. This equals $2.87. This is a measure of risk and shows how values are spread out around the average price. It gives traders an idea of how far the price may deviate from the average.
+
+Sabrina Jiang / Investopedia
+
+If prices are randomly sampled from a normal distribution, then about 68% of all data values will fall within one standard deviation. Ninety-five percent of data values will fall within two standard deviations (2 × 2.87 in our example), and 99.7% of all values will fall within three standard deviations (3 × 2.87).
+
+In this case, the values of $1 to $10 aren't randomly distributed on a bell curve; they're uniformly distributed. The expected 68%–95%–99.7% percentages don't hold. Despite this limitation, traders frequently use standard deviation, as price returns data sets often resemble more of a normal (bell curve) distribution than in the given example.
+
+Tip The volatility of stock prices is thought to be mean-reverting, meaning that periods of high volatility are often moderate and periods of low volatility pick up, fluctuating around some long-term mean.
+
+Types of Volatility
+
+Implied Volatility (IV)
+
+Implied volatility (IV), also known as projected volatility, is one of the most important metrics for options traders. As the name suggests, it allows them to make a determination of just how volatile the market will be going forward.
+
+This concept also gives traders a way to calculate probability. It's important to note that it isn't considered science and therefore does not forecast how the market will move in the future.
+
+Unlike historical volatility, implied volatility comes from the price of an option itself and represents volatility expectations for the future. Because it is implied, traders cannot use past performance as an indicator of future performance. Instead, they have to estimate the potential of the option in the market.
+
+Fast Fact Implied volatility is a key feature of options trading.
+
+Historical Volatility
+
+Also referred to as statistical volatility, historical volatility (HV) gauges the fluctuations of underlying securities by measuring price changes over predetermined time periods. It is the least prevalent metric compared with implied volatility because it isn’t forward-looking.
+
+When historical volatility rises, a security’s price also moves more than normal. At this time, there is an expectation that something will or has changed. If the historical volatility is dropping, on the other hand, it means any uncertainty has been eliminated, so things return to the way they were.
+
+This calculation may be based on intraday changes, but it often measures movements based on the change from one closing price to the next. Depending on the intended duration of the options trade, historical volatility can be measured in increments ranging from 10 to 180 trading days.
+
+Volatility and Options Pricing
+
+Volatility is a key variable in options pricing models, estimating the extent to which the return of the underlying asset will fluctuate between now and the option’s expiration. Volatility, expressed as a percentage coefficient within option-pricing formulas, arises from daily trading activities. How volatility is measured will affect the value of the coefficient used.
+
+Volatility is also used to price options contracts using models like the Black-Scholes or binomial tree models. More volatile underlying assets will translate to higher options premiums because, with volatility, there is a greater probability that the options will end up in the money at expiration.
+
+Options traders try to predict an asset’s future volatility, so the price of an option in the market reflects its implied volatility.
+
+Important The greater the volatility, the higher the market price of options contracts across the board.
+
+Other Measures of Volatility
+
+Beta
+
+One measure of the relative volatility of a particular stock to the market is its beta (β). A beta approximates the overall volatility of a security’s returns against the returns of a relevant benchmark (usually, the S&P 500 is used). For example, a stock with a beta value of 1.1 has moved 110% for every 100% move in the benchmark, based on price level.
+
+Conversely, a stock with a beta of 0.9 has moved 90% for every 100% move in the underlying index.
+
+The VIX
+
+Market volatility can also be seen through the Volatility Index (VIX), a numeric measure of equity market volatility.
+
+The Chicago Board Options Exchange created the VIX as a measure to gauge the 30-day expected volatility of the U.S. stock market derived from real-time quote prices of S&P 500 call and put options. It is effectively a gauge of future bets that investors and traders are making on the direction of the markets or individual securities. A high reading on the VIX implies a risky market.
+
+Traders can trade the VIX using a variety of options and exchange-traded products. Or they can use VIX values to price certain derivative products.
+
+
+
+Tips for Managing Volatility
+
+Investors can find periods of high volatility to be distressing, as prices can swing wildly or fall suddenly. Long-term investors are best advised to ignore short-term volatility periods and stay the course. Over the long run, stock markets tend to rise. Meanwhile, emotions like fear and greed, which can become amplified in volatile markets, can undermine your long-term strategy.
+
+Some investors can use volatility as an opportunity to add to their portfolios by buying the dips, when prices are relatively low.
+
+You can also use hedging strategies to navigate volatility, such as buying protective puts to limit downside losses without having to sell any shares. But note that put options will also become pricier when volatility is higher.
+
+Example of Volatility
+
+Suppose that an investor builds a retirement portfolio. Since she is retiring within the next few years, she’s seeking stocks with low volatility and steady returns. She considers two companies:
+
+ABC Corp. has a beta coefficient of 0.78, which makes it slightly less volatile than the S&P 500 index. XYZ Inc. has a beta coefficient of 1.45, making it significantly more volatile than the S&P 500 index.
+
+A more conservative investor may choose ABC Corp. for their portfolio, since it has less volatility and a more predictable short-term value.
+
+What Is Volatility, Mathematically? Volatility is a statistical measure of the dispersion of data around its mean over a certain period. It is calculated as the standard deviation multiplied by the square root of the number of time periods, T. In finance, it represents this dispersion of market prices on an annualized basis.
+
+Is Volatility the Same As Risk? Volatility is often used to describe risk, but this is not necessarily always the case. Risk involves the chances of experiencing a loss, while volatility describes how much and how quickly prices move. If increased price movements also increase the chance of losses, then risk is likewise increased.
+
+Is Volatility a Good Thing? Whether volatility is good or bad depends on what kind of trader you are and what your risk appetite is. For long-term investors, volatility can spell trouble, but for day traders and options traders, volatility often equals trading opportunities.
+
+What Does High Volatility Mean? If volatility is high, it means that prices are moving (both up and down) quickly and steeply.
+
+What Is the VIX? The VIX is the Cboe Volatility Index, a measure of the short-term volatility in the broader market, measured by the implied volatility of 30-day S&P 500 options contracts. The VIX generally rises when stocks fall, and declines when stocks rise. Also known as the “fear index,” the VIX can be a gauge of market sentiment, with higher values indicating greater volatility and greater fear among investors.
+
+The Bottom Line
+
+Volatility is how much and how quickly prices move over a given span of time. In the stock market, increased volatility is often a sign of fear and uncertainty among investors. This is why the VIX volatility index is sometimes called the “fear index.” It can also create opportunities for day traders to enter and exit positions. Volatility is also a key component in options pricing and trading.

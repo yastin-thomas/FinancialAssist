@@ -1,0 +1,106 @@
+Title: Required Minimum Distribution (RMD): Definition and Calculation
+Source: https://www.investopedia.com/terms/r/requiredminimumdistribution.asp
+Category: General_Finance
+--------------------
+What Is a Required Minimum Distribution (RMD)?
+
+A required minimum distribution (RMD) is the amount of money that must be withdrawn annually from certain employer-sponsored retirement plans like 401(k)s and certain individual retirement accounts (IRAs), such as the traditional IRA. RMDs must be taken by April 1 after you turn 73 years old. You must calculate and withdraw the correct RMD every year after that, or face a penalty from the Internal Revenue Service (IRS). RMDs do not apply to Roth accounts until after the account owner dies.
+
+
+
+Key Takeaways The required minimum distribution is the minimum amount you must take out of your retirement account after a certain age to avoid a tax penalty.
+
+RMDs are determined by dividing the retirement account’s prior year-end fair market value by a life expectancy factor published by the IRS.
+
+
+
+If you have multiple IRAs, you will usually need to calculate the RMD for each separately but may be able to withdraw the total RMD amount from just one account.
+
+You can take more than the RMD. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+Investopedia / NoNo Flores
+
+Understanding Required Minimum Distributions
+
+As noted above, a required minimum distribution is the minimum amount of money required to be withdrawn from certain retirement accounts. These accounts include 401(k)s, traditional IRAs, Simplified Employee Pension (SEP) IRAs, and SIMPLE IRAs. The money must be taken by April 1 the year after you turn 73. The correct amount must be withdrawn or you will face a penalty.
+
+RMDs are determined by dividing the fair market value (FMV) of the retirement account in the prior year-end using the applicable distribution period or life expectancy. Your account custodian can tell you what your RMD is or you can calculate it on your own using IRS worksheets. Make sure that you're using the latest worksheets because the tables are updated to reflect life expectancy changes.
+
+Different situations call for different tables. For example, if you have a non-Roth IRA and the account's sole beneficiary is your spouse, and your spouse is more than 10 years younger than you, you will need to use a different table than other account holders.
+
+For traditional IRA account holders, the RMD calculation involves three steps:
+
+Write down the account’s balance as of Dec. 31 of the previous year. Find the distribution factor listed on the calculation tables that corresponds to your age on your birthday for the current year. For most people, this factor number ranges from 27.4 down to 1.9. As a person gets older, the factor number goes down. Divide the account balance by the factor number to find the RMD.
+
+Tip If you don't need the funds from your RMD to live, and your income meets the requirements, you could use the RMD to contribute to a Roth IRA.
+
+
+
+Special Considerations
+
+There are circumstances when the RMD rules noted above don't apply. For instance, if the owner of a Roth account—a 401(k) or an IRA—dies, RMDs don't need to be taken until after they die.
+
+Some qualified plans allow certain participants to defer the start of their RMDs until they retire, even if they are over 73. This deferment rule generally applies to plans at the workplace where they are currently employed, not to IRAs or qualified plans from previous employers. These qualified plan participants should also check with their employers to determine if they are eligible for this deferral.
+
+Older workers who must take RMDs from non-Roth accounts may find themselves in higher taxable income brackets. However, there are a few strategies, like state tax loopholes, that they may take to reduce the impact of this RMD boost in annual income.
+
+While an account holder must withdraw the RMD amount, they can also choose to withdraw more than that amount. If the account holder wants to withdraw 100% of their account in the first year, that’s perfectly legal, but the tax bill could be a bit of a shock.
+
+Warning RMD rules can be complex, so it's important to review IRS Publication 590-B, Distributions from Individual Retirement Arrangements (IRAs) when making decisions regarding your distributions from an inherited IRA.
+
+Required Minimum Distributions (RMDs) and Inherited Individual Retirement Accounts (IRAs)
+
+Different rules apply to inherited IRAs. For instance:
+
+If you as a designated beneficiary, you need to use the same RMD that the account owner would have used for the year they died. RMD rules vary depending on whether you are a surviving spouse, a minor child, or a disabled individual.
+
+If you inherit an IRA from an account owner who died before Jan. 1, 2020, you would generally calculate your RMD using the IRS Single Life Table.
+
+However, if the account owner died after Dec. 31, 2019, you need to follow the RMD rules established by the SECURE Act. These rules distinguish between eligible, designated, and non-designated beneficiaries. The timeframe and calculation of your RMD can vary greatly depending on which of these categories define you as a beneficiary.
+
+Some designated beneficiaries may be required to withdraw the entire account balance by the 10th calendar year following the year of the account owner’s post-2019 death, whereas some non-designated beneficiaries may be required to withdraw the entire account balance within five years of the account owner’s death.
+
+These rules effectively eliminate the stretch IRA, an estate planning strategy that some beneficiaries of inherited IRAs had used in the past to extend the tax-deferred benefits of an IRA.
+
+
+
+Important If you have multiple IRAs, you may aggregate the RMD amounts for each of them and then withdraw the total from one or a portion of the total from each.
+
+Example of a Required Minimum Distribution (RMD)
+
+You must withdraw your RMD from the relevant retirement savings account(s) by Dec. 31 every year. Funds can be withdrawn periodically throughout the year or you can wait until the year's end to earn the maximum interest on your funds.
+
+Here's an example. Bob, a retirement account holder, turned 74 on Oct. 1. His IRA was worth $205,000 on Dec. 31 of the prior year. To calculate the annual amount to be withdrawn, that prior Dec. 31 balance is divided by the distribution factor from the relevant IRS table.
+
+That means Bob divides $205,000 by 25.5, which is the distribution period from the latest Uniform Lifetime Table for a 74-year-old. There are other tables for beneficiaries of retirement accounts and account holders with much younger spouses.
+
+RMD = $ 205 , 000 25.5 = $ 8 , 039.21 \begin{aligned}\text{RMD}=\frac{\$205,000}{25.5}=\$8,039.21\end{aligned} RMD=25.5$205,000​=$8,039.21​
+
+Divide $205,000 by 25.5, and you get $8,039.22. That's the minimum amount Bob needs to withdraw from his retirement account in the current year to avoid a fine.
+
+There are some other things Bob should keep in mind. Let's suppose Bob has multiple IRAs. This means the RMD for each account must be calculated separately. Depending on the types of accounts involved in this scenario, Bob may have to take RMDs from each account rather than a total amount for all RMDs from one account.
+
+Fortunately, you probably don't need to worry about calculating the minimum amount to withdraw each year. Generally, the custodian of the account can calculate your RMD for you.
+
+
+
+When Do RMDs Start? At present, individuals must start taking required minimum distributions from qualified retirement accounts at age 73. Prior to 2023, the RMD age was 72. Before 2020, it was 70½.
+
+Are RMD Distributions Taxed? Yes, you are responsible for a deferred tax liability because RMDs are withdrawn from retirement accounts that had contributions made with pre-tax dollars. You must pay income tax on RMDs when they are taken (at your current tax bracket).
+
+What If I Don't Take RMDs? If you are over age 73 and choose not to take your RMD, you will be penalized by the IRS. The amount not withdrawn will be subject to a 25% tax. Before the SECURE 2.0 Act was passed in 2022, this was a 50% penalty. According to the IRS, the penalty drops to 10% if the RMD is timely corrected within two years."
+
+When Do You Have to Start Taking IRA Distributions? A traditional IRA follows the RMD rule, so you need to start taking distributions at age 73. Roth IRAs and Roth 401(k)s do not have RMDs.
+
+Why Does the IRS Impose RMDs? An RMD acts as a safeguard against people using a retirement account to avoid paying taxes.
+
+Because traditional IRAs and non-Roth 401(k) plans use pre-tax dollars, the IRS imposes RMDs to prevent individuals from avoiding paying the deferred tax liability owed on those contributions.
+
+The Bottom Line
+
+The RMD rule is in place to prevent individuals from avoiding the deferred tax liability owed on their retirement contributions. Still, most people start withdrawing from their retirement accounts before they must start taking RMDs, because they need the money: they live off their retirement funds.
+
+RMDs begin at age 73, and are calculated by dividing the retirement account’s prior year-end fair market value by a life expectancy factor published by the IRS. Failure to take RMDs as currently required results in a 25% penalty.
+
+Fortunately, the IRS publishes a worksheet that makes it very easy to calculate how much you must take out each year. However, other factors can be a bit tricky, such as what to do with multiple IRAs and how RMDs work when the retirement account holder passes away and the funds are inherited. Be sure to do your tax-time research and stay abreast of what you need to do.
+

@@ -1,0 +1,184 @@
+Title: Understanding REITs: What They Are and Tips for Investing Smartly
+Source: https://www.investopedia.com/terms/r/reit.asp
+Category: Investing
+--------------------
+A real estate investment trust (REIT) is a company that owns, operates, or finances income-generating real estate and sells shares to raise capital to do so.
+
+Key Takeaways Real estate investment trusts (REITs) allow investors to own shares in income-producing real estate without managing the properties themselves.
+
+REITs must distribute at least 90% of taxable income as dividends to maintain their tax-advantaged status, leading to steady income streams for investors.
+
+There are three primary types of REITs: equity REITs, mortgage REITs, and hybrid REITs, each with unique investment focuses and risks.
+
+REITs are mostly traded publicly like stocks, providing liquidity and accessibility not commonly found in direct real estate investments. These investments can often be purchased through an online broker or a real estate crowdfunding platform.
+
+Investors should be mindful of REIT-related fraud and are advised to verify the registration and legitimacy of non-traded and private REITs through the SEC's EDGAR system.
+
+What Is a Real Estate Investment Trust (REIT)?
+
+Real estate investment trusts (REITs) are companies that own, operate, or finance income-producing real estate across a wide range of property sectors. These investments, which can often be purchased through top brokerage and real estate crowdfunding platforms, allow you to earn income from real estate without having to buy, manage, or finance properties yourself.
+
+Offered by American Realty Trust, Continental Mortgage Investors was the first REIT to be traded on the NYSE in 1960. Eliana Rodgers / Investopedia
+
+Understanding How REITs Function
+
+Congress created REITs in 1960 through a change to the Cigar Excise Tax, which allowed companies to collect money from investors to buy large real estate portfolios. REITs operate like mutual funds by managing pools of funds for groups of investors, but for real estate rather than stocks and bonds. Investors earn returns from dividends and increases in the REIT's share value.
+
+REITs take real estate, which are illiquid assets, and make them liquid. They invest in different properties, including apartment complexes, data centers, healthcare facilities, hotels, infrastructure (fiber cables, cell towers, and energy pipelines), office buildings, retail centers, self-storage units, timberland, and warehouses. REITs often specialize in specific real estate sectors, like commercial properties. However, many hold diversified portfolios with different property types.
+
+As you can see below, the amount investors have pooled in REITs has risen significantly in the past quarter-century, almost exactly tenfold. Also notable is the undulation of the line graph as market bubbles inflate, crises and recessions arrive, and interest rates shift. Often thought of as the most stable of stock assets—after all, the sector includes the ground beneath your feet—the value of real estate and, thus, the returns from REITs are certainly not.
+
+Criteria for REIT Qualification
+
+Most REITs lease space, collect rent, and distribute this income as dividends to shareholders. A small percentage of REITs, called mortgage REITs, earn money from financing real estate, not owning it.
+
+To qualify as a REIT, a company must meet several requirements, including:
+
+Invest at least 75% of total assets in real estate, cash, or U.S. Treasurys
+
+Derive at least 75% of gross income from rent, interest on mortgages that finance real estate, or real estate sales
+
+Pay a minimum of 90% of their taxable income to their shareholders through dividends
+
+Be a taxable corporation
+
+Be managed by a board of directors or trustees
+
+Have a minimum of 100 shareholders
+
+Have no more than 50% of its shares held by five or fewer individuals
+
+Fast Fact Healthpeak Properties (DOC) is a REIT. It's an S&P 500 company that owns, manages, and develops healthcare real estate.
+
+Different Types of REITs Explained
+
+While REITs are categorized by the different kinds of properties they invest in, there have traditionally been three major types:
+
+Equity REITs. Equity REITs own and manage income-generating real estate. Revenues are generated primarily through rent, not by reselling properties.
+
+Equity REITs own and manage income-generating real estate. Revenues are generated primarily through rent, not by reselling properties. Mortgage REITs. Mortgage REITs issue or provide mortgages and loans or invest in mortgage-backed securities. Most of their earnings come from the net interest margin, which is the spread between the interest earned on mortgage loans and the cost of funding them. They are sensitive to interest rate increases, though equity REITs are also greatly affected by rate changes.
+
+Mortgage REITs issue or provide mortgages and loans or invest in mortgage-backed securities. Most of their earnings come from the net interest margin, which is the spread between the interest earned on mortgage loans and the cost of funding them. They are sensitive to interest rate increases, though equity REITs are also greatly affected by rate changes. Hybrid REITs. These REITs mix strategies from both equity and mortgage REITs. After the 2008 financial crisis, these trusts, already on the wane, largely disappeared as regulations changed and REITs became more, not less, specialized.
+
+A Guide to Investing in REITs
+
+Some REITs attract funding differently. These differences are important for beginners investing in REITs:
+
+Publicly traded REITs. Shares of publicly traded REITs are listed on an exchange, where they are bought and sold by individual investors. These fall under U.S. Securities and Exchange Commission (SEC) regulations.
+
+Shares of publicly traded REITs are listed on an exchange, where they are bought and sold by individual investors. These fall under U.S. Securities and Exchange Commission (SEC) regulations. Public non-traded REITs. These REITs are registered with the SEC but don’t trade on exchanges. As a result, they are less liquid than publicly traded REITs. As such, they are stabler because they’re not subject to market volatility. You can buy non-traded REIT shares through a broker or financial advisor who participates in its offering.
+
+These REITs are registered with the SEC but don’t trade on exchanges. As a result, they are less liquid than publicly traded REITs. As such, they are stabler because they’re not subject to market volatility. You can buy non-traded REIT shares through a broker or financial advisor who participates in its offering. Private REITs. These REITs aren’t registered with the SEC and don’t trade on exchanges. Private REITs are only sold to institutional investors. They are also the site of many REIT-related frauds. Most are legitimate, but it’s easier for con artists to ply their trade in this area than within the regulated markets.
+
+In addition, REITs may be included in defined benefit and defined contribution plans through mutual funds and exchange-traded funds (ETFs). Thus, many U.S. investors own shares in REITs through their retirement savings.
+
+Essential Tips for REIT Investment Beginners
+
+If you’re new to REIT investing, here are tips to get you started:
+
+1. Begin with Publicly Traded REITs
+
+For newcomers, publicly traded REITs offer the easiest way to get started. You don’t need a vast amount of money—the cost of entry is the trust’s share price that interests you. Private REITs, meanwhile, are only open to accredited investors with minimums starting in the low thousands.
+
+When investing in publicly traded REITs, here are strategies to consider:
+
+Do your homework : Examine a REIT’s portfolio, management team, debt levels, and dividend history before investing.
+
+: Examine a REIT’s portfolio, management team, debt levels, and dividend history before investing. Think of the long-term : REITs are customarily best suited for long-term strategies because of how they generate income.
+
+: REITs are customarily best suited for long-term strategies because of how they generate income. Examine the fees: There are no direct fees beyond standard brokerage commissions when buying or selling shares. REIT management fees are built into operating expenses, affecting your overall returns. As such, you’ll want to review how comparatively efficient the trust is with managing its expenses—that is, your fees.
+
+Tip The Financial Industry Regulatory Authority (FINRA) repeatedly warned investors about scams falsely labeled as “REITs” that don’t own real estate. They aren’t invested in anything and shouldn’t be trusted.
+
+2. Start Small and Scale Up
+
+Start with a small investment and gradually increase it. You might begin by investing a small percentage of your portfolio—perhaps 2% to 5%—in a broadly diversified REIT or REIT fund. You can then take the time to get familiar with the real estate market—its income potential, its ups and downs, and how its shifts correlate with stocks, bonds, and other assets.
+
+As you do this, pay attention to how your REIT investments affect your risk profile and other parts of your portfolio. Some financial advisors suggest a well-diversified portfolio might include a 5% to 10% allocation to real estate. However, the right amount depends on your financial goals, risk tolerance, and investment timeline. The real estate market is often cyclical, so scaling up gradually should help you avoid being overexposed during a downturn.
+
+3. Diversify Across REIT Categories
+
+Diversify your investments across real estate sectors, including residential and commercial, to balance your portfolio. This table gives you a quick view of the different property categories and their characteristics:
+
+4. Invest in REIT Funds for More Diversification
+
+For investors aiming to diversify their portfolios with real estate, REIT mutual funds and ETFs can help spread risk even further than individual REITs. Both options expose you to a broad spectrum of real estate sectors through a single financial product. However, they come with specific characteristics you’ll need to consider.
+
+REIT mutual funds, such as the T. Rowe Price Real Estate Fund (TRREX), offer the advantage of professional management. Many fund managers actively select and adjust holdings, potentially capitalizing on market trends or mitigating risks. You can access some funds through 401(k) plans (depending on your employer), allowing automatic investing via payroll deductions. This ease of access and expert management is a good way to get into the real estate market while leaving the choice of properties and other assets to the professionals.
+
+REIT ETFs are either actively managed or passively follow an index. For example, the Pacer Industrial Real Estate ETF (INDS) invests at least 85% of its funds in industrial real estate, including warehouses and distribution centers. Pacer’s managers actively oversee the fund, picking the assets they think will outperform the market.
+
+5. Explore Real Estate Index Funds for Low-Cost Diversification
+
+These funds passively track real estate indexes, offering broad market exposure at lower fees than their actively managed peers. For example, the Vanguard Real Estate ETF (VNQ) mimics the MSCI US Investable Market Real Estate 25/50 Index, which covers a wide swath of American real estate.
+
+If you want international exposure, the iShares Global REIT ETF (REET) tracks the FTSE EPRA Nareit Global REITS Index, which covers REITs in developed and emerging markets.
+
+
+
+6. Be Tax Savvy
+
+REITs have specific tax implications that should be considered, since they can impact your returns. These trusts aren't typically subject to corporate income tax as long as they distribute at least 90% of their taxable income to shareholders as dividends.
+
+This pass-through structure can result in higher dividend yields for investors. Unlike qualified dividends from stocks, which are often taxed at lower capital gains rates, most REIT dividends are taxed as ordinary income. This could result in higher tax bills, especially for investors in higher tax brackets.
+
+Tip The returns of REITs have a relatively low correlation with other assets. That means they don’t necessarily follow what’s happening with stocks, bonds, or other parts of the market. That’s why they can help diversify a portfolio: They might stay steady as other assets head downward. As always, it’s wise to consult a tax professional to understand how any of this would apply to your tax situation.
+
+Many hold REITs in tax-advantaged individual retirement accounts (IRAs) or 401(k)s to mitigate these tax impacts. This way, REIT dividends can compound tax-free (e.g., in Roth accounts) or tax deferred (traditional IRAs). This strategy can significantly improve your long-term returns by allowing you to reinvest more of your dividends.
+
+Tip Many REITs also often use leverage (they borrow) to buy up more properties. When comparing REITs, looking at their debt-to-equity ratios is essential so you’re not putting money into a venture sinking under its debt.
+
+7. Stay Up to Date
+
+Understanding real estate trends can help you make informed decisions about your REIT investments. Keep an eye on basic economic indicators, such as interest rates, inflation, and unemployment, since they significantly impact real estate values and rental income. Focus on the fundamentals for the sectors where your REITs hold property.
+
+This may mean following demographic shifts like:
+
+Urbanization and gentrification
+
+Changes in households (people living with their parents longer, etc.) that will affect demand in different parts of the country
+
+Keeping an eye on how office work is migrating to the ex-urbs
+
+Economic and social changes that affect the real estate sector
+
+Sectors that seem very alike—like shopping malls and shopping centers—often perform very differently, and investors need to keep an eye on the specific dynamics for each part of the real estate sector that their REITs are invested in.
+
+
+
+Pros and Cons of Investing in REITs
+
+Pros Liquidity
+
+Diversification
+
+Stable cash flow through dividends
+
+Can have attractive risk-adjusted returns Cons Low growth
+
+Dividends are taxed as regular income
+
+Subject to market risk
+
+Potential for high management and transaction fees
+
+Shares in REITs are relatively easy to buy and sell, as many trade on public exchanges. REITs offer attractive risk-adjusted returns and stable cash flow. Real estate can diversify a portfolio and income through dividends.
+
+REITs offer capital appreciation, but they must pay 90% of their income back to investors. So, only 10% of taxable income can be reinvested into the REIT to buy new holdings. Dividends are taxed as regular income, and some REITs have high management and transaction fees.
+
+Are REITs a Good Investment? This depends on your financial goals, risk tolerance, and investment strategy. REITs can give you steady income through dividends, portfolio diversification, and exposure to real estate without having to own property directly. They offer competitive long-term returns and can hedge against inflation. However, REITs also have risks, such as sensitivity to interest rate changes, economic downturns, and sector-specific challenges.
+
+How Can Investors Avoid REIT Fraud? The SEC recommends that investors be wary of anyone who tries to sell REITs that aren’t registered with U.S. regulators. It advises, “You can verify the registration of both publicly traded and non-traded REITs through the SEC’s EDGAR system. You can also use EDGAR to review a REIT’s annual and quarterly reports, as well as any offering prospectus.” If you stick to regulated REITs, you’ll have the normal risk of such trusts but not the outright fraud that would take off with your whole investment.
+
+Do REITs Have to Pay Dividends? REITs are obligated to pay out 90% or more of their taxable profits to shareholders as dividends. As a result, they're often free from most corporate income tax. Many REITs reinvest shareholder dividends, offering deferred taxation and compounding your gains.
+
+What Is a Paper Clip REIT? A paper clip REIT increases the tax advantages of a REIT while allowing it to manage properties that such trusts normally can’t. They are uncommon. It involves two entities that are clipped together via an agreement where one entity owns the properties while the other manages them. Regulators scrutinize paper clip REITs heavily for any potential conflicts of interest.
+
+Do REITs Offer Monthly Payments? While some REITs do, that’s not universal. The dividend schedule for REITs varies. Most pay dividends each quarter, while others pay monthly, annually, or semiannually. Monthly-paying REITs are often attractive to income-focused investors seeking regular cash flow, since many provide a steady income via dividends. However, the frequency of payments doesn’t necessarily indicate higher returns or better financial health for the REIT.
+
+The Bottom Line
+
+REITs democratize real estate investment, providing access to property assets traditionally reserved for the wealthy by allowing shares to be traded like common stocks. They reduce financial and managerial burdens associated with direct property investment. REITs offer portfolio diversification, steady income from dividends, and exposure to different property sectors, acting as a hedge against inflation and historically presenting competitive long-term returns.
+
+However, they are affected by interest rate fluctuations and specific sector downturns, such as inner-city office spaces. Potential investors should conduct thorough research and consider consulting financial advisors before investing, weighing the benefits and understanding the associated risks.
+

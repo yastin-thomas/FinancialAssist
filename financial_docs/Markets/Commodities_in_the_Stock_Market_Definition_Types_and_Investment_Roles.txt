@@ -1,0 +1,69 @@
+Title: Commodities in the Stock Market: Definition, Types, and Investment Roles
+Source: https://www.investopedia.com/terms/c/commodity.asp
+Category: Markets
+--------------------
+Commodities are basic raw materials used in commerce that are interchangeable with other goods of the same type and are primarily utilized as inputs in the production of other goods and services.
+
+What Are Commodities?
+
+Commodities are interchangeable raw materials crucial for manufacturing other goods. They must meet minimum quality standards, known as the commodity's basis grade, for trading purposes. Commodities are traded on commodity exchanges and serve as the underlying investment for commodities futures and options contracts. Commodities can be classified as "hard," which includes metals or oil, or "soft," which refers to goods such as corn or livestock.
+
+Investors also use commodities as a hedge against inflation.
+
+Key Takeaways Commodities are essential raw materials like grains, gold, and oil used in the production of goods and are traded in large volumes on specialized exchanges.
+
+There are two main types of commodities: hard commodities, which are mined or extracted like metals and oil, and soft commodities, which are agricultural products such as wheat and coffee.
+
+Commodities can be invested in directly through spots or indirectly through derivatives like futures and options, providing a way to hedge against inflation and diversify portfolios.
+
+Buyers of commodities are usually hedgers, who trade to mitigate risks, while speculators trade to profit from price movements without intending to take delivery of the goods.
+
+Commodity prices are influenced by supply and demand dynamics, which can be affected by economic conditions, natural disasters, and investor sentiment. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+Investopedia / Joules Garcia
+
+How Commodities Function in the Market
+
+Commodities are the raw inputs used in the production of goods. They may also be basic staples such as certain agricultural products. The important feature of a commodity is that there is very little differentiation in that good, regardless of who produces it. A barrel of oil is basically the same product, regardless of the producer. The same goes for a bushel of wheat or a ton of ore. By contrast, the quality and features of a given consumer product will often be quite different depending on the producer (e.g., Coke vs. Pepsi).
+
+Some traditional examples of commodities include grains, gold, beef, oil, and natural gas. More recently, the definition has expanded to include financial products, such as foreign currencies and indexes.
+
+Commodities can be bought and sold are traded as financial assets on special exchanges. You can also buy contracts in well-developed derivatives markets, such as oil forwards, wheat or gold futures, and natural gas options). Some experts suggest investors include commodities in a diversified portfolio because they don't closely track other assets and can hedge against inflation.
+
+Tip Consider dedicating up to 10% of your portfolio to commodities. Average investors can use commodities ETFs or mutual funds for exposure.
+
+Commodity Buyers and Producers: Roles and Strategies
+
+Commodities are typically bought and sold through futures on exchanges, which set standard quantities and quality. For instance, the Chicago Board of Trade (CBOT) defines a wheat contract as 5,000 bushels and specifies acceptable wheat grades.
+
+There are two types of traders in commodity futures. The first type, buyers and producers, use futures to hedge risks. They either deliver or receive the actual commodity when the futures contract ends.
+
+For example, the wheat farmer who plants a crop can hedge against the risk of losing money if the price of wheat falls before the crop is harvested. The farmer can sell wheat futures contracts when the crop is planted and have a guaranteed, predetermined price for the wheat when it is harvested.
+
+The Role of Speculators in Commodities Trading
+
+The second type of commodities trader is the speculator. These traders aim to profit from price changes and don't plan to receive or deliver the commodity once the futures contract expires.
+
+Many futures markets are very liquid and have a high degree of daily range and volatility, making them very tempting markets for intraday traders. Many index futures are used by brokerages and portfolio managers to offset risk. Also, since commodities do not typically trade in tandem with equity and bond markets, some commodities can be used effectively to diversify an investment portfolio.
+
+Key Factors Influencing Commodity Prices
+
+Commodity prices typically rise when inflation accelerates, which is why investors often flock to them for their protection during times of increasing inflation—particularly when it is unexpected. So, commodity demand increases because investors flock to them, raising their prices. The prices of goods and services then go up to match the increase. This causes commodities to often serve as a hedge against a currency's decreased buying power when the inflation rate increases.
+
+What Is the Relationship Between Commodities and Derivatives? The modern commodities market relies heavily on derivative securities, such as futures and forward contracts. Buyers and sellers can transact with one another easily and in large volumes without needing to exchange the physical commodities themselves. Many buyers and sellers of commodity derivatives do so to speculate on the price movements of the underlying commodities for purposes such as risk hedging and inflation protection.
+
+What Determines Commodity Prices? Like all assets, commodity prices are ultimately determined by supply and demand. For example, a booming economy might lead to increased demand for oil and other energy commodities. Supply and demand for commodities can be impacted in many ways, such as economic shocks, natural disasters, and investor appetite (investors may purchase commodities as an inflation hedge if they expect inflation to rise).
+
+What Is the Difference Between a Commodity and a Security or Asset? Commodities are physical products that are meant to be consumed or used in the production process. Assets, on the other hand, are goods that are not consumed through their use. For instance, money or a piece of machinery are used for productive purposes, but persist as they are used. A security is a financial instrument that is not a physical product. It is a legal representation (e.g., a contract or claim) that represents certain cash flows generated from various activities (such as a stock representing the future cash flows of a business).
+
+What Are the Types of Commodities? Hard commodities are usually classified as those that are mined or extracted from the earth. These can include metals, ore, and petroleum (energy) products. Soft commodities instead refer to those that are grown, such as agricultural products. These include wheat, cotton, coffee, sugar, soybeans, and other harvested items.
+
+Where Are Commodities Traded? The major U.S. commodity exchanges are ICE Futures U.S. and the CME Group, which operate four major exchanges: the Chicago Board of Trade (CBOT), the Chicago Mercantile Exchange (CME), the New York Mercantile Exchange (NYMEX), and the Commodity Exchange, Inc. (COMEX). There are also major commodities exchanges located around the world.
+
+The Bottom Line
+
+Commodities are basic goods that are interchangeable with others of the same type and serve as inputs for the production of goods and services. There are generally two types of commodities: hard, which include metals and energy products, and soft, which comprise agricultural products.
+
+Commodities are traded on exchanges in spot markets and serve as underlying investments for futures and options contracts. Producers use commodities as a hedge against inflation, and speculators use them as a way to achieve further portfolio diversification.
+
+Commodity prices are driven by prevailing economic factors such as inflation and follow the dynamics of supply and demand.

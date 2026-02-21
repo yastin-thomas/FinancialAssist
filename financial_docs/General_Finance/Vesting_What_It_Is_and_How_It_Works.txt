@@ -1,0 +1,70 @@
+Title: Vesting: What It Is and How It Works
+Source: https://www.investopedia.com/terms/v/vesting.asp
+Category: General_Finance
+--------------------
+Vesting is a process by which an employee obtains ownership rights in work-related benefits, such as stock options, stock shares, and certain retirement plan assets.
+
+What Is Vesting?
+
+Vesting, whereby employees gain non-forfeitable ownership of certain assets or benefits, requires employees to work for a company for a specified term of years.
+
+Vesting is a way for employers to keep top-performing employees at their companies. When an employee becomes vested in employer-matching retirement benefits like a 401(k) or stock options, they have non-forfeitable ownership rights to those assets.
+
+Key Takeaways Being vested gives an employee non-forfeitable ownership rights to certain assets.
+
+Employee contributions to an employer-sponsored retirement plan are always immediately vested; employer contributions may or may not be.
+
+A common vesting schedule is three to five years.
+
+Vesting encourages employees to stay with the company. Investopedia / Sydney Saporito
+
+How Vesting Works
+
+Employees commonly contribute a percentage of their paycheck to their 401(k)s, and their employer may match part or all of that contribution. Employee contributions immediately vest and are completely owned by the employee.
+
+Employer contributions to a 401(k) plan might or might not vest immediately. A company may have a vesting schedule that determines when employees acquire full ownership of the portion contributed by the employer.
+
+In fact, matched dollars usually take several years to vest, meaning an employee must stay with the company long enough to be eligible to receive them.
+
+The vesting process for stock bonuses offers employers a valuable employee retention tool. For example, an employee might receive 100 restricted stock units as an annual bonus.
+
+To entice this valued employee to remain with the company for five years, the stock may vest according to the following schedule:
+
+25 units in the second year after the bonus was awarded
+
+25 units in year three
+
+25 units in year four
+
+25 units in year five
+
+If the employee left the company after year three, only 50 units would be vested. The other 50 would be forfeited. This means the employee would have ownership rights for 50 units and lose the opportunity to own 50 more.
+
+Important Employee contributions to an employer-sponsored retirement plan are always considered 100% vested when made.
+
+Types of Vesting
+
+Cliff Vesting Schedule: Gives the employee ownership of 100% of the employer’s contributions all at once after a certain number of years.
+
+Gives the employee ownership of 100% of the employer’s contributions all at once after a certain number of years. Graded Vesting Schedule: Gives the employee ownership of a percentage of the employer’s contribution each year.
+
+Traditional pension plans, for example, might have a five-year cliff vesting schedule or a three- to seven-year graded vesting schedule.
+
+Although an employee may be fully vested in their employer’s contributions, it does not mean they can withdraw that money whenever they want without penalty.
+
+They are still subject to the plan’s rules, which generally require them to reach age 59½ before allowing penalty-free withdrawals.
+
+Where Is Vesting Used Besides Retirement Plans? Vesting is common in wills and bequests and often takes the form of a set waiting period to finalize bequests following the testator's death.
+
+What Does 3 Year Vesting Mean? This means that after a period of three years, the employee will be fully (100%) vested in the assets in the account. They will now own and control those assets, which are typically the employer-matching contributions set aside for the employee.
+
+What Is a Common Vesting Period? A common vesting period is three to five years, but the period is set by the employer. Another common option is the graded vesting schedule. In this case, if the vesting were graded over a six-year period, after the first year, the employee would be vested in 0% of the assets. After years two, three, four, five, and six, they'd be vested in 20%, 40%, 60%, 80%, and 100% of the assets, respectively.
+
+Why Would Employers Offer Stock Options on a Vested Schedule? Startup companies often offer grants of common stock or access to an employee stock option plan to employees, service providers, vendors, board members, or other parties as part of their compensation. To encourage loyalty among employees and keep them engaged and focused on the company's success, such grants or options are subject to a vesting period during which they cannot be sold.
+
+The Bottom Line
+
+Vesting refers to the process employees must go through to unlock their ownership rights to assets and benefits. Employers commonly require employees to work for a company for several years to become vested.
+
+When an employee is vested in employer-matching retirement funds, they have non-forfeitable ownership rights to those assets.
+

@@ -1,0 +1,75 @@
+Title: Exchange-Traded Fund (ETF): What It Is and How to Invest
+Source: https://www.investopedia.com/terms/e/etf.asp
+Category: General_Finance
+--------------------
+An exchange-traded fund (ETF) pools a group of securities into a fund and can be traded like an individual stock on an exchange.
+
+Key Takeaways An exchange-traded fund is a basket of securities that trades on an exchange, just like a stock.
+
+ETF share prices fluctuate throughout the trading day, unlike mutual funds, which only trade once a day after the market closes.
+
+ETFs offer low expense ratios and fewer brokerage commissions than buying stocks individually.
+
+What Is an Exchange-Traded Fund (ETF)?
+
+An exchange-traded fund (ETF) is an investment fund that holds multiple underlying assets. It can be bought and sold on an exchange, much like an individual stock. ETFs can be structured to track anything from the price of a commodity to a large and diverse collection of stocks—even specific investment strategies.
+
+Various ETFs are available to investors for income generation, speculation, or hedging risk in a portfolio. The first ETF in the U.S. was the SPDR S&P 500 ETF (SPY), which tracks the S&P 500 Index.
+
+Exchange-traded funds are a simple, affordable, and easy way to invest, helping you diversify your portfolio in a low-cost way. Investopedia / Zoe Hansen
+
+How ETFs Work
+
+In the U.S., ETFs must be registered with the Securities and Exchange Commission (SEC). Most ETFs are set up as open-ended funds and are subject to the Investment Company Act of 1940, except where the rules modify their regulatory requirements. Open-ended funds do not limit the number of investors involved in the product.
+
+Vanguard's Consumer Staples ETF (VDC) tracks the MSCI US Investable Market Consumer Staples 25/50 Index and has a minimum investment of $1.00. The fund holds shares of all 105 companies on the index, some more familiar than others because they produce or sell consumer items. A few of the companies held by VDC are Procter & Gamble, Costco, Coca-Cola, Walmart, and PepsiCo.
+
+There is no transfer of ownership because investors buy a share of the fund, which owns the shares of the underlying companies. Unlike mutual funds, ETF share prices are determined throughout the day. A mutual fund trades only once a day after the markets close.
+
+
+
+Important Volatility is limited with an ETF because its holdings are diversified across various assets. Industry ETFs are also used to rotate in and out of sectors during economic cycles.
+
+Types of ETFs
+
+Online brokers may allow you to invest in a wide variety of ETFs, including the following.
+
+
+
+Fast Fact There are three ETFs focused on gold mining companies, excluding inverse and leveraged ETFs and those with relatively low assets under management (AUM).
+
+
+
+Pros and Cons of ETFs
+
+Pros Exposure to many stocks across various industries
+
+Low expense ratios and commissions
+
+Risk management through diversification
+
+Can focus on targeted industries or commodities Cons Actively managed ETFs have higher fees
+
+Single-industry-focused ETFs limit diversification
+
+Lack of liquidity hinders transactions
+
+How to Invest in ETFs
+
+ETFs trade through online brokers and traditional broker-dealers. Individuals can also purchase ETFs in their retirement accounts. An alternative to standard brokers is a robo-advisor like Betterment and Wealthfront.
+
+An ETF’s expense ratio is the cost to operate and manage the fund. ETFs typically have low expenses because they track an index.
+
+ETFs are available on most online investing platforms and retirement account provider sites, along with investing apps like Robinhood. Most of these platforms offer commission-free trading, meaning that investors don’t have to pay fees to the platform providers to buy or sell ETFs.
+
+After creating and funding a brokerage account, investors can search for ETFs and buy and sell as desired. One of the best ways to narrow ETF options is to utilize an ETF screening tool with criteria such as trading volume, expense ratio, past performance, holdings, and commission costs.
+
+Tip Order a copy of Investopedia's What To Do With $10,000 for more wealth-building advice.
+
+Popular ETFs
+
+Below are some popular ETFs. Some ETFs track an index of stocks, thus creating a broad portfolio, while others target specific industries.
+
+ETFs vs. Mutual Funds vs. Stocks
+
+Most stocks, ETFs, and mutual funds can be bought and sold without a commission. Funds and ETFs differ from stocks because some of them charge management fees, though fees have been trending lower for years. ETFs tend to have lower fees than mutual funds.

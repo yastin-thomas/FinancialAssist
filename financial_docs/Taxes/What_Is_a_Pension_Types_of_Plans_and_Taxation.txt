@@ -1,0 +1,93 @@
+Title: What Is a Pension? Types of Plans and Taxation
+Source: https://www.investopedia.com/terms/p/pensionplan.asp
+Category: Taxes
+--------------------
+Defined-Benefit Plan Defined-Contribution Plan Conditions Specifies exactly how much retirement income an employee receives Specifies exactly how much each party must contribute to receive an unknown amount at retirement Employer Caps Often not capped at 25% of pay Often capped at 25% of pay Annual Contribution Limits No dollar limit Dollar limit per person Administrative Costs Often higher than defined-contribution plan Often lower than defined-benefit plan
+
+Defined-Benefit Pension Plan
+
+With a defined-benefit pension plan, the employer guarantees that the employee receives a specific monthly payment after retiring and for life, regardless of the performance of the underlying investment pool. The employer is liable for pension payments to the retiree for a dollar amount typically determined by a formula based on earnings and years of service.
+
+If the assets in the pension plan account cannot pay all of the benefits, the company is liable for the remainder. Defined-benefit employer-sponsored pension plans date from the 1870s. The American Express Company established the first pension plan in 1875. At their height in the 1980s, they covered 38% of all private-sector workers.
+
+Defined-Contribution Pension Plan
+
+With a defined-contribution pension plan, the employee makes contributions, which may be matched to some degree by the employer. The final benefit to the employee depends on the investment performance of the plan. The company’s liability ends when the total contributions are expended.
+
+The 401(k) plan is a type of defined-contribution pension plan. The defined contribution plan is less expensive for a company to sponsor, and the long-term costs are easier to estimate. It also takes the company off the hook for future additional costs beyond agreed contributions.
+
+For this reason, a growing number of private companies are moving to the defined-contribution plan. The best-known defined-contribution plan is the 401(k), and its equivalent for nonprofit employees—the 403(b).
+
+Variations
+
+Some companies offer both types of pension plans. They even allow participants to roll over 401(k) balances into defined-benefit pension plans.
+
+There is another variation: the pay-as-you-go pension plan. Set up by the employer, these may be wholly funded by the employee, who can opt for salary deductions or lump-sum contributions, which are generally not permitted for 401(k) plans. They are similar to 401(k) plans but rarely offer a company match.
+
+A pay-as-you-go pension plan is different from a pay-as-you-go funding formula. Current workers’ contributions are used to fund current beneficiaries. Social Security is an example of a pay-as-you-go program.
+
+Factoring in ERISA
+
+The Employee Retirement Income Security Act of 1974 (ERISA) is a federal law designed to protect retirement assets. The law establishes guidelines that retirement plan fiduciaries must follow to protect the assets of private-sector employees.
+
+Companies that provide retirement plans are referred to as plan sponsors or fiduciaries, and ERISA requires each company to provide a specific level of information to eligible employees. Plan sponsors provide details on investment options and worker contributions matched by the company.
+
+Employees must understand vesting, the amount of time required to begin to accumulate and earn the right to pension assets. Vesting is based on the number of years of service and other factors.
+
+Vesting
+
+Enrollment in a defined-benefit plan is usually automatic within one year of employment, although vesting can be immediate or spread out over several years. Leaving a company before retirement may result in losing some or all pension benefits.
+
+With defined-contribution plans, contributions are 100% vested as soon as they are paid in. If your employer matches those contributions or gives you company stock as part of a benefits package, it may set up a schedule under which a certain percentage is handed over to you each year until you are fully vested.
+
+Just because retirement contributions are fully vested doesn’t mean that you’re allowed to make withdrawals, however.
+
+Important Vesting terms will vary from employer to employer. Contact your human resources (HR) department to learn what your current vesting terms are.
+
+Taxation
+
+Most employer-sponsored pension plans are qualified, meaning they meet Internal Revenue Code (IRC) 401(a) and ERISA requirements. That gives them their tax-advantaged status for both employers and employees.
+
+Employee contributions come out of their paychecks before taxes—that is, they’re taken out of an employee’s gross income. That effectively reduces the employee’s taxable income, and the amount they owe to the IRS come tax day. Funds placed in a retirement account then grow at a tax-deferred rate, meaning no tax is due on the funds as long as they remain in the account.
+
+Both pension plans allow the worker to defer tax on the retirement plan’s earnings until withdrawals begin. This tax treatment allows the employee to reinvest dividend income, interest income, and capital gains—all of which compound and can generate a much higher rate of return over the years before retirement compared to if they were taxed.
+
+When the account holder starts withdrawing funds from a qualified pension plan during retirement, federal income taxes are due. Some states will tax the money, too. If you contributed money in after-tax dollars, your withdrawals are only partially taxable. Partially taxable qualified pensions are taxed under the simplified method.
+
+Modified Pension Plans
+
+Some companies are keeping their traditional defined-benefit plans but are freezing the benefits. This means that after a certain point, workers will no longer accrue greater payments, no matter how long they work for the company or how large their salary grows.
+
+When a pension plan provider implements or modifies the plan, covered employees almost always receive credit for any qualifying work performed before the change. The extent to which past work is covered varies from plan to plan.
+
+When applied in this way, the plan provider must cover this cost retroactively for each employee in a fair and equal way for their remaining service years.
+
+Pension Funds
+
+When a defined-benefit plan is made up of pooled contributions from employers, unions, or other organizations, it is commonly referred to as a pension fund.
+
+Managed by professional fund managers on behalf of a company and its employees, pension funds can control vast amounts of capital and are among the largest institutional investors in many nations. Their investment actions can dominate the stock markets.
+
+Pension funds are typically exempt from the capital gains tax. Earnings on their investment portfolios are tax deferred or tax exempt.
+
+Fast Fact A pension fund helps subsidize early retirement promoted by specific business strategies.
+
+A pension fund provides a fixed, preset benefit for employees upon retirement, helping workers plan their future spending. The employer makes the most contributions and cannot retroactively decrease pension fund benefits.
+
+Voluntary employee contributions may be allowed as well. Since benefits do not depend on asset returns, benefits remain stable in a changing economic climate. Businesses can contribute more money to a pension fund and deduct more from their taxes than with a defined-contribution plan.
+
+An employee’s payout depends on the final salary and length of employment with the company. No early withdrawals are available from a pension fund. Pension fund loans are risky and, in some cases, illegal. In-service distributions are not allowed to a participant before age 59½. Taking early retirement generally results in a smaller monthly payout.
+
+Pension Plans vs. 401(k)
+
+A pension plan and 401(k) can both be used to invest money for retirement. However, each vehicle has its strengths and weaknesses.
+
+While a pension plan is often primarily funded by an employer, a 401(k) is primarily funded by an employee.
+
+Employees can choose how much to contribute to a 401(k) and potentially receive matched funds from employers based on IRS contribution limits.
+
+A 401(k) is a defined-contribution plan, while a pension may be a defined-benefit plan.
+
+Under a 401(k) plan, employees often have greater control of their retirement plan. They have some degree of choice regarding what securities to invest their savings in, as well as how much to contribute toward retirement. On the other hand, pension plans are more suitable for investors who want a guaranteed, fixed income for life.
+
+A 401(k) is portable. When an employee leaves a company, they can take their 401(k) with them by rolling over the balance into an IRA. Alternatively, when an employee leaves a company in which they have a vested pension benefit, the employee must keep track of their pension benefit after their departure. Then, when the individual is ready to retire, they must apply for the pension benefits.

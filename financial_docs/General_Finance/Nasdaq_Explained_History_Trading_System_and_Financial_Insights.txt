@@ -1,0 +1,106 @@
+Title: Nasdaq Explained: History, Trading System, and Financial Insights
+Source: https://www.investopedia.com/terms/n/nasdaq.asp
+Category: General_Finance
+--------------------
+What Is the Nasdaq?
+
+Nasdaq is a pioneering global electronic marketplace that revolutionized the buying and selling of securities. Originally an acronym for the National Association of Securities Dealers Automated Quotations, Nasdaq was established by the National Association of Securities Dealers (now known as FINRA) in 1971, ushering in the world's first automated stock exchange.
+
+The platform not only made trading faster and more transparent but also set the stage for subsequent technological advances in the financial markets. Today, Nasdaq is home to more than 5,000 companies, many of which are major technology players like Apple and Microsoft. As it grew in prominence, the exchange evolved into its three-tiered structure—the Nasdaq Global Select Market, the Nasdaq Global Market, and the Nasdaq Capital Market—and became a key indicator of the tech sector's economic impact and the broader financial market's health.
+
+Key Takeaways Launched in 1971 as the world’s first automated stock exchange, the Nasdaq offers a fast and transparent platform and facilitates trading in over 50 countries.
+
+The Nasdaq exchange lists more than 5,000 companies, including tech giants like Apple and Microsoft, underscoring its importance as a technology industry benchmark.
+
+The Nasdaq Composite Index, which includes over 2,500 stocks, is a key indicator of the tech sector's performance and the overall market sentiment, experiencing noticeable fluctuations such as a 23% drop between its 2021 high and April 2022.
+
+In 2022, Nasdaq Inc. reported a significant net income of $1.12 billion and increased its quarterly dividend, reflecting robust financial health.
+
+To promote diversity, Nasdaq's board diversity disclosure rule requires listed companies to have female directors and members from underrepresented groups or explain their absence.
+
+
+
+Investopedia / Theresa Chiechi
+
+Deep Dive Into the Nasdaq: How It Operates
+
+As noted above, the Nasdaq is a stock exchange headquartered in New York. It began as a subsidiary of the NASD and officially opened for business on Feb. 8, 1971. It was the world's first automated stock exchange.
+
+Nasdaq became a national securities exchange separate from NASD in 2006. In 2008, it merged with the Scandinavian exchanges group OMX, forming Nasdaq OMX Group. The company changed its name to Nasdaq Inc. in 2015.
+
+There are more than 5,000 companies that are listed and traded on the exchange on a daily basis. Many of these companies are major technology companies, such as Apple (AAPL) and Microsoft (MSFT).
+
+Since 2006, the Nasdaq has consisted of three tiers: the Nasdaq Global Select Market, the Nasdaq Global Market, and the Nasdaq Capital Market.
+
+
+
+The exchange runs 29 markets for trading stocks, derivatives, fixed income, and commodities across the U.S., Canada, Scandinavia, and the Baltics. The company also runs a clearinghouse and five central securities depositories in the United States and Europe. Its trading technology is employed by 100 exchanges across 50 countries.
+
+
+
+Exploring the Nasdaq Composite Index
+
+The term Nasdaq is also used to refer to the Nasdaq Composite. This is an index of more than 2,500 stocks listed on the Nasdaq exchange. This index includes some of the major technology giants, such as:
+
+Apple (AAPL)
+
+Microsoft (MSFT)
+
+Alphabet (GOOG, GOOGL)
+
+Meta Platforms (META)
+
+Amazon (AMZN)
+
+Tesla (TSLA)
+
+The Nasdaq Composite closed at a record high of 16,057.44 on Nov. 19, 2021. The index proceeded to drop more than 23% from that point through April 2022. The Nasdaq Composite's 13.3% drop in April 2022 was its steepest monthly decline since losing 17.4% in October 2008 during the global financial crisis. It closed at 13,787.92 on June 30, 2023.
+
+
+
+Important Nasdaq Inc., trading under the symbol NDAQ, has been in the S&P 500 Index since 2008.
+
+The Evolution and Impact of Nasdaq's Trading System
+
+The Nasdaq computerized trading system was initially devised as an alternative to the inefficient specialist system, which was the prevalent model for almost a century. The rapid evolution of technology has made Nasdaq’s electronic trading model the standard for markets worldwide.
+
+It made sense for emerging tech companies to list on an exchange using the latest technology. As the tech sector boomed in the 1980s and 1990s, the Nasdaq Composite Index became its most quoted benchmark.
+
+That turned Nasdaq Composite into the index of the dot-com boom and bust. After rallying nearly 150% in the 16 months through March 2000, the Nasdaq Composite then slumped almost 80% by October 2002.
+
+A Chronicle of Nasdaq’s Growth and Milestones
+
+In November 2016, chief operating officer (COO) Adena Friedman was promoted to the role of chief executive officer (CEO), becoming the first woman to run a major exchange in the United States.
+
+Pioneering Diversity: Nasdaq’s Board Disclosure Rule
+
+On Dec. 1, 2020, Nasdaq proposed a new rule requiring companies listed on the exchange to report on the diversity of their board of directors. The rule mandates companies to have at least one female director and one member from an underrepresented minority or LGBTQ+ on their boards, or to explain publicly why they don't. The SEC approved the board diversity disclosure rule on Aug. 6, 2021.
+
+Analyzing Nasdaq’s Financial Health and Revenue Streams
+
+Nasdaq generates revenue from clients, including financial institutions, brokers, institutional investors, and corporations. Nasdaq's revenue is mainly derived from fees charged for the following:
+
+Market services, which give investors access to various markets
+
+Investment intelligence, including data, indices, and investment analytics for financial institutions, brokers, and asset managers
+
+Market technology, which includes trading and settlement platforms as well as technology safeguards against financial crime
+
+Corporate services, such as listing fees and investment relations services
+
+Nasdaq reported total net income of $1.12 billion on total revenue of $6.23 billion for the 2022 fiscal year ending Dec. 31, 2022. Revenue minus transaction-based expenses was $3.58 billion. The company also increased the quarterly dividend per common share to $0.78 in 2022 from $0.70 in 2021.
+
+
+
+Is the Nasdaq a U.S. Stock Market? The Nasdaq is a U.S. stock exchange based in New York City. It officially opened for business in February 1971. There are more than 5,000 companies that trade on the exchange, including domestic and international firms. It was the first automated exchange in the world.
+
+What Is the Nasdaq 100? The Nasdaq 100 is a large-cap growth index. It is comprised of 100 of the largest U.S. and international non-financial companies—all of which are listed on the Nasdaq stock exchange based on their market caps. Some of the major companies listed include Apple, Dollar Tree, Keurig, Sirius XM Holdings, and Zoom Video Communications. Investors who are interested in taking advantage of the index's returns can do so by investing in mutual funds, exchange-traded funds (ETFs), options, futures, and annuities that track and try to mimic its performance.
+
+Does Apple Trade on the New York Stock Exchange or the Nasdaq? Apple trades on the Nasdaq under the ticker symbol AAPL. The company went public on Dec. 12, 1980, when it first traded at $22. Apple stock closed at $190.25 on June 30, 2023.
+
+The Bottom Line
+
+The Nasdaq is one of the major stock exchanges in the United States. More than 5,000 domestic and foreign companies are listed with a major focus on technology. The exchange opened up for business in 1971 and was the first automated exchange in the world. The Nasdaq Composite Index, which is comprised of more than 2,500 listed companies, is one of the world's most-watched stock market indexes and is considered a gauge of the U.S. and global economies.
+
+Correction—March 20, 2024: This article has been corrected to state that the Nasdaq consists of three tiers: the Nasdaq Global Select Market, the Nasdaq Global Market, and the Nasdaq Capital Market.
+

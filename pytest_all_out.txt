@@ -1,0 +1,205 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\yasti\projects\FinancialAssist
+plugins: anyio-4.12.1, langsmith-0.7.3, cov-7.0.0, mock-3.15.1
+collected 27 items
+
+tests\test_agents.py F                                                   [  3%]
+tests\test_embedding.py ....                                             [ 18%]
+tests\test_scrape_data.py ..                                             [ 25%]
+tests\test_tools.py ...................                                  [ 96%]
+tests\test_workflow.py F                                                 [100%]
+
+================================== FAILURES ===================================
+_________________________ test_agents_initialization __________________________
+
+mock_chat = <MagicMock name='ChatOpenAI' id='2091137465856'>
+
+    @patch("src.agents.ChatOpenAI")
+    def test_agents_initialization(mock_chat):
+        mock_llm_instance = MagicMock()
+        mock_chat.return_value = mock_llm_instance
+    
+        import src.agents as agents
+    
+        # Verify the agents are created
+        assert agents.finance_qa_runnable is not None
+        assert agents.portfolio_analysis_runnable is not None
+        assert agents.market_analysis_runnable is not None
+        assert agents.goal_planning_runnable is not None
+        assert agents.news_synthesizer_runnable is not None
+        assert agents.tax_education_runnable is not None
+        assert agents.router_runnable is not None
+    
+        # Check if tools are bound for agents that need them
+        assert hasattr(agents.finance_qa_agent, "kwargs") or hasattr(agents.finance_qa_agent, "bound") or True
+    
+        # We can invoke the router to ensure it works with the mock
+        mock_llm_instance.invoke.return_value = MagicMock(content="finance_qa")
+        result = agents.router_runnable.invoke({"messages": []})
+>       assert result.content == "finance_qa"
+E       AssertionError: assert 'market_analysis' == 'finance_qa'
+E         
+E         - finance_qa
+E         + market_analysis
+
+tests\test_agents.py:27: AssertionError
+_____________________________ test_workflow_logic _____________________________
+
+mock_chat = <MagicMock name='ChatOpenAI' id='2091140031424'>
+
+    @patch("src.agents.ChatOpenAI")
+    def test_workflow_logic(mock_chat):
+        mock_llm_instance = MagicMock()
+        mock_chat.return_value = mock_llm_instance
+    
+        from src.workflow import (
+            create_agent_node,
+            router_logic,
+            should_continue,
+            route_back_to_agent
+        )
+    
+        # 1. Test create_agent_node
+        mock_runnable = MagicMock()
+        mock_runnable.invoke.return_value = AIMessage(content="Hello")
+        agent_node = create_agent_node(mock_runnable, "test_agent")
+    
+        state = {"messages": [HumanMessage(content="Hi")], "sender": ""}
+        result = agent_node(state)
+    
+        assert result["sender"] == "test_agent"
+        assert isinstance(result["messages"][0], AIMessage)
+        assert result["messages"][0].content == "Hello"
+    
+        # 2. Test router_logic - Force routing
+        state_force = {"force_agent": "market_analysis"}
+        assert router_logic(state_force) == "market_analysis"
+    
+        # 3. Test router_logic - LLM routing
+        with patch("src.workflow.router_runnable") as mock_router:
+            state_routing = {"messages": [], "force_agent": None}
+    
+            mock_router.invoke.return_value = AIMessage(content="portfolio_analysis")
+            assert router_logic(state_routing) == "portfolio_analysis"
+    
+            mock_router.invoke.return_value = AIMessage(content="finance_qa")
+            assert router_logic(state_routing) == "finance_qa"
+    
+            mock_router.invoke.return_value = AIMessage(content="market_analysis")
+            assert router_logic(state_routing) == "market_analysis"
+    
+            mock_router.invoke.return_value = AIMessage(content="goal")
+            assert router_logic(state_routing) == "goal_planning"
+    
+            mock_router.invoke.return_value = AIMessage(content="news")
+            assert router_logic(state_routing) == "news_synthesizer"
+    
+            mock_router.invoke.return_value = AIMessage(content="tax")
+            assert router_logic(state_routing) == "tax_education"
+    
+            mock_router.invoke.return_value = AIMessage(content="gibberish")
+            assert router_logic(state_routing) == "finance_qa" # default
+    
+        # 4. Test should_continue
+        # Without tool calls
+        state_no_tools = {"messages": [AIMessage(content="Done")]}
+        assert should_continue(state_no_tools) == "__end__"
+    
+        # With tool calls
+>       msg_with_tools = AIMessage(content="", tool_calls=[{"name": "test"}])
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+tests\test_workflow.py:65: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+myenv\Lib\site-packages\langchain_core\messages\ai.py:228: in __init__
+    super().__init__(content=content, **kwargs)
+myenv\Lib\site-packages\langchain_core\messages\base.py:179: in __init__
+    super().__init__(content=content, **kwargs)
+myenv\Lib\site-packages\langchain_core\load\serializable.py:118: in __init__
+    super().__init__(*args, **kwargs)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+cls = <class 'langchain_core.messages.ai.AIMessage'>
+values = {'content': '', 'tool_calls': [{'name': 'test'}]}
+
+    @model_validator(mode="before")
+    @classmethod
+    def _backwards_compat_tool_calls(cls, values: dict) -> Any:
+        check_additional_kwargs = not any(
+            values.get(k)
+            for k in ("tool_calls", "invalid_tool_calls", "tool_call_chunks")
+        )
+        if check_additional_kwargs and (
+            raw_tool_calls := values.get("additional_kwargs", {}).get("tool_calls")
+        ):
+            try:
+                if issubclass(cls, AIMessageChunk):
+                    values["tool_call_chunks"] = default_tool_chunk_parser(
+                        raw_tool_calls
+                    )
+                else:
+                    parsed_tool_calls, parsed_invalid_tool_calls = default_tool_parser(
+                        raw_tool_calls
+                    )
+                    values["tool_calls"] = parsed_tool_calls
+                    values["invalid_tool_calls"] = parsed_invalid_tool_calls
+            except Exception:
+                logger.debug("Failed to parse tool calls", exc_info=True)
+    
+        # Ensure "type" is properly set on all tool call-like dicts.
+        if tool_calls := values.get("tool_calls"):
+            values["tool_calls"] = [
+>               create_tool_call(
+                    **{k: v for k, v in tc.items() if k not in {"type", "extras"}}
+                )
+                for tc in tool_calls
+            ]
+E           TypeError: tool_call() missing 2 required keyword-only arguments: 'args' and 'id'
+
+myenv\Lib\site-packages\langchain_core\messages\ai.py:329: TypeError
+---------------------------- Captured stdout call -----------------------------
+--- Agent Invoked: test_agent ---
+--- Force Routing: market_analysis ---
+--- Router Decision: portfolio_analysis ---
+--- Router Decision: finance_qa ---
+--- Router Decision: market_analysis ---
+--- Router Decision: goal ---
+--- Router Decision: news ---
+--- Router Decision: tax ---
+--- Router Decision: gibberish ---
+--- Agent finishing ---
+============================== warnings summary ===============================
+myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25
+  C:\Users\yasti\projects\FinancialAssist\myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+    from pydantic.v1.fields import FieldInfo as FieldInfoV1
+
+<frozen importlib._bootstrap>:491
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+
+<frozen importlib._bootstrap>:491
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+
+<frozen importlib._bootstrap>:491
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.14.2-final-0 _______________
+
+Name                 Stmts   Miss  Cover   Missing
+--------------------------------------------------
+src\__init__.py          0      0   100%
+src\agents.py           25      0   100%
+src\embedding.py        40      1    98%   63
+src\main.py            179    179     0%   1-290
+src\scrape_data.py      48      6    88%   102, 104, 112, 146-147, 150
+src\tools.py           123      2    98%   20-21
+src\utils.py             0      0   100%
+src\workflow.py         62      5    92%   95-96, 105-107
+--------------------------------------------------
+TOTAL                  477    193    60%
+=========================== short test summary info ===========================
+FAILED tests/test_agents.py::test_agents_initialization - AssertionError: ass...
+FAILED tests/test_workflow.py::test_workflow_logic - TypeError: tool_call() m...
+================== 2 failed, 25 passed, 4 warnings in 20.04s ==================

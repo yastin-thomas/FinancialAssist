@@ -1,0 +1,101 @@
+Title: Recession: Definition, Causes, and Examples
+Source: https://www.investopedia.com/terms/r/recession.asp
+Category: Economics
+--------------------
+What Is a Recession?
+
+A recession is a significant and widespread downturn in economic activity that typically lasts for longer than a few months. A common rule of thumb is that two consecutive quarters of shrinkage in gross domestic product (GDP) indicate a recession. However, it's much more complex than that.
+
+
+
+Key Takeaways Economists measure a recession's length from the prior expansion's peak to the downturn's trough.
+
+Recessions may last as little as two quarters, but the economy (and potentially the stock market) may not recover to its former peak for years.
+
+An inverted yield curve has predicted the last 10 recessions, although some predicted recessions never materialized.
+
+Unemployment often remains high well into an economic recovery, so the early stages of a rebound can feel like a continuing recession for many.
+
+Nations use fiscal and monetary policies to limit the risks of a recession.
+
+
+
+The cause of a recession can be economic, financial, psychological, or a combination thereof. Investopedia / Laura Porter
+
+How Recessions Work
+
+Since the Industrial Revolution, most economies have grown steadily, with few economic contractions. However, recessions are still common. Between 1960 and 2007, there were 122 recessions affecting 21 advanced economies, according to the International Monetary Fund (IMF). In recent years, recessions have become less frequent and shorter in duration.
+
+Declines in economic output and employment that recessions cause can become self-perpetuating. For example, declining consumer demand can prompt companies to lay off staff, affecting consumer spending power, which can further weaken consumer demand. Similarly, the bear markets that often accompany recessions can reverse the wealth effect, suddenly making people less wealthy and further trimming consumption.
+
+Since the Great Depression, governments around the world have adopted fiscal and monetary policies to prevent a run-of-the-mill recession from becoming far worse. Some of these stabilizing factors are automatic, such as unemployment insurance that puts money into the pockets of employees who lose their jobs. Other measures require specific actions, such as cutting interest rates to stimulate investment.
+
+Economists at the National Bureau of Economic Research (NBER) measure recessions by looking at nonfarm payrolls, industrial production, and retail sales, among other indicators. NBER states that there's "no fixed rule about what measures contribute information to the process or how they are weighted in our decisions."
+
+A downturn must be deep, pervasive, and lasting to qualify as a recession by NBER's definition. Since some of these qualities may not be evident when a downturn first begins, many recessions are called retroactively.
+
+Recessions are most clearly identified after they're over. Additionally, investors, economists, and employees may have very different experiences in terms of when a recession is at its worst.
+
+Equity markets often decline before an economic downturn, so investors may assume a recession has begun as investment losses accumulate and corporate earnings decline, even if other measures of recession remain healthy, such as consumer spending and unemployment.
+
+Conversely, since unemployment often remains high long after the economy hits bottom, workers may perceive a recession as continuing for months or even years after economic activity recovers.
+
+What Predicts a Recession?
+
+While there's no single, sure-fire predictor of a recession, an inverted yield curve has preceded each of the 10 United States recessions since 1955. That being said, not every period of inverted yield curve was followed by a recession.
+
+When the yield curve is normal, short-term yields are lower than long-term yields. This is because longer-term debt has more duration risk. For example, a 10-year bond usually yields more than a two-year bond, as the investor is taking a risk that future inflation or higher interest rates could lower the bond's value before it can be redeemed. So, in this case, the yield goes up over time, creating an upward yield curve.
+
+The yield curve inverts if yields on longer-dated bonds go down while yields on shorter-term bonds go up. The rise of near-term interest rates can tip the economy into a recession. The reason why the yield on long-term bonds drops below that of short-term bonds is because traders and investors anticipate near-term economic weakness leading to eventual interest rate cuts.
+
+Investors also look at a variety of leading indicators to predict a recession. These include the ISM Purchasing Managers Index, the Conference Board Leading Economic Index, and the Organisation for Economic Co-operation and Development (OECD) Composite Leading Indicator.
+
+What Causes Recessions?
+
+Numerous economic theories attempt to explain how and why an economy goes into recession. These theories can be broadly categorized as economic, financial, psychological, or a combination of these factors.
+
+Some economists consider economic changes, including structural shifts in industries, as most important. For example, a sharp and sustained surge in oil prices can raise costs across the economy, triggering other effects that could lead to a recession.
+
+
+
+Some theories suggest that financial factors contribute to recessions. These theories focus on credit growth and the accumulation of financial risks during good economic times, the contraction of credit and money supply when recession starts, or both. Monetarism, which says recessions are caused by insufficient growth in the money supply, is an example of this type of theory.
+
+Other theories focus on psychological factors, such as over-exuberance during economic booms and deep pessimism during downturns, to explain why recessions occur and persist. Keynesian economics focuses on the psychological and economic factors that can reinforce and prolong recessions. The concept of a Minsky Moment, named for economist Hyman Minsky, combines the two to explain how bull-market euphoria can encourage unsustainable speculation.
+
+Recessions and Depressions
+
+According to NBER, the U.S. has experienced 34 recessions since 1854, but only five since 1980. The downturn following the 2008 global financial crisis and the double-dip slumps of the early 1980s were the worst since the Great Depression and the 1937–38 recession.
+
+Routine recessions can cause GDP to decline 2%, while severe ones might set an economy back 5%, according to the IMF. A depression is a particularly deep and long-lasting recession, though there is no commonly accepted formula to define one.
+
+During the Great Depression, U.S. economic output fell 33%, stocks plunged 80%, and unemployment hit 25%. During the 1937–38 recession, real GDP fell 10% while unemployment jumped to 20%.
+
+Recent Recessions
+
+The pandemic is a prime example of an economic shock that can trigger a recession. The depth and widespread nature of the economic downturn caused by COVID-19 in 2020 led the NBER to designate it a recession.
+
+In 2022, many economic analysts debated whether the U.S. economy was in recession or not, given conflicting economic indicators.
+
+Analysts with investment advisory firm Raymond James argued in an October 2022 report that the U.S. economy wasn't in recession. Despite the fact that the economy experienced two consecutive quarters of shrinkage, numerous other positive economic indicators showed that the economy was not in recession, the report argued.
+
+It cited the fact that employment continued to increase even as GDP contracted. The report further pointed out that although real personal disposable income declined in 2022, much of the decline was a result of the end of the COVID-19 relief stimulus, and that personal income, excluding these payments, continued to rise.
+
+Data from the Federal Reserve Bank of St. Louis, as of late October 2022, similarly showed that key NBER indicators didn't indicate a recession in the U.S. economy.
+
+
+
+Fast Fact On April 6, 2025, U.S. Treasury Secretary Scott Bessent indicated he wasn't concerned about a potential recession. "Who knows how the market is going to react in a day, in a week. What we are looking at is building the long-term economic fundamentals for prosperity..." he said in an interview with NBC News’ “Meet the Press.”
+
+What Happens in a Recession? Economic output, employment, and consumer spending drop in a recession. Interest rates are also likely to decline as central banks—such as the U.S. Federal Reserve Bank—cut rates to support the economy. The government's budget deficit widens as tax revenues decline, while spending on unemployment insurance and other social programs rises.
+
+When Was the Last Recession? The last U.S. recession was in 2020, at the outset of the pandemic. According to National Bureau of Economic Research (NBER), the two-month downturn ended in April 2020, qualifying as a recession as it was deep and pervasive despite its record-short length.
+
+How Long Do Recessions Last? The average U.S. recession since 1857 lasted 17 months, although the six recessions since 1980 averaged less than 10 months.
+
+The Bottom Line
+
+A recession is a significant, widespread, and prolonged downturn in economic activity. Recessions are commonly characterized by two consecutive quarters of negative gross domestic product (GDP) growth, though there are more complex ways to assess and classify downturns.
+
+The unemployment rate is a key recession indicator. As demand for goods and services falls, companies need fewer workers and may lay off staff to cut costs. Laid-off staff then have to cut their own spending, which in turn hurts demand, which can lead to more layoffs.
+
+Since the Great Depression, governments around the world have adopted fiscal and monetary policies to prevent recessions from deepening into depressions, such as unemployment insurance and cutting interest rates.

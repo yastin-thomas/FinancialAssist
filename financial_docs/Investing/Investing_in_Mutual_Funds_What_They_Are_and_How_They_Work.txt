@@ -1,0 +1,269 @@
+Title: Investing in Mutual Funds: What They Are and How They Work
+Source: https://www.investopedia.com/terms/m/mutualfund.asp
+Category: Investing
+--------------------
+A mutual fund is a financial vehicle in which shareholders put their money together to invest in securities (e.g., stocks, bonds, money market instruments). A fund manager chooses the best investments, and every investor shares in the profits if the investments do well.
+
+Key Takeaways Mutual funds pool money from multiple investors to build diversified portfolios of stocks, bonds, and other securities managed by finance professionals.
+
+Fund shares are priced once daily at market close based on the net asset value (NAV) of all holdings minus expenses divided by total shares.
+
+Investors can earn returns through capital gains when fund holdings increase in value, dividend and interest distributions, or selling shares for a profit.
+
+Key benefits include professional management, diversification, and relatively low investment minimums, though fees and expenses can impact returns.
+
+Most Americans invest in mutual funds through employer retirement plans like 401(k)s, with over half of U.S. households owning fund shares. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+What Are Mutual Funds?
+
+A mutual fund gathers money from many investors to purchase a diversified portfolio of stocks, bonds, or other securities. For millions of Americans, these funds are the cornerstone of their retirement savings, offering professional management and built-in diversification that would be difficult to achieve on their own.
+
+In a mutual fund, investors pool their money to buy assets together, benefiting from shared costs and professional expertise. Rather than buying individual stocks or bonds, you buy shares in the fund itself, becoming partial owners of all its holdings.
+
+When you invest in a mutual fund, you’re essentially hiring professional money managers to make investment decisions on your behalf. These managers research opportunities, select securities, and monitor performance according to the fund’s stated objectives—whether that’s aggressive growth, steady income, or matching a market index.
+
+Investing in mutual funds can help you save for different goals, including retirement, a home purchase, education, or to build your wealth. Ellen Lindner / Investopedia
+
+Mutual Funds: How Many is Too Many?
+
+How Mutual Funds Work
+
+Mutual funds are portfolios of investments funded by all those who have bought shares in the fund. When someone buys shares in a mutual fund, they gain part-ownership of all of the fund’s underlying assets. The fund’s performance depends on its assets—if it’s full of stocks going up, it will go up. If they’re going down, so will the fund.
+
+A mutual fund decides how to divide money across sectors, industries, and companies based on its strategy. Many funds are index or passive funds, so they don't need a lot of hands-on management. They mirror assets of indexes like the S&P 500 or the Dow Jones Industrial Average.
+
+The biggest fund managers are Vanguard and Fidelity.
+
+Tip The reason mutual funds are so often the default for retirement accounts like 401(k)s is that they let you instantly diversify across hundreds of securities with a relatively modest amount of money.
+
+Mutual fund investment increased significantly since they were introduced about half a century ago, from about 6% of American households in 1980 to about 54% in 2024, including about 35% of Gen Z households. Together, American households owned about 88% of all mutual fund assets as of the end of 2024.
+
+Mutual funds give everyday investors access to a diverse investment menu they likely couldn’t build on their own. Investing in a single stock or bond can be risky, but a mutual fund reduces the risk by spreading your investments across many securities.
+
+
+
+How to Invest in Mutual Funds
+
+Investing in mutual funds is relatively straightforward, involving the following steps:
+
+Before buying shares, you should check with your employer to see if they offer mutual funds through your 401(k) or other retirement funds, since these might have matching funds—essentially doubling what you put in. Once you know you won’t be investing in mutual funds through work, make sure you have a brokerage account with enough deposited to buy the mutual fund shares you want. Identify mutual funds that match your investing goals regarding risk, returns, fees, and minimum investments. Many platforms offer fund screening tools. Determine how much you want to invest and submit your trade. To increase your investment over time, you can often set up automatic periodic purchases of shares. While these investments are often long-term, it is essential to periodically review the fund’s performance and make adjustments as needed. When it’s time to close your position, enter a sell order on your platform.
+
+Types of Mutual Funds
+
+There are many types among the estimated 8,410 mutual funds in the U.S., with most in four main categories: stock, money market, bond, and target-date funds.
+
+
+
+Target-Date Funds: The "Set-It-and-Forget-It" Approach
+
+Target-date funds offer a straightforward retirement investing approach by automatically adjusting their mix of stocks, bonds, and other assets based on when you plan to retire. These mutual funds, which often have years like “2045” or “2050” in their names, start with aggressive growth strategies and gradually become more conservative as you approach retirement.
+
+These funds require active management—but not from you. Earlier in your career, the fund might invest 90% of your money in stocks for growth potential. As you near retirement, it shifts more money into bonds and cash to help protect your nest egg from market swings.
+
+For example, a 30-year-old planning to retire in 2065 might choose a “2065 Target Date Fund.” Initially, this fund would primarily hold stocks. Over time, it automatically rebalances to include more conservative investments, reducing risk when one can least afford major losses.
+
+However, target-date funds aren’t one-size-fits-all. Their fees can vary significantly, and their investment strategies—known as glide paths—differ among fund companies. Some funds maintain significant stock exposure even after retirement, while others are more conservative.
+
+
+
+Important More than 90% of employee retirement plans in the U.S. use target-date funds as their default.
+
+Stock Funds
+
+This type of fund invests primarily in equity or stocks with assorted subcategories. Some equity funds are named for the company size they invest in, like small, mid-sized, or large capitalization funds. Others are named by their investment approach: aggressive growth, income-oriented, and value. Equity funds are also categorized by whether they invest in U.S. stocks or foreign equities. To understand how these strategies and asset sizes can combine, you can use an equity-style box like the example below.
+
+Value funds invest in stocks their managers see as undervalued, while looking for long-term appreciation when the market recognizes the stocks’ true worth. These companies are characterized by low price-to-earnings (P/E) ratios, low price-to-book ratios, and dividend yields. Growth funds look to companies with solid earnings, sales, and cash flow growth. These companies typically have high P/E ratios and don't pay much in dividends. A compromise between strict value and growth investment is a “blend.” These funds invest in a mix of growth and value stocks to give a risk-to-reward profile somewhere in the middle.
+
+Julie Bang / Investopedia
+
+Large-cap companies have market capitalizations of over $10 billion. Market cap is derived by multiplying the share price by the number of shares outstanding. Large-caps are typically for blue-chip firms whose names are recognizable. Small-caps have market caps between $250 million and $2 billion. These companies tend to be newer, riskier investments. Midcaps fill in the gap between small- and large-cap stocks.
+
+A mutual fund may combine different investment styles and company sizes. For example, a large-cap value fund might include large-caps in its portfolio that are in strong financial shape but have recently seen their share prices fall; these would be placed in the upper left quadrant of the style box (large and value). The opposite of this would be a small-cap growth fund that invests in startup tech companies with high growth prospects. This kind of fund is in the bottom right quadrant above (small and growth).
+
+Bond Funds
+
+A mutual fund that generates a consistent and minimum return is part of the fixed-income category. These mutual funds focus on investments that pay a set rate of return, such as government bonds, corporate bonds, and other debt instruments. The bonds should generate interest income that’s passed on to the shareholders, with limited investment risk.
+
+There are also actively managed funds that look for relatively undervalued bonds to sell them at a profit. These mutual funds will likely pay higher returns but aren’t without risk. For example, a fund specializing in high-yield junk bonds is much riskier than a fund that invests in government securities.
+
+Because of the different types of bonds, bond funds can vary dramatically depending on where and when they invest. All bond funds have interest rate risk.
+
+Fast Fact Most mutual funds are part of larger investment companies or fund families such as Fidelity Investments, Vanguard, T. Rowe Price, and Oppenheimer.
+
+Index Funds
+
+Index mutual funds replicate the performance of a specific index, such as the S&P 500. This passive strategy requires less research from analysts and advisors, so fewer expenses are passed on to investors through fees, and these funds are designed with cost-sensitive investors in mind.
+
+They often outperform actively managed funds, offering the rare mix of lower costs and better returns.
+
+Balanced Funds
+
+Balanced funds invest in different securities, such as stocks, bonds, the money market, or alternative investments. The objective of these funds, which are also known as asset allocation funds, is to reduce risk through diversification.
+
+Money Market Funds
+
+The money market consists of safe, risk-free, short-term debt instruments, mostly government Treasury bills. The returns on them aren’t substantial. A typical return is a little more than the amount earned in a regular checking or savings account and a little less than the average certificate of deposit (CD). Money market mutual funds are often used as a temporary holding place for cash that will be used for future investments or an emergency fund.
+
+While low risk, they aren’t insured by the Federal Deposit Insurance Corporation (FDIC) like savings accounts or CDs.
+
+Income Funds
+
+Income funds are meant to disburse income on a steady basis, and are often seen as the mutual funds for retirement investing. They invest primarily in government and high-quality corporate debt, holding these bonds until maturity to provide interest streams. While fund holdings may rise in value, the primary goal is to offer a steady cash flow​.
+
+International Funds
+
+An international mutual fund, or foreign fund, invests only in assets located outside an investor’s home country. Global funds, however, can invest anywhere worldwide. Their volatility depends on where and when the funds are invested.
+
+
+
+Sector and Theme Funds
+
+Sector mutual funds aim to profit from the performance of specific industries, such as finance, technology, or healthcare. Theme funds can cut across sectors. For example, a fund focused on artificial intelligence (AI) might have holdings in firms in healthcare, defense, and other areas employing and building out AI beyond the tech industry.
+
+Socially Responsible Mutual Funds
+
+Socially responsible investing invests only in companies and sectors that meet preset criteria. For example, some socially responsible funds don’t invest in industries like tobacco, alcoholic beverages, weapons, or nuclear power. Sustainable mutual funds invest primarily in green technology, such as solar and wind power or recycling.
+
+Some funds review environmental, social, and governance (ESG) factors when choosing investments. This approach focuses on the company’s management practices and whether they tend toward environmental and community improvement.
+
+Top Mutual Funds
+
+Below are five large mutual funds that represent a range of the types of funds listed above:
+
+VFIAX tracks the S&P 500, so investors can invest in the largest 500 American companies with a single purchase. With a very low 0.04% expense ratio (meaning you pay 40 cents annually per $1,000 invested), it requires a $3,000 minimum investment. Since its launch in 1976, the fund has returned an average of about 8.68% annually.
+
+Like Vanguard’s offering, it charges even less: just 0.015% in annual expenses (15 cents per $1,000 invested) with no minimum investment required. The fund invests in technology, financial, healthcare, and consumer companies, closely matching the S&P 500 while maintaining flexibility to invest up to 20% outside the index.
+
+This actively managed fund focuses on companies that consistently pay and increase their regular cash payments to shareholders. While its 0.64% expense ratio is higher than that of index funds, the strategy targets stable, financially healthy companies. The minimum investment is $2,500.
+
+For investors seeking global diversification, this fund offers exposure to non-U.S. companies with no fees and a 0% expense ratio. The fund focuses on established international companies to help manage risk while providing worldwide investment exposure.
+
+This fund provides broad exposure to U.S. bonds, primarily government and high-quality corporate debt. With a 0.04% expense ratio and a $3,000 minimum investment, it’s designed to provide steady income and help balance out the stock market’s risks.
+
+Tip While many mutual funds are “no-load,” you can frequently avoid brokerage fees and commissions anyway by purchasing a fund directly from the mutual fund company instead of going through an intermediary.
+
+How Mutual Fund Shares Are Priced
+
+The value of the mutual fund depends on the performance of the securities it invests in. When buying a unit or share of a mutual fund, you get a part of its portfolio value. Investing in a share of a mutual fund differs from investing in stock shares. Unlike stock, mutual fund shares do not give their holders voting rights. And unlike exchange-traded funds (ETFs), you can’t trade your shares throughout the trading day.
+
+Mutual fund share prices come from the net asset value (NAV) per share, sometimes listed as NAVPS. A fund’s NAV is derived by dividing the total value of the securities in the portfolio by the number of shares outstanding.
+
+Shares are typically traded using the fund’s NAV, which doesn’t fluctuate during market hours but is settled at the end of each trading day. A mutual fund's price is also updated when the NAVPS is settled.
+
+How Are Earnings Calculated for Mutual Funds?
+
+Investors typically earn returns from a mutual fund in three ways:
+
+Dividend/interest income: Mutual funds distribute the dividends on stocks and interest on bonds held in their portfolios. Funds often give investors the choice of either receiving a deposit for distributions or reinvesting earnings for more shares in the mutual fund. Portfolio distributions: If the fund sells securities that have increased in price, the fund realizes a capital gain, which most funds also pass on to investors in a distribution. Capital gains distribution: When the fund’s shares increase in price, you can sell your mutual fund shares for a profit in the market.
+
+When researching the returns of a mutual fund, you’ll typically come upon a figure for the “total return,” or the net change in value (either up or down) over a specific period. This includes any interest, dividends, or capital gains the fund has generated, along with the change in its market value during a given period. In most cases, total returns are given for one-, five-, and 10-year periods, as well as from the day the fund opened.
+
+Advantages and Disadvantages of Investing in Mutual Funds
+
+There are many reasons why mutual funds have been the retail investor’s vehicle of choice, with an overwhelming majority of money in employer-sponsored retirement plans invested in mutual funds. The U.S. Securities and Exchange Commission (SEC), in particular, has long paid very close attention to how these funds are run, given their importance to so many Americans and their retirements.
+
+Advantages
+
+Diversification: A diversified portfolio has securities with different capitalizations and industries and bonds with varying maturities and issuers. A mutual fund can achieve diversification faster and more cheaply than buying individual securities.
+
+Ease of Access: Since they trade on the major stock exchanges, mutual funds can be bought and sold with relative ease, making them highly liquid investments. Also, for certain types of assets, like foreign equities or exotic commodities, mutual funds are often the most workable—sometimes the only—way for individual investors to participate.
+
+Economies of Scale: Because a mutual fund buys and sells large amounts of securities at a time, its transaction costs are lower than what an individual would pay for securities transactions. A mutual fund can invest in certain assets or take larger positions than a smaller investor could.
+
+Professional Management: A mutual fund is a relatively inexpensive way for a small investor to get a full-time manager to make and monitor investments. Mutual funds require much lower investment minimums, providing a low-cost way for individual investors to experience and benefit from professional money management.
+
+Transparency: Mutual funds are subject to industry regulations meant to ensure accountability and fairness for investors. In addition, the component securities of each mutual fund can be found across many platforms.
+
+
+
+Tip Mutual fund managers are legally obligated to follow the fund’s mandate and to work in the best interest of mutual fund shareholders.
+
+Disadvantages
+
+Liquidity, diversification, and professional management all make mutual funds attractive options. However, there are drawbacks:
+
+No FDIC Guarantee: Like many other investments without a guaranteed return, there is always the possibility that the value of your fund will depreciate. Equity funds experience price fluctuations, along with the stocks in the fund’s portfolio. The FDIC doesn't guarantee fund investments.
+
+Cash Drag: To maintain liquidity and the ability to accommodate withdrawals, mutual funds typically have to keep a larger percentage of their portfolio as cash than other investments. Because this cash earns no return, it’s called a “cash drag.”
+
+Higher Costs: Fees that reduce your overall payout are assessed regardless of the fund’s performance. Ignoring the fees can cost you, since actively managed funds incur transaction costs that accumulate and compound year over year.
+
+Dilution: Dilution is also the result of a successful fund growing too big. When new money pours into funds with solid track records, the manager could have trouble finding suitable investments to use all the new capital.
+
+The SEC requires that funds invest at least 80% of their assets in the investment type implied by their title. The fund manager decides how the remaining assets are invested. However, the categories that qualify for 80% of the assets can be vague and wide-ranging.
+
+End-of-Day Trading Only: A mutual fund lets you request that your shares be converted into cash anytime. However, unlike stocks and ETFs that trade throughout the day, mutual fund redemptions can only occur at the end of the trading day.
+
+Taxes: When the mutual fund manager sells a security, a capital gains tax is triggered, which can be extended to you. For example, ETFs avoid this through their creation and redemption mechanisms. Your taxes can be lowered by investing in tax-sensitive funds or by holding non-tax-sensitive mutual funds in a tax-deferred account, such as a 401(k) or individual retirement account (IRA).
+
+Pros Ability to buy and sell shares relatively quickly
+
+Diversification
+
+Minimal investment requirements
+
+Professional management
+
+Variety of offerings Cons Fees, commissions, and other expenses
+
+Large cash presence in portfolios
+
+No FDIC coverage
+
+Difficulty in comparing funds
+
+Lack of transparency in holdings
+
+Mutual Fund Fees
+
+When investing in mutual funds, it’s essential to understand the fees associated with them, since these costs will significantly affect your investment returns over time.
+
+Here are some standard mutual fund fees:
+
+Expense ratio: This is an annual fee that covers the fund’s operating expenses, including management fees, administrative costs, and marketing expenses. The expense ratio is given as a percentage of the fund’s average net assets and is deducted from the fund’s returns. Pressured by competition from index investing and ETFs, mutual fund expense ratios were lowered by more than half over the last 30 years (see below).
+
+Sales charges or loads: Some mutual funds charge sales fees, known as loads, when you buy or sell shares. Front-end loads are charged when you buy shares, while back-end loads (or contingent and deferred sales charges) are assessed if you sell your shares before a certain date. Sometimes, however, management firms offer no-load mutual funds, which don’t have commission or sales charges.
+
+Redemption fees: Some mutual funds charge a redemption fee when you sell shares within a short period (usually 30 to 180 days) after purchasing them, which the SEC limits to 2%. This fee is designed to discourage short-term trading in these funds for stability.
+
+Other account fees: Some funds or brokerage firms may charge extra fees for maintaining your account or transactions, especially if your balance falls below a certain minimum.
+
+
+
+Evaluating Mutual Funds
+
+Researching and comparing funds can be more difficult than for other securities. Unlike stocks, mutual funds do not offer investors the opportunity to juxtapose the price-to-earnings (P/E) ratio, sales growth, earnings per share, or other important data. A mutual fund’s NAV can offer some basis for comparison, but given the diversity of portfolios, comparing the proverbial apples to apples can be difficult, even among funds with similar names or stated objectives. Only index funds tracking the same markets tend to be genuinely comparable.
+
+Watch Out for "Diworsification" “Diworsification”—a play on words that defines the concept—is an investment term for when too much complexity can lead to worse results. Many mutual fund investors tend to overcomplicate matters. That is, they acquire too many funds that are too similar and, as a result, lose the benefits of diversification.
+
+Mutual Funds vs. Index Funds
+
+Index funds are mutual funds that aim to replicate the performance of a market benchmark or index. For example, an S&P 500 index fund tracks that index by holding the 500 companies in the same proportions. A key goal of index funds is to minimize costs so that their index is closely mirrored.
+
+By contrast, actively managed mutual funds try to beat the market by stock picking and shifting allocations. The fund manager seeks to achieve returns greater than a benchmark through an investment strategy and research.
+
+Index funds offer market returns at lower costs, while active mutual funds aim for higher returns through skilled management that often comes at a higher price. Investors should consider costs, time horizons, and risk appetite when deciding between index and actively managed mutual fund investing.
+
+Mutual Funds vs. ETFs
+
+Mutual funds and ETFs are pooled funds that offer investors a stake in a diversified portfolio. ​However, there are some crucial differences.
+
+Among the most important is that ETF shares are traded on stock exchanges like regular stocks, while mutual fund shares are traded only once daily after markets close. This means ETFs can be traded anytime during market hours, offering more liquidity, flexibility, and real-time pricing. This flexibility means you can short-sell them or engage in the many strategies you would use for stocks.
+
+Another significant difference is pricing and valuation. ETF prices, like stocks, fluctuate throughout the day according to supply and demand. Meanwhile, funds are priced only at the end of each trading day based on the NAV of the underlying portfolio. This also means that ETFs have the potential for larger premiums/discounts to NAV than mutual funds.
+
+Compared with mutual funds, ETFs tend to have certain tax advantages and are often more cost-efficient.
+
+Are Mutual Funds Safe Investments? All investments involve some degree of risk when purchasing securities, such as stocks, bonds, or mutual funds, and the actual risk of a particular mutual fund will depend on its investment strategy, holdings, and the manager’s competence. Unlike deposits at banks and credit unions, the money invested in mutual funds isn’t FDIC- or otherwise insured.
+
+Can I Withdraw Money From a Mutual Fund Anytime? Yes. Mutual funds are generally highly liquid investments, meaning you can redeem your shares on any business day. However, there may be fees or penalties associated with early withdrawals, such as redemption fees or short-term trading fees, which some funds impose to discourage people from frequently trading in and out of the funds. Withdrawing funds may have tax implications, particularly if the investment has appreciated in value, which means you’ll have to pay taxes on the capital gains.
+
+Do You Actually Make Money In Mutual Funds? Yes, many make money for retirement and other savings goals through capital gains distributions, dividends, and interest income. As securities in the mutual fund’s portfolio increase in value, the value of the fund’s shares typically rises, leading to capital gains. However, returns aren't guaranteed, and a mutual fund's performance depends on market conditions, the fund’s management, the assets it holds, and its investment strategy.
+
+What Are the Risks of Mutual Funds? Depending on the assets they hold, mutual funds carry several investment risks, including market, interest rate, and management risk. Market risk arises from the potential decline in the value of the securities within the fund. Interest rate risk affects funds holding bonds and other fixed-income securities, as rising interest rates can decrease bond prices. Management risk is linked to the performance of the fund’s management team. You are putting your money in their hands, and poor investment decisions will negatively impact your returns.
+
+The Bottom Line
+
+Mutual funds are versatile and accessible for those looking to diversify their portfolios. These funds combine money from investors for stocks, bonds, real estate, derivatives, and other securities—all managed for you. Key benefits include access to diversified, professionally managed portfolios and the ability to choose funds tailored to different objectives and risk tolerances. However, mutual funds come with fees and expenses, including annual fees, expense ratios, and commissions, that will help determine your overall returns.
+
+Investors can choose from many types of mutual funds, such as stock, bond, money market, index, and target-date funds, each with its own investment focus and strategy. The returns on mutual funds come from dividends or interest and selling fund shares at a profit.

@@ -1,0 +1,121 @@
+Title: All About Fiscal Policy: What It Is, Why It Matters, and Examples
+Source: https://www.investopedia.com/terms/f/fiscalpolicy.asp
+Category: General_Finance
+--------------------
+What Is Fiscal Policy?
+
+Fiscal policy refers to the use of government spending and tax policies to influence economic conditions, especially macroeconomic conditions. These include aggregate demand for goods and services, employment, inflation, and economic growth.
+
+During a recession, the government may lower tax rates or increase spending to encourage demand and spur economic activity. Conversely, to combat inflation, it may raise rates or cut spending to cool down the economy.
+
+Fiscal policy is often contrasted with monetary policy, which is enacted by central bankers and not elected government officials.
+
+Key Takeaways Fiscal policy refers to the use of government spending and tax policies to influence economic conditions.
+
+Fiscal policy is largely based on ideas from British economist John Maynard Keynes.
+
+Keynes argued that governments could stabilize the business cycle and regulate economic output rather than let markets right themselves alone.
+
+An expansionary fiscal policy lowers tax rates or increases spending to increase aggregate demand and fuel economic growth.
+
+A contractionary fiscal policy raises rates or cuts spending to prevent or reduce inflation.
+
+Understanding Fiscal Policy
+
+U.S. fiscal policy is largely based on the ideas of British economist John Maynard Keynes (1883-1946). He argued that economic recessions are due to a deficiency in the consumer spending and business investment components of aggregate demand.
+
+Keynes believed that governments could stabilize the business cycle and regulate economic output by adjusting spending and tax policies to make up for the shortfalls of the private sector.
+
+His theories were developed in response to the Great Depression, which defied classical economics' assumptions that economic swings were self-correcting. Keynes' ideas were highly influential and led to the New Deal in the U.S., which involved massive spending on public works projects and social welfare programs.
+
+In Keynesian economics, aggregate demand or spending is what drives the performance and growth of the economy. Aggregate demand is made up of consumer spending, business investment spending, net government spending, and net exports.
+
+Variable Private Sector Behavior
+
+According to Keynesian economists, the private sector components of aggregate demand are too variable and too dependent on psychological and emotional factors to maintain sustained growth in the economy.
+
+Pessimism, fear, and uncertainty among consumers and businesses can lead to economic recessions and depressions. What's more, excessive public sector exuberance during good times can lead to an overheated economy and inflation.
+
+However, Keynesians believe that government taxation and spending can be managed rationally and used to counteract the excesses and deficiencies of private sector consumption and investment spending in order to stabilize the economy.
+
+Corrective Government Fiscal Action
+
+When private sector spending decreases, the government can spend more or tax less in order to directly increase aggregate demand. When the private sector is overly optimistic and spends too much, too quickly on consumption and new investment projects, the government can spend less or tax more in order to decrease aggregate demand.
+
+This means that to help stabilize the economy, the government should run large budget deficits during economic downturns and run budget surpluses when the economy is growing. These are known as expansionary or contractionary fiscal policies, respectively.
+
+Fiscal Policy Example During the Great Depression of the 1930s, U.S. unemployment exceeded 20%. The misery seemed endless. President Franklin D. Roosevelt decided to put an expansionary fiscal policy into effect. He launched his New Deal soon after taking office. It created new government agencies, the WPA jobs program, and the Social Security program, which exists to this day. These spending efforts, combined with his continued expansionary policy spending during World War II, pulled the country out of the Depression.
+
+Types of Fiscal Policies
+
+Expansionary Policy and Tools
+
+To illustrate how the government can use fiscal policy to affect the economy, consider an economy that's experiencing a recession. The government might issue tax stimulus rebates to increase aggregate demand and fuel economic growth.
+
+The logic behind this approach is that when people pay lower taxes, they have more money to spend or invest, which fuels higher demand. That demand leads firms to hire more, decreasing unemployment, and causing fierce competition for labor. In turn, this serves to raise wages and provide consumers with more income to spend and invest. It's a virtuous cycle or positive feedback loop.
+
+Alternately, rather than lowering taxes, the government may seek economic expansion by increasing spending (without corresponding tax increases). Building more highways, for example, could increase employment, pushing up demand and growth.
+
+Expansionary fiscal policy is usually characterized by deficit spending. Deficit spending occurs when government expenditures exceed receipts from taxes and other sources. In practice, deficit spending tends to result from a combination of tax cuts and higher spending.
+
+Contractionary Policy and Tools
+
+In the face of mounting inflation and other expansionary symptoms, a government can pursue contractionary fiscal policy, perhaps even to the extent of inducing a brief recession in order to restore balance to the economic cycle.
+
+The government does this by increasing taxes, reducing public spending, and cutting public sector pay or jobs.
+
+Where expansionary fiscal policy involves spending deficits, contractionary fiscal policy is characterized by budget surpluses. This policy is rarely used, however, as it is hugely unpopular politically.
+
+Public policymakers thus face differing incentives relating to whether to engage in expansionary or contractionary fiscal policy. Therefore, the preferred tool for reining in unsustainable growth is usually a contractionary monetary policy. Monetary policy involves the Federal Reserve raising interest rates and restraining the supply of money and credit in order to rein in inflation.
+
+Important The two major fiscal policy tools that the U.S. government uses to influence the nation's economic activity are tax rates and government spending.
+
+Downside of Expansionary Policy
+
+Mounting deficits are among the complaints lodged against expansionary fiscal policy. Critics complain that a flood of government red ink can weigh on growth and eventually create the need for damaging austerity.
+
+Many economists simply dispute the effectiveness of expansionary fiscal policies. They argue that government spending too easily crowds out investment by the private sector.
+
+Expansionary policy is also popular—to a dangerous degree, say some economists. Fiscal stimulus is politically difficult to reverse. Whether it has the desired macroeconomic effects or not, voters like low taxes and public spending.
+
+Due to the political incentives faced by policymakers, there tends to be a consistent bias toward engaging in more-or-less constant deficit spending that can be in part rationalized as good for the economy.
+
+Eventually, economic expansion can get out of hand. Rising wages lead to inflation and asset bubbles begin to form. High inflation and the risk of widespread defaults when debt bubbles burst can badly damage the economy. This risk, in turn, leads governments (or their central banks) to reverse course and attempt to contract the economy.
+
+
+
+Fiscal Policy vs. Monetary Policy
+
+Fiscal policy is the responsibility of the government. It involves spurring or slowing economic activity using taxes and government spending.
+
+Monetary policy, on the other hand, is the domain of the U.S. Federal Reserve Board and refers to actions taken to increase or decrease liquidity through the nation's money supply. According to the Federal Reserve Board, these actions are intended to "promote maximum employment, stable prices, and moderate long-term interest rates—the economic goals the Congress has instructed the Federal Reserve to pursue."
+
+The monetary policy tools that the Fed uses to increase or decrease liquidity (and affect consumer spending and borrowing) include:
+
+Buying or selling securities on the open market
+
+Lending to depository institutions through its discount window
+
+Raising or lowering the discount rate
+
+Raising or lowering the federal funds rate
+
+Establishing reserve requirements for banks
+
+Engaging in central bank liquidity swaps
+
+Financing through overnight repurchase agreements
+
+Who Handles Fiscal Policy? In the United States, fiscal policy is directed by both the executive and legislative branches. In the executive branch, the President is advised by both the Secretary of the Treasury and the Council of Economic Advisers. In the legislative branch, the U.S. Congress authorizes taxes, passes laws, and appropriations spending for any fiscal policy measures through its power of the purse. This process involves participation, deliberation, and approval from both the House of Representatives and the Senate.
+
+What Are the Main Tools of Fiscal Policy? Fiscal policy tools are used by governments to influence the economy. These primarily include changes to levels of taxation and government spending. To stimulate growth, taxes are lowered and spending is increased. This often involves borrowing by issuing government debt. To cool down an overheating economy, taxes may be raised and spending decreased.
+
+How Does Fiscal Policy Affect People? Often, the effects of fiscal policy aren't felt equally by everyone. Depending on the political orientations and goals of the policymakers, a tax cut could affect only the middle class, which is typically the largest economic group. In times of economic decline and rising taxation, this same group may have to pay more taxes than the wealthier upper class. Similarly, when a government decides to adjust its spending, its policy may affect only a specific group of people. A decision to build a new bridge, for example, will give work and more income to hundreds of construction workers. A decision to spend money on building a new space shuttle, on the other hand, benefits only a small, specialized pool of experts and firms, which would not do much to increase aggregate employment levels.
+
+The Bottom Line
+
+Fiscal policy is directed by the U.S. government with the goal of maintaining a healthy economy. The tools used to promote beneficial economic activity are adjustments to tax rates and government spending.
+
+When economic activity slows or deteriorates, the government may try to improve it by reducing taxes or increasing its spending on various government programs.
+
+When the economy is overly active and inflation threatens, it may increase taxes or reduce spending. However, neither is palatable to politicians seeking to stay in office. Thus, at such times, the government looks to the Fed to take monetary policy action to reduce inflation.

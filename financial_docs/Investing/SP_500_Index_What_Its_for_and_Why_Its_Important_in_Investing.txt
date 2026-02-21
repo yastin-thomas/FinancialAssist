@@ -1,0 +1,120 @@
+Title: S&P 500 Index: What It’s for and Why It’s Important in Investing
+Source: https://www.investopedia.com/terms/s/sp500.asp
+Category: Investing
+--------------------
+The S&P 500 is a stock market index weighted by market capitalization that is made up of 500 of the largest public companies in the United States.
+
+Key Takeaways The S&P 500 is a float-adjusted (meaning the market caps of its components are adjusted by the number of tradable shares), market-capitalization-weighted index tracking 500 leading U.S. public companies.
+
+The index captures around 80% of the total U.S. equity market value, serving as a bellwether of economic performance.
+
+A committee chooses component companies of the S&P 500, including strict criteria like minimum market cap and liquidity.
+
+You can't invest directly in the S&P 500 because it's an index, but you can invest in one of the many index mutual funds or ETFs that use it as a benchmark and track its composition and performance. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+What Is the S&P 500 Index? A Market Cap Benchmark
+
+The S&P 500 Index is a list of 500 of the largest public companies in the U.S. These companies are the biggest and most important companies in the country, and represent a broad cross-section of the economy. It is managed by S&P Dow Jones Indices, a subsidiary of S&P Global. The index, which is weighted by market capitalization, is considered to be one of the best gauges of U.S. equities, the stock market, and the American economy. The index actually includes 503 constituents because three companies have two share classes listed.
+
+When a company is added to the S&P 500, one is removed, which keeps the total at 500 stocks. Investopedia / Julie Bang
+
+Weighting Formula and Calculation of the S&P 500
+
+The S&P 500 uses a market-cap weighting method that gives a higher percentage allocation to companies with the largest market capitalizations.
+
+Company Weighting in S & P = Company market cap Total of all market caps \text{Company Weighting in S \& P}= \frac{\text{Company market cap}}{\text{Total of all market caps}} Company Weighting in S & P = Total of all market caps Company market cap ​
+
+Determining the weighting of each component of the S&P 500 begins with calculating the total market cap for the index by adding together the market cap of every company in the index.
+
+The market cap of a company is calculated by taking the current stock price and multiplying it by the company's outstanding shares. The total market cap for the S&P 500, as well as the market caps of individual companies, are published frequently on financial websites, saving investors the need to calculate them.
+
+The weighting of each company in the index is calculated by taking the company's market cap and dividing it by the total market cap of the index.
+
+
+
+Other S&P Indices
+
+The S&P 500 is a part of the S&P Global 1200 family of indices. Other indices include the S&P MidCap 400 which represents the mid-cap range of companies and the S&P SmallCap 600 which represents small-cap companies. The S&P 500, S&P MidCap 400, and S&P SmallCap 600 combine to cover 90% of all U.S. capitalization in an index known as the S&P Composite 1500.
+
+
+
+S&P 500 Index Construction
+
+The S&P uses only free-floating shares, the shares that the public can trade, when calculating market cap. The S&P adjusts each company's market cap to compensate for new share issues or company mergers.
+
+The value of the index is calculated by totaling the adjusted market caps of each company and dividing the result by a divisor. The divisor is proprietary information of the S&P and isn't released to the public. The S&P Index (SPX) isn't a total return index and doesn't include cash dividend gains for the companies listed.
+
+You can nonetheless calculate a company's weighting in the index and this can provide investors with valuable information. You can get a sense as to whether it might have an impact on the overall index if a stock rises or falls. A company with a 10% weighting would have a greater impact on the value of the index than a company with a 2% weighting.
+
+The S&P 500 is one of the most widely quoted American indexes because it represents the largest publicly traded corporations in the U.S. It focuses on the U.S. market's large-cap sector and it's also a float-weighted index which is a type of capitalization weighting. Company market caps are adjusted by the number of shares available for public trading.
+
+Fast Fact The S&P 500 was rebalanced on April 23, 2025. In the first months of 2025, several companies have entered and exited the index. Coinbase Global, DoorDash, TKO Group Holdings, Williams-Sonoma, and Expand Energy all joined the index. Conversely, Discover Financial Services, BorgWarner, Teleflex, Celanese, and FMC were removed from the S&P 500.
+
+S&P 500 Competitors
+
+S&P 500 vs. Dow Jones Industrial Average (DJIA)
+
+Another common U.S. stock market benchmark is the Dow Jones Industrial Average (DJIA). The S&P 500 is often the institutional investor's preferred index given its depth and breadth. The DJIA has historically been associated with significant equities from the retail investor's point of view. Institutional investors perceive the S&P 500 as being more representative of U.S. equity markets because it includes more stocks across all sectors: 500 versus the Dow's 30.
+
+The S&P 500 uses a market-cap weighting method that gives a higher percentage allocation to companies with the largest market caps. The DJIA is a price-weighted index that gives companies with higher stock prices a higher index weighting. The market-cap-weighted structure tends to be more common than the price-weighted index across U.S. indexes.
+
+S&P 500 vs. Nasdaq
+
+Nasdaq is a global electronic marketplace for trading securities. Several equity market indexes include stocks traded on Nasdaq. A given stock included in the S&P 500 Index may also be in one or more of the various Nasdaq indexes.
+
+Some of the most-watched Nasdaq stock indices include:
+
+Nasdaq 100 Index: Includes 100 of the largest, most actively traded common equities listed on the Nasdaq
+
+Includes 100 of the largest, most actively traded common equities listed on the Nasdaq Nasdaq Composite Index: Often simply referred to as the Nasdaq by the media, it includes more than 2,500 common stocks that trade on the Nasdaq
+
+Often simply referred to as the Nasdaq by the media, it includes more than 2,500 common stocks that trade on the Nasdaq Nasdaq Global Equity Index (NQGI): Includes international stocks
+
+Includes international stocks PHLX Semiconductor Sector Index (SOX): The leading barometer of stocks related to the semiconductor industry
+
+The leading barometer of stocks related to the semiconductor industry OMX Stockholm 30 Index (OMXS30): Includes the 30 largest and most actively traded stocks on the Stockholm Stock Exchange
+
+
+
+S&P 500 vs. Russell Indexes
+
+The S&P 500 is a member of a set of indexes created by Standard & Poor's. This set of indexes is like the Russell index family in that both are market-cap-weighted unless stated otherwise as in the case of equal-weighted indexes.
+
+There are two significant differences between the construction of the S&P and the Russell families of indexes. Standard & Poor's chooses constituent companies via a committee. Russell indexes use a formula to select which stocks to include. There's no name overlap within S&P style indices such as growth versus value. Russell indexes will include the same company in both the value and growth style indexes.
+
+S&P 500 vs. Vanguard 500 Fund
+
+The Vanguard 500 Index Fund tracks the S&P 500 Index by investing in the same stocks with similar weights as the index. The fund barely deviates from the S&P, which it tracks.
+
+Important The S&P 500 is an index so it can't be traded directly. Anyone who wants to invest in the companies that are included in the S&P must invest in a mutual fund or exchange-traded fund (ETF) that tracks the index such as the Vanguard 500 ETF (VOO).
+
+Limitations of the S&P 500 Index
+
+One of the limitations of the S&P and other market-cap-weighted indexes occurs when stocks in the index become overvalued. They rise higher than their fundamentals warrant. The stock typically inflates the overall value or price of the index if it has a heavy weighting in the index while being overvalued.
+
+A company's rising market cap isn't necessarily indicative of its fundamentals. It simply reflects the stock's increase in value relative to the shares outstanding. Equal-weighted indexes have become increasingly popular as a result. Each company's stock price movements have an equal impact on these indexes.
+
+Example of the S&P 500 Market Cap Weighting
+
+The individual market weights must be calculated by dividing the market cap of each company by the total market cap of the index to understand how the underlying stocks affect the S&P index. Here's an example of Apple's weighting in the index:
+
+Apple (AAPL) had roughly 14.76 billion shares outstanding as of November 2025, and it had a stock price of $268.56 before the trading day began on Nov. 20, 2025.
+
+Apple's market cap was $3.97 trillion as of Nov. 20, 2025, before market hours.
+
+The S&P 500 total market cap was approximately $67.73 trillion as of Nov. 20, 2025. This is the sum of the market caps for all of the stocks in the index.
+
+This is the sum of the market caps for all of the stocks in the index. Apple's weighting in the index was approximately 5.8%, or $3.97 trillion divided by $67.73 trillion.
+
+The larger the market weight of a company, the more impact each 1% change in a stock's price will have on the index.
+
+Why Is It Called Standard and Poor's? In 1923 the Standard Statistics Company developed its first stock index. The original index covered 233 companies and is considered a precursor to the S&P 500. The company merged with Poor's Publishing in 1941 to become Standard and Poor's.
+
+What Companies Qualify for the S&P 500? A company must be publicly traded and based in the United States to be included in the S&P 500 Index. It must also meet certain requirements for liquidity and market capitalization, have a public float of at least 10% of its shares, and have positive earnings over the trailing four quarters.
+
+How Do You Invest in the S&P 500? The simplest way to invest in the S&P 500 Index or any other stock market index is to buy shares of an index fund that targets it. These funds invest in a cross-section of the companies represented on the index so the fund's performance should mirror the performance of the index itself.
+
+The Bottom Line
+
+The S&P 500 Index is one of the most widely used indexes for the U.S. stock market. These 500 companies represent the largest and most liquid companies in the U.S. from technology and software companies to banks and manufacturers. The index has historically been used to provide insight into the direction of the stock market. It was created by a private company but the S&P 500 is a popular yardstick for the performance of the market economy at large.
+

@@ -1,0 +1,28 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\yasti\projects\FinancialAssist
+plugins: anyio-4.12.1, langsmith-0.7.3, cov-7.0.0, mock-3.15.1
+collected 27 items / 1 error
+
+=================================== ERRORS ====================================
+____________________ ERROR collecting tests/test_z_main.py ____________________
+tests\test_z_main.py:18: in <module>
+    import src.main as main_app
+src\main.py:7: in <module>
+    from src.workflow import graph
+src\workflow.py:7: in <module>
+    from src.agents import (
+src\agents.py:97: in <module>
+    tax_education_runnable = tax_education_prompt | tax_education_agent
+                                                    ^^^^^^^^^^^^^^^^^^^
+E   NameError: name 'tax_education_agent' is not defined
+============================== warnings summary ===============================
+myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25
+  C:\Users\yasti\projects\FinancialAssist\myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+    from pydantic.v1.fields import FieldInfo as FieldInfoV1
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+ERROR tests/test_z_main.py - NameError: name 'tax_education_agent' is not def...
+!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
+======================== 1 warning, 1 error in 20.10s =========================

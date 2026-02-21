@@ -1,0 +1,113 @@
+Title: What Is Form W-2: Wage and Tax Statement?
+Source: https://www.investopedia.com/terms/w/w2form.asp
+Category: Taxes
+--------------------
+Form W-2 reflects the annual income an employer paid an employee and the taxes it withheld for the tax year.
+
+What Is Form W-2: Wage and Tax Statement?
+
+Form W-2, also known as the Wage and Tax Statement, is a document an employer sends to each employee and files with the Social Security Administration (SSA) by the end of January following the tax year. The IRS gets a copy.
+
+Form W-2 shows the wages paid by an employer and the amount of income withheld from employee paychecks for income taxes, Social Security taxes, and Medicare taxes.
+
+Key Takeaways Form W-2 is an IRS tax form that details the income an individual has been paid during the year and the income for taxes that has been withheld and sent to the government.
+
+Employers send W-2s to their employees annually for tax purposes.
+
+They use W-2s to report income taxes and FICA taxes withheld on behalf of employees.
+
+The IRS uses W-2 forms to track individuals' tax obligations. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+
+Who Files Form W-2?
+
+An employer must send out a W-2 form to every employee to whom they paid a salary, wage, or other form of compensation. This does not include contracted or self-employed workers, who file taxes with different forms.
+
+The employer must send the employee the W-2 form on or before Jan. 31 each year so that the employee has the information they need to file an income tax return before the deadline, commonly April 15.
+
+Employers use W-2 forms to report the income withheld for Federal Insurance Contributions Act (FICA) taxes and income taxes.
+
+By the end of January, employers must file Form W-2 with the SSA, along with Form W-3, for each employee.
+
+The SSA uses the information on these forms to calculate the Social Security benefits that each worker is entitled to.
+
+Important Tax documents reflect earnings and deductions for the previous year. A W-2 form sent to an employee in January 2025 showed wages paid in 2024.
+
+Information Included on a W-2
+
+Taxpayers will receive multiple W-2s if they work for more than one employer.
+
+Taxpayers input the data found on the W-2 into a Form 1040 individual tax return, either by hand or electronically. Regardless of the employer or company, every W-2 provides the same information:
+
+State and federal tax sections since employees must file taxes at both levels
+
+Employer information, including the company's federal Employer Identification Number (EIN) and state ID number
+
+Employee income for the previous year
+
+Income withheld from the employee's paychecks separated into the withholding for federal income tax, Social Security and Medicare taxes, and more
+
+Tips, if any, that the employee received for the year
+
+How to Read Form W-2
+
+Form W-2 is available on the IRS website.
+
+
+
+Boxes A-F: The lettered boxes on a W-2 are for the name and address of the employee and employer, Social Security number, and employer's EIN and state ID number.
+
+The lettered boxes on a W-2 are for the name and address of the employee and employer, Social Security number, and employer's EIN and state ID number. Boxes 1-2: Box 1 shows taxable income, including wages, salary, tips, and bonuses. Box 2 shows how much income for federal income tax the employer withheld.
+
+Box 1 shows taxable income, including wages, salary, tips, and bonuses. Box 2 shows how much income for federal income tax the employer withheld. Boxes 3-4: Box 3 details the earnings subject to Social Security tax. Box 4 shows the amount of income withheld for Social Security tax.
+
+Box 3 details the earnings subject to Social Security tax. Box 4 shows the amount of income withheld for Social Security tax. Boxes 5-6: Box 5 details how much pay is subject to the Medicare tax. Box 6 shows how much income was withheld. The employee portion of the Medicare tax is 1.45% of income.
+
+Box 5 details how much pay is subject to the Medicare tax. Box 6 shows how much income was withheld. The employee portion of the Medicare tax is 1.45% of income. Boxes 7-8: If any income is in the form of tips, these boxes show how much was reported and subject to tax.
+
+If any income is in the form of tips, these boxes show how much was reported and subject to tax. Box 9: This box was used to reflect a now-defunct tax perk, so it is no longer used.
+
+This box was used to reflect a now-defunct tax perk, so it is no longer used. Box 10: Box 10 reports how much an employee received from their employer in dependent care benefits (if applicable).
+
+Box 10 reports how much an employee received from their employer in dependent care benefits (if applicable). Box 11: Box 11 details how much deferred compensation was received from the employer in a non-qualified plan.
+
+Box 11 details how much deferred compensation was received from the employer in a non-qualified plan. Box 12: Box 12 shows other types of compensation or reductions from taxable income and a single or double letter code for each. It might include contributions to a 401(k) plan. Codes are detailed in the IRS's W-2 instructions.
+
+Box 12 shows other types of compensation or reductions from taxable income and a single or double letter code for each. It might include contributions to a 401(k) plan. Codes are detailed in the IRS's W-2 instructions. Box 13: This box has three sub-boxes designed to report pay not subject to federal income tax withholding for an employer-sponsored retirement plan such as a SIMPLE IRA, and sick pay via a third-party, such as an insurance policy.
+
+This box has three sub-boxes designed to report pay not subject to federal income tax withholding for an employer-sponsored retirement plan such as a SIMPLE IRA, and sick pay via a third-party, such as an insurance policy. Box 14: In Box 14, an employer can report any additional tax information that may not fit into the other sections, such as state disability insurance taxes and union dues.
+
+In Box 14, an employer can report any additional tax information that may not fit into the other sections, such as state disability insurance taxes and union dues. Boxes 15-20: The last six boxes relate to state and local taxes, including how much income is subject to these taxes and how much was withheld.
+
+Related Tax Forms
+
+Form W-4
+
+Form W-4 is completed by employees when they start working for a company. The employer uses the information on Form W-4 to determine how much income to withhold from paychecks for taxes.
+
+The information on Form W-4 (or sometimes Form W-9) helps track payroll, tax withholding, employer-provided benefits, and pre-tax contributions to things like a 401(k) retirement plan.
+
+Forms 1099
+
+When income for taxes is not withheld from income received, an employee will receive Form 1099-MISC, which details the earnings and any deductions.
+
+A person who is paid by a company for services rendered but isn't an employee receives Form 1099-NEC, which shows the amount paid.
+
+All types of 1099 forms should arrive by the end of January following the tax year. Individuals must report this income on their annual tax return.
+
+Form W-2G
+
+Form W-2G is a tax form that a gaming facility such as a casino may send if a taxpayer received winnings from gambling in the prior year.
+
+Form 1098-E and Form 1098-T
+
+Students receive a 1098-E statement when they've paid interest on a federal student loan. They also receive a 1098-T statement reporting college tuition expenses that might entitle students to tax deductions or credits.
+
+How Do Employees Know If They've Had Enough Tax Deducted During the Year? When the employee files taxes, the amount of tax withheld according to the W-2 form is deducted from their gross tax obligation. If more tax was withheld than owed, a refund will be issued. The IRS also uses Form W-2 to track an employee’s income and tax liability. If the income reported on an employee’s tax return is less than the income reported on Form W-2, the IRS may audit the taxpayer. Taxpayers must report all salary, wage, and tip income even if that income is not reported on a W-2.
+
+How Much Money Do You Need to Make to Get a W-2? Individuals commonly receive a W-2 from an employer if they earn at least $600 annually. Contracted individuals or independent contractors are not considered employees and receive a 1099 instead of a W-2.
+
+What Is the Difference Between a W-2 and a W-4? A W-4 is filled out by employees and provides an employer with the information they need to withhold the proper amount of income for taxes from each paycheck. A W-2 is filled out by employers at the end of the tax year and sent to employees so they can prepare their tax returns.
+
+The Bottom Line
+
+Form W-2 is an IRS document that employers must send to an employee, the SSA, and the IRS every year. The form reports an employee's annual wages and the taxes withheld. Employees use the form to file their taxes.

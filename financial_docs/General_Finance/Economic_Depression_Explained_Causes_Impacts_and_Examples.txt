@@ -1,0 +1,168 @@
+Title: Economic Depression Explained: Causes, Impacts, and Examples
+Source: https://www.investopedia.com/terms/d/depression.asp
+Category: General_Finance
+--------------------
+A depression is a dramatic and sustained downturn in economic activity, with symptoms including a sharp fall in economic growth, employment, and production. It's a recession that lasts longer than three years or that results in a decline of at least 10% in annual GDP. The U.S. has experienced dozens of recessions, with the Great Depression of the 1930s being one of the most memorable. Economists look for factors, like falling consumer confidence, that suggest an upcoming depression, while modern policies attempt to prevent such economic downturns.
+
+What Is a Depression?
+
+A depression is a severe and prolonged downturn in economic activity. A depression may be defined as an extreme recession that lasts three or more years or that leads to a decline in real gross domestic product (GDP) of at least 10% in a given year. Depressions are far less common than milder recessions. Both tend to be accompanied by relatively high unemployment and relatively low inflation.
+
+The U.S. has experienced at least 34 recessions since 1850. This includes the Great Recession of 2008–2009 and the COVID-19 recession of 2020. But it has had only one depression, which lasted from 1929 until 1941 and is known as the Great Depression.
+
+Key Takeaways
+
+A depression is an extreme recession lasting over three years or causing a 10% drop in annual GDP.
+
+- The Great Depression remains the worst economic downturn, starting with the 1929 stock market crash.
+
+- Recessions are a regular part of the economic cycle, unlike less frequent depressions.
+
+- Depression symptoms include high unemployment, reduced consumer confidence, and decreased investment.
+
+- Monetary and fiscal policies help prevent depressions by stabilizing the economy during downturns.
+
+32 The number of recessions that the U.S. experienced from 1850 to 2007, according to the National Bureau of Economic Research. Those were followed by the Great Recession of 2008–2009 and the COVID-19 Recession of 2020 for a total of 34 recessions since 1850.
+
+Key Characteristics and Factors of Economic Depressions
+
+Two major factors characterize a depression. Consumer confidence falls dramatically as people begin to worry about their job security and pull back on spending. And investments decrease as businesses and individuals stop investing, whether that means building a new factory, developing a new product, or buying stocks.
+
+Economic factors that characterize a depression include:
+
+A substantial increase in unemployment
+
+A drop in available credit from banks
+
+Diminishing output and productivity
+
+Consistent negative GDP growth
+
+Bankruptcies
+
+Sovereign debt defaults
+
+Reduced trade and global commerce
+
+A bear market in stocks
+
+Falling currency values
+
+Low to no inflation, or even deflation
+
+An increased savings rate (among those who still have money to save)
+
+Economists disagree on the duration of a depression. Some argue that a depression encompasses only the period that is plagued by declining economic activity. Other economists argue that the depression continues up until the point that most economic activity has returned to normal.
+
+Comparing Depressions and Recessions
+
+A recession is considered a normal part of the boom-and-bust business cycle. It is generally defined as a decline in GDP for at least two consecutive quarters. Due to data collection delays, a short recession might end before it's officially confirmed.
+
+A depression lasts for years with severe consequences. Nearly 25% of Americans were jobless during the Great Depression. This figure doesn’t count farmers who lost their homes and land as produce prices crashed.
+
+Recessions occur more frequently. The U.S. had 32 recessions between 1850 and 2007 but only one depression. Since then, the U.S. experienced the Great Recession of 2008–2009 and the briefer and less disruptive COVID-19-related recession of 2020.
+
+A recession is at least two quarters of negative GDP growth, even if the decline is small. A depression is defined by a drop in annual GDP of 10% or more. The Great Depression lasted for a decade.
+
+Important A recession is defined as two or more consecutive quarters of decline in GDP growth, no matter how slight the decline is. A depression lasts three or more years or is defined by a drop in annual GDP of 10% or more.
+
+The Great Depression: A Historical Case Study
+
+The Great Depression is to this day the worst economic downturn in modern world history. Lasting roughly a decade, many historians trace its origins to Oct. 24, 1929, when the stock market crashed in an event afterward known as Black Thursday. After years of reckless investing and speculation, the stock market bubble burst and a huge sell-off began, with a then-record 12.9 million shares traded.
+
+On that day, the United States was already in a recession. The following Tuesday, Oct. 29, 1929, the Dow Jones Industrial Average fell 12% more in another mass sell-off, triggering the start of the Great Depression.
+
+The Great Depression began in the United States but soon took hold throughout the industrialized world. Its economic impact was felt for more than a decade. The era was characterized by catastrophic levels of unemployment, poverty, hunger, and political unrest. Consumer spending and business investment dried up. U.S. unemployment reached a level of just under 25% in 1933 and remained in the double digits until 1941, when it finally fell to 9.66%.
+
+Fast Fact During the Great Depression, wages dropped 42%, real estate prices declined 25%, total U.S. economic output fell by 30%, and many investors’ portfolios became worthless as stock prices cratered.
+
+Shortly after Franklin D. Roosevelt was elected president in 1932, the Federal Deposit Insurance Corp. (FDIC) was created to protect depositors’ bank accounts in the event of bank failure. In addition, the Securities and Exchange Commission (SEC) was formed to regulate the U.S. stock markets.
+
+Modern Safeguards Against Another Great Depression
+
+Government policymakers appear to have learned their lesson from the Great Depression. New laws and regulations were introduced to protect consumers and investors. Central banks developed tools designed to keep the economy steady.
+
+Nowadays, central banks are quick to react to inflation before it gets out of control. They are equally willing to use expansionary monetary policy to lift the economy during difficult times. These tools are widely credited for helping to stop the Great Recession of 2008–2009 from becoming a full-blown depression.
+
+A series of factors can cause an economy and production to contract severely. In the case of the Great Depression, questionable monetary policy took the blame.
+
+Triggers and Causes of Economic Depressions
+
+An economic depression is a rolling disaster that begins with a decline in consumer confidence. There is, of course, a triggering event or events behind this loss of confidence. The subprime mortgage crisis of 2006 is seen as the first major event leading to the Great Recession of 2008–2009. As home prices fell, many Americans watched their personal wealth and that of their neighbors evaporate. They grew cautious about spending money.
+
+When consumers spend less, businesses cut production and rethink new investments, leading to layoffs. With more people unemployed, wages for the few remaining jobs fall. With fewer people spending money, the prices of many goods fall.
+
+The wheel keeps turning as the economy sinks farther into negative territory.
+
+Indicators of an Impending Economic Depression
+
+If it all starts with the consumer, the number to keep an eye on is the Consumer Confidence Index published by The Conference Board. One of the numbers considered to be a key economic indicator of the health of the U.S. economy, the latest updates to the index are published on the last Tuesday of every month.
+
+The survey used to compile the index delves into the reasons behind consumer confidence, or lack of it. Its Present Situation Index, which assesses views on current business and labor market conditions, increased slightly. Its Expectations Index, based on consumers’ short-term outlook, fell a bit. For instance:
+
+U.S. consumer confidence declined in January 2023. The index stood at 107.1, which is a decrease from the 109.0 reported in the previous month.
+
+The Expectations Index fell to 77.8 during that period, which was below the key level of 80.
+
+It’s important to note that this shows the potential for a recession—not a depression. The number would have to indicate a catastrophic loss in consumer confidence to cause anyone to use the “d” word. And even then, monetary policymakers and fiscal policymakers would be scrambling to use the tools at their disposal to prop up those numbers.
+
+So where does confidence stand after January 2023? The index dropped to 100.4 in June 2024. The Present Situation Index stood at 141.5, while the Expectations Index still sits below the threshold of 80 with a value of 73.0.
+
+Strategies for Preventing Economic Depressions
+
+Today, deep recessions or depressions are often prevented by using expansionary fiscal and monetary policies.
+
+There is another course, fiscal austerity, that has been controversial, to say the least.
+
+Fiscal Policy
+
+Fiscal policy, managed by Congress and the president, combats downturns by using taxpayer money. They might fund major projects like the Works Progress Administration, which was set up in 1935 to create jobs. They may put money directly into the hands of the public, through such measures as the expanded child tax credit that increased the spending power of families during the COVID-related recession.
+
+Monetary Policy
+
+Monetary policy is the job of the central bank. In the U.S., that’s the Federal Reserve. The Fed can goose the economy simply by lowering the interest rates it charges banks for the short-term loans that keep the banking system running.
+
+These rates affect all loan charges. Low rates encourage borrowing and investment, creating jobs. When effective, it can stop an impending depression and reverse its course.
+
+If still more firepower is needed, the Fed may adopt a policy of quantitative easing. The Fed uses its own reserves to buy massive amounts of the government’s debts, such as bonds. This has the effect of adding more cash to the economy. That cash becomes available for new investments.
+
+Fiscal Austerity
+
+Fiscal austerity stands in direct opposition to expansionary policy as a strategy for fending off an economic downturn.
+
+In times of recession, government revenues decline. Fewer people are working, fewer projects are getting off the ground, and consumer spending is reduced. All of the taxable events that keep a government humming are in decline.
+
+A commitment to a balanced budget could logically be met with cuts in government spending. That course was followed during the Great Recession by some nations in the European Union as well as by some U.S. states that were hamstrung by balanced budget rules or had a pronounced aversion to increasing government debt.
+
+
+
+Whether this strategy cures a recession or feeds it continues to be a matter of debate. Most recently, U.K. Prime Minister Liz Truss was ousted from her job after a record-short tenure for recommending fiscal austerity in response to the nation’s economic problems.
+
+
+
+How to Protect Your Money in a Depression
+
+If history is any guide, you shouldn’t spend your time worrying about a depression, but you should prepare for the next recession. It’s really about maintaining your awareness that the economy moves in a boom-and-bust cycle, and if it’s boom time, get ready for the bust.
+
+As an investor, that means keeping your portfolio diversified to include safe haven picks that do well even in a downturn. As a responsible adult, it means saving regularly, paying your debt down, and maintaining an emergency fund.
+
+And, as a participant in the modern American economy, it can mean looking around you and considering alternative sources of income that you can exploit when things turn dicey.
+
+What Is a Depression vs. a Recession? You might view a depression as a recession that is extreme in its effects and its duration. A recession is a relatively brief downturn in economic activity. It is seen as an intrinsic stage of the economic cycle. These are the generally accepted definitions of the two: A recession is a decrease in gross domestic product (GDP) that lasts for at least two quarters. It is a slowdown in economic activity.
+
+A depression is an extreme recession that lasts three or more years or leads to a decline in real gross domestic product (GDP) of at least 10% in a given year. It is characterized by massive job losses, widespread bankruptcies, and steeply declining prices for goods and services.
+
+Can a Great Depression Happen Again? The United States dodged another Great Depression in 2008–2009. There’s a good chance that it could do so again using some of the same costly but powerful fiscal and monetary measures that it deployed at that time. These included huge loans to the banks and the auto industry; tax cuts for the public; increased government infrastructure spending, and lower interest rates. Keep in mind, too, that the COVID pandemic caused only a brief recession in 2020. That, too, was met with a targeted array of fiscal and monetary actions that might have prevented a far more severe downturn.
+
+How Long Can a Recession Last? A recession is defined as at least two consecutive quarters of negative economic growth. A chart from the Federal Reserve of recessions since 1970 suggests how long a recession can last. Probably the worst was the “double-dip” recession that began in the second quarter of 1979 and ended in the third quarter of 1980, only to reemerge in the second quarter of 1981 and continue through the third quarter of 1982.
+
+The Bottom Line
+
+Recessions are common-enough events to be considered a normal part of the economic cycle. A period of expansion is followed by a period of contraction. They are unpredictable, although plenty of people try to predict them.
+
+Economists couldn’t anticipate, for example, that a worldwide pandemic would cause a near shutdown of the global pipeline of goods and services, leading to a recession that began in the first quarter of 2020. They also could not predict that the recession would be over by the third quarter of 2020, after a huge infusion of government cash not only propped up the economy but also kept it going until more normal economic activity could resume.
+
+A depression is a recession of catastrophic proportions. The U.S. economy has not been in an economic depression since 1939. That may in part be because the nation’s policymakers have developed tools to alleviate the effects of a recession before it morphs into something worse.
+
+Correction—Sept. 8, 2024: This article has been corrected to state that a depression lasts three or more years, and to correctly state that the Consumer Confidence Index is published by The Conference Board.
+

@@ -1,0 +1,45 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.14.2, pytest-9.0.2, pluggy-1.6.0
+rootdir: C:\Users\yasti\projects\FinancialAssist
+plugins: anyio-4.12.1, langsmith-0.7.3, cov-7.0.0, mock-3.15.1
+collected 19 items
+
+tests\test_tools.py ......F............                                  [100%]
+
+================================== FAILURES ===================================
+_____________________ test_query_knowledge_base_not_init ______________________
+
+mock_db = <MagicMock name='_vector_db' id='1683125671248'>
+
+    @patch("src.tools._vector_db")
+    def test_query_knowledge_base_not_init(mock_db):
+        import src.tools
+        src.tools._vector_db = None
+        result = query_knowledge_base.invoke({"query": "What is AI?"})
+>       assert "Knowledge base not available" in result
+E       AssertionError: assert 'Knowledge base not available' in '**From Knowledge Base:**\n- 3. Automated guidance: Those seeking a tailored approach without human involvement may wa...Line\n\nMost financial professionals will t...\n[Source: https://www.investopedia.com/terms/a/assetallocation.asp]\n\n'
+
+tests\test_tools.py:80: AssertionError
+---------------------------- Captured stdout call -----------------------------
+--- Tool Invoked: query_knowledge_base with query: What is AI? ---
+--- Vector DB loaded from financial_db ---
+--- Initiating Vector DB Query: What is AI? ---
+--- Querying Vector DB: What is AI? ---
+============================== warnings summary ===============================
+myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25
+  C:\Users\yasti\projects\FinancialAssist\myenv\Lib\site-packages\langchain_core\_api\deprecation.py:25: UserWarning: Core Pydantic V1 functionality isn't compatible with Python 3.14 or greater.
+    from pydantic.v1.fields import FieldInfo as FieldInfoV1
+
+tests/test_tools.py::test_query_knowledge_base_not_init
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type SwigPyPacked has no __module__ attribute
+
+tests/test_tools.py::test_query_knowledge_base_not_init
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type SwigPyObject has no __module__ attribute
+
+tests/test_tools.py::test_query_knowledge_base_not_init
+  <frozen importlib._bootstrap>:491: DeprecationWarning: builtin type swigvarlink has no __module__ attribute
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=========================== short test summary info ===========================
+FAILED tests/test_tools.py::test_query_knowledge_base_not_init - AssertionErr...
+================== 1 failed, 18 passed, 4 warnings in 30.17s ==================
