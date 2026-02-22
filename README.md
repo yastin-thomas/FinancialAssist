@@ -19,7 +19,7 @@ Data flows from the user interface (`Streamlit`) -> `StateGraph` Router -> Speci
 
 ### 1. Prerequisites
 - Python 3.10+
-- OpenAI API Key
+- Google Gemini API Key ([get one here](https://aistudio.google.com/app/apikey))
 
 ### 2. Installation
 Clone the repository and install the required dependencies:
@@ -58,6 +58,70 @@ python -m pytest tests/
 # Run all tests with coverage report
 python -m pytest --cov=src tests/
 ```
+
+---
+
+## 🔄 End-to-End Workflow
+
+Follow these steps in order every time you set up or refresh the application:
+
+```
+1. Configure environment
+         ↓
+2. Install dependencies
+         ↓
+3. Scrape financial documents
+         ↓
+4. Build FAISS vector database (Gemini embeddings)
+         ↓
+5. Launch the Streamlit UI
+         ↓
+6. (Optional) Run test suite
+```
+
+### Step-by-step
+
+**Step 1 — Configure environment**
+Copy `.env` and fill in your keys:
+```bash
+GOOGLE_API_KEY=your_google_api_key   # Required – Gemini LLM + embeddings
+GROQ_API_KEY=your_groq_api_key       # Optional – alternative LLM provider
+```
+
+**Step 2 — Install dependencies**
+```bash
+python -m venv myenv
+myenv\Scripts\activate        # Windows
+# source myenv/bin/activate   # macOS / Linux
+pip install -r requirements.txt
+```
+
+**Step 3 — Scrape financial documents**
+```bash
+python src/data/scrape_data.py
+# Output: financial_docs/ directory populated with .txt files
+```
+
+**Step 4 — Build the FAISS vector database**
+```bash
+python src/rag/embedding.py
+# Output: financial_db/ directory with Gemini-generated embeddings
+```
+> ⚠️ Re-run this step whenever new documents are scraped or models are changed.
+
+**Step 5 — Launch the app**
+```bash
+python -m streamlit run src/web_app/main.py
+# Opens at http://localhost:8501
+```
+
+**Step 6 — Run the test suite** *(optional)*
+```bash
+python -m pytest tests/                    # All tests
+python -m pytest --cov=src tests/          # With coverage report
+```
+
+---
 
 ## 🔌 API Documentation (Internal Tools)
 

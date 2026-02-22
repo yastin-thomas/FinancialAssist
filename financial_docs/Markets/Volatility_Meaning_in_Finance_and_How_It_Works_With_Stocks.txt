@@ -12,7 +12,7 @@ Volatile assets are often considered riskier than less volatile assets because t
 
 Implied volatility measures how volatile the market will be, while historical volatility measures price changes over past time periods.
 
-Volatility is an important variable in the calculation of options prices.
+Volatility is an important variable in the calculation of options prices. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
 
 What Is Volatility?
 

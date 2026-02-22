@@ -12,7 +12,7 @@ Options are categorized as American or European based on their exercise timings,
 
 "The Greeks" are crucial risk metrics in options trading—with delta measuring price sensitivity, theta representing time decay, gamma showing delta fluctuation, and vega indicating volatility sensitivity.
 
-Options strategies, such as spreads, use combinations of buying and selling different options to achieve specific risk-return profiles, enabling traders to capitalize on various market scenarios, including volatility and price movements. Get personalized, AI-powered answers built on 27+ years of trusted expertise. ASK
+Options strategies, such as spreads, use combinations of buying and selling different options to achieve specific risk-return profiles, enabling traders to capitalize on various market scenarios, including volatility and price movements.
 
 What Are Options?
 
