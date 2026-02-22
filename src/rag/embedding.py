@@ -52,7 +52,7 @@ def create_vector_db(docs_dir="financial_docs", db_dir="financial_db"):
     # FAISS does not need to remove the directory beforehand like Chroma, 
     # but we will overwrite the save by just saving again.
     
-    embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001")
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
     vectorstore = FAISS.from_documents(splits, embeddings)
     
     # Save locally
