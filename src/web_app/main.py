@@ -9,56 +9,12 @@ from src.core.tools import get_market_data, _fetch_market_data
 from src.agents.agents import DAILY_LLM_RATE_LIMIT
 from dotenv import load_dotenv
 
-# NOTE: We removed the @st.cache_data monkeypatch here because Streamlit's 
-# threading models and caching decorators conflict with LangChain's async 
-# tool execution loops, causing "Event loop is closed" errors.
-
 load_dotenv()
 
 st.set_page_config(page_title="AI Finance Assistant", layout="wide")
 
 st.title("AI Finance Assistant")
 
-# Modern Premium CSS Injection
-st.markdown("""
-<style>
-    /* Premium Font */
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
-    
-    html, body, [class*="css"] {
-        font-family: 'Inter', sans-serif;
-    }
-    
-    /* Gradient Title */
-    h1 {
-        background: -webkit-linear-gradient(45deg, #0072ff, #00c6ff);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-weight: 600;
-        margin-bottom: 2rem;
-    }
-    
-    /* Premium Sidebar styling */
-    [data-testid="stSidebar"] {
-        background-color: var(--secondary-background-color);
-        box-shadow: inset -1px 0px 0px rgba(0,0,0,0.05);
-    }
-    
-    /* Chat Message Aesthetic Enhancements */
-    [data-testid="stChatMessage"] {
-        border-radius: 12px;
-        padding: 1rem;
-        margin-bottom: 1rem;
-        box-shadow: 0 4px 6px rgba(0,0,0,0.03);
-        border: 1px solid rgba(128,128,128,0.1);
-        background-color: transparent;
-    }
-    
-    [data-testid="stChatInput"] {
-        border-radius: 20px;
-    }
-</style>
-""", unsafe_allow_html=True)
 
 # Initialize session state for active agent (navigation)
 if "selected_agent" not in st.session_state:

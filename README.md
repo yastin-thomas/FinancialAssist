@@ -59,6 +59,36 @@ python -m pytest tests/
 python -m pytest --cov=src tests/
 ```
 
+## ⚡ Rate Limiting
+
+FinancialAssist enforces a **per-session daily LLM request cap** to protect against runaway API costs. The limit is applied by `DailyRateLimitCallback` in `src/agents/agents.py` and is checked before every agent invocation.
+
+### How it works
+
+| Layer | Where | Behaviour |
+|---|---|---|
+| **Session counter** | `st.session_state.llm_daily_count` | Incremented on every successful LLM call within the active Streamlit session |
+| **Fallback counter** | `DailyRateLimitCallback.fallback_count` (class-level) | Used when `st.session_state` is unavailable (e.g. unit tests, CLI runs) |
+| **Limit exceeded** | Both paths | Raises an exception with a human-readable message rather than calling the API |
+
+### Configuration
+
+The limit is read from the `DAILY_LLM_RATE_LIMIT` environment variable at startup. Update your `.env`:
+
+```bash
+DAILY_LLM_RATE_LIMIT=500   # default — change to any positive integer
+```
+
+> **Note**: the counter resets when the Streamlit session is restarted (browser refresh / server restart). The fallback counter persists only for the lifetime of the Python process.
+
+### Customising the limit
+
+| Goal | How |
+|---|---|
+| Raise the limit | Set `DAILY_LLM_RATE_LIMIT=1000` (or any value) in `.env` |
+| Lower the limit | Set `DAILY_LLM_RATE_LIMIT=50` for a tighter budget |
+| Disable entirely | Set `DAILY_LLM_RATE_LIMIT=999999` as a practical no-limit value |
+
 ---
 
 ## 🔄 End-to-End Workflow

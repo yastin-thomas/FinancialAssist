@@ -1,5 +1,4 @@
 langchain
-langchain-openai
 langgraph
 streamlit
 yfinance
