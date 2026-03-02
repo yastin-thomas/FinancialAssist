@@ -2,7 +2,7 @@ import os
 import shutil
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_openai import OpenAIEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv
 
@@ -17,8 +17,8 @@ def create_vector_db(docs_dir="financial_docs", db_dir="financial_db"):
         return
 
     # Check if API key is present
-    if not os.getenv("OPENAI_API_KEY"):
-        print("Error: OPENAI_API_KEY not found in environment variables.")
+    if not os.getenv("GOOGLE_API_KEY"):
+        print("Error: GOOGLE_API_KEY not found in environment variables.")
         return
 
     print("Loading documents...")
@@ -52,7 +52,7 @@ def create_vector_db(docs_dir="financial_docs", db_dir="financial_db"):
     # FAISS does not need to remove the directory beforehand like Chroma, 
     # but we will overwrite the save by just saving again.
     
-    embeddings = OpenAIEmbeddings()
+    embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
     vectorstore = FAISS.from_documents(splits, embeddings)
     
     # Save locally
