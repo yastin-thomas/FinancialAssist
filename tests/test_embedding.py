@@ -24,8 +24,8 @@ def test_create_vector_db_no_api_key(mock_print, mock_getenv, mock_exists):
     
     create_vector_db("fake_dir", "fake_db")
     
-    mock_getenv.assert_called_with("OPENAI_API_KEY")
-    mock_print.assert_any_call("Error: OPENAI_API_KEY not found in environment variables.")
+    mock_getenv.assert_called_with("GOOGLE_API_KEY")
+    mock_print.assert_any_call("Error: GOOGLE_API_KEY not found in environment variables.")
 
 @patch("src.rag.embedding.os.path.exists")
 @patch("src.rag.embedding.os.getenv")
@@ -47,7 +47,7 @@ def test_create_vector_db_no_docs(mock_print, mock_loader, mock_getenv, mock_exi
 @patch("src.rag.embedding.os.getenv")
 @patch("src.rag.embedding.DirectoryLoader")
 @patch("src.rag.embedding.RecursiveCharacterTextSplitter")
-@patch("src.rag.embedding.OpenAIEmbeddings")
+@patch("src.rag.embedding.GoogleGenerativeAIEmbeddings")
 @patch("src.rag.embedding.FAISS")
 @patch("builtins.print")
 def test_create_vector_db_success(mock_print, mock_faiss, mock_embeddings, mock_splitter, mock_loader, mock_getenv, mock_exists):

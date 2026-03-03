@@ -48,7 +48,7 @@ The Retrieval-Augmented Generation (RAG) system is built entirely locally (exclu
 ### 3.2 Vectorization (`embedding.py`)
 - Uses `langchain_community.document_loaders.DirectoryLoader` to bulk inject the scraped text.
 - `RecursiveCharacterTextSplitter` aggressively chunks the documents (chunk size: 1000, overlap: 200) ensuring that definitions aren't severed mid-sentence.
-- `OpenAIEmbeddings` convert chunks to vector space, which are pushed to a `FAISS` local database and serialized to disk (`/financial_db`).
+- `GoogleGenerativeAIEmbeddings` convert chunks to vector space, which are pushed to a `FAISS` local database and serialized to disk (`/financial_db`).
 
 ### 3.3 Retrieval (`tools.py` -> `query_knowledge_base`)
 - The `query_knowledge_base` tool wraps the FAISS similarity search.

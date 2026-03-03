@@ -1,7 +1,7 @@
 import yfinance as yf
 from langchain.tools import tool
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
+from langchain_google_genai import GoogleGenerativeAIEmbeddings
 import os
 import time
 import pandas as pd
@@ -18,7 +18,7 @@ def get_vector_db():
     if _vector_db is None:
         if os.path.exists(VECTOR_DB_PATH):
             try:
-                embeddings = OpenAIEmbeddings()
+                embeddings = GoogleGenerativeAIEmbeddings(model="gemini-embedding-001")
                 _vector_db = FAISS.load_local(VECTOR_DB_PATH, embeddings, allow_dangerous_deserialization=True)
                 print(f"--- Vector DB loaded from {VECTOR_DB_PATH} ---")
             except Exception as e:
